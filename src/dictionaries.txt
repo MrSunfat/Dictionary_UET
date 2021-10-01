@@ -1,0 +1,14 @@
+Hello	Xin chào
+Goodbye	Tạm biệt
+Call	Gọi điện
+China	Trung Quốc
+Russia Federation	Liên Bang Nga
+Mother	Mẹ
+Ogre	Quái nhân
+Fish	Con cá
+Dog	Con chó
+Puppy	Cún con
+Tiger	Con hổ
+Lion	Sư tử
+Panda	Gấu trúc
+Bear	Con gấu
