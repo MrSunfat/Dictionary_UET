@@ -1,9 +1,11 @@
+package Dictionary;
+
 public class DictionaryCommandline {
     public static void showAllWords() {
-        // lay ra tu vung tu DictionaryManagement
+        // lay ra tu vung tu Dictionary.DictionaryManagement
         Dictionary dictionary = DictionaryManagement.getDictionary();
 
-        // lay ra so luong tu vung tu DictionaryManagement
+        // lay ra so luong tu vung tu Dictionary.DictionaryManagement
         int numberOfWords = dictionary.getWords().size();
 
         System.out.printf("No\t\t| English\t\t\t\t\t| Vietnames\n");
@@ -27,7 +29,7 @@ public class DictionaryCommandline {
     }
 
     public static void main(String[] args) {
-        dictionaryBasic();
-//        dictionaryAdvanced();
+//        dictionaryBasic();
+        dictionaryAdvanced();
     }
 }

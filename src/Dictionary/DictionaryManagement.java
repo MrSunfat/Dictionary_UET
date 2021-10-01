@@ -1,3 +1,5 @@
+package Dictionary;
+
 import java.io.*;
 import java.net.URL;
 import java.util.Scanner;
@@ -15,7 +17,7 @@ public class DictionaryManagement {
         // nhap so luong tu vung
         int numberOfWords = Integer.parseInt(scanner.nextLine());
 
-        // khoi tao san kieu Word cho tat ca pt thuoc dictionary
+        // khoi tao san kieu Dictionary.Word cho tat ca pt thuoc dictionary
         dictionary = new Dictionary(numberOfWords);
 
         // nhap tu vung + nghia cua no
@@ -29,7 +31,7 @@ public class DictionaryManagement {
 
     public static void insertFromFile() {
         // lay duong dan tuong doi cua file dictionaries.txt
-        URL dictionaryURL = DictionaryManagement.class.getResource("dictionaries.txt");
+        URL dictionaryURL = DictionaryManagement.class.getResource("../dictionaries.txt");
 
         try {
             // lay dl tu dictionaries.txt ra
@@ -43,12 +45,12 @@ public class DictionaryManagement {
                 // tach tu vung, nghia
                 String[] wordsInLine = line.split("\\t");
 
-                // tao 1 Word de luu tu vung, nghia
+                // tao 1 Dictionary.Word de luu tu vung, nghia
                 Word element = new Word();
                 element.setWord_target(wordsInLine[0]);
                 element.setWord_explain(wordsInLine[1]);
 
-                // them Word vao tu dien
+                // them Dictionary.Word vao tu dien
                 dictionary.getWords().add(element);
 
                 // tiep tuc doc dong tiep theo

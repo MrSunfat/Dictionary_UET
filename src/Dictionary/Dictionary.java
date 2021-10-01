@@ -1,3 +1,5 @@
+package Dictionary;
+
 import java.util.ArrayList;
 
 public class Dictionary {
@@ -10,7 +12,7 @@ public class Dictionary {
     public Dictionary() {
     }
 
-    // Dat kieu Word cho cac pt trong words[]
+    // Dat kieu Dictionary.Word cho cac pt trong words[]
     public Dictionary(int numberOfWords) {
         for(int i = 0; i < numberOfWords; i++) {
             words.add(new Word());
