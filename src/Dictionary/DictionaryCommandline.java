@@ -25,10 +25,7 @@ public class DictionaryCommandline {
     public static void dictionaryAdvanced() {
         DictionaryManagement.insertFromFile();
         showAllWords();
-//        DictionaryManagement.dictionaryLookup();
-//        DictionaryManagement.addNewWord();
-//        DictionaryManagement.deleteWord();
-//        DictionaryManagement.replaceWord();
+        DictionaryManagement.dictionaryLookup();
     }
 
     public static void dictionarySearcher() {
@@ -55,6 +52,6 @@ public class DictionaryCommandline {
     public static void main(String[] args) {
 //        dictionaryBasic();
         dictionaryAdvanced();
-        dictionarySearcher();
+//        dictionarySearcher();
     }
 }

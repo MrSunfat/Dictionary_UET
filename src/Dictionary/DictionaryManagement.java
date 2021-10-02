@@ -46,9 +46,7 @@ public class DictionaryManagement {
                 String[] wordsInLine = line.split("\\t");
 
                 // tao 1 Dictionary.Word de luu tu vung, nghia
-                Word element = new Word();
-                element.setWord_target(wordsInLine[0]);
-                element.setWord_explain(wordsInLine[1]);
+                Word element = new Word(wordsInLine[0], wordsInLine[1]);
 
                 // them Dictionary.Word vao tu dien
                 dictionary.getWords().add(element);
@@ -102,12 +100,9 @@ public class DictionaryManagement {
 
         // neu hasExist = false => them tu vung moi
         if(!hasExist) {
-            Word newElement = new Word();
-            newElement.setWord_target(newWordTarget);
-            newElement.setWord_explain(newWordExplain);
+            Word newElement = new Word(newWordTarget, newWordExplain);
 
             dictionary.getWords().add(newElement);
-            DictionaryCommandline.showAllWords();
             System.out.println("Success !!!");
         } else {
             System.out.println("Failure !!!");
@@ -146,13 +141,15 @@ public class DictionaryManagement {
         for (int i = 0; i < dictionary.getWords().size(); i++) {
             Word element = dictionary.getWords().get(i);
             if(replaceWordTarget.equalsIgnoreCase(element.getWord_target())) {
-                Word replaceWord = new Word();
-                replaceWord.setWord_target(replaceWordTarget);
-                replaceWord.setWord_explain(replaceWordExplain);
+                Word replaceWord = new Word(replaceWordTarget, replaceWordExplain);
 
                 dictionary.getWords().set(i, replaceWord);
                 index = i;
             }
+        }
+
+        if(index == -1) {
+            System.out.println("Sorry, we couldn't find it in the dictionary !");
         }
     }
 
