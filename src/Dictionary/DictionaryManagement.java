@@ -5,7 +5,7 @@ import java.net.URL;
 import java.util.Scanner;
 
 public class DictionaryManagement {
-    private static final Scanner scanner = new Scanner(System.in);
+    public static final Scanner scanner = new Scanner(System.in);
     private static Dictionary dictionary = new Dictionary();
 
     public static Dictionary getDictionary() {
@@ -83,6 +83,81 @@ public class DictionaryManagement {
         if(!hasExist) {
             System.out.println("Sorry, we couldn't find it in the dictionary !");
         }
+    }
+
+    public static void addNewWord() {
+        System.out.printf("Please add a word target to the dictionary: ");
+        String newWordTarget = scanner.nextLine();
+        System.out.printf("Please add a word explain to the dictionary: ");
+        String newWordExplain = scanner.nextLine();
+
+        // kiem tra tu vung them vao da ton tai trong tu dien
+        boolean hasExist = false;
+        for (int i = 0; i < dictionary.getWords().size(); i++) {
+            Word element = dictionary.getWords().get(i);
+            if(newWordTarget.equalsIgnoreCase(element.getWord_target())) {
+                hasExist = true;
+            }
+        }
+
+        // neu hasExist = false => them tu vung moi
+        if(!hasExist) {
+            Word newElement = new Word();
+            newElement.setWord_target(newWordTarget);
+            newElement.setWord_explain(newWordExplain);
+
+            dictionary.getWords().add(newElement);
+            DictionaryCommandline.showAllWords();
+            System.out.println("Success !!!");
+        } else {
+            System.out.println("Failure !!!");
+
+        }
+    }
+
+    public static void deleteWord() {
+        System.out.printf("Enter the word you want to delete: ");
+        String deleteWord = scanner.nextLine();
+
+        int index = -1;
+        for (int i = 0; i < dictionary.getWords().size(); i++) {
+            Word element = dictionary.getWords().get(i);
+            if(deleteWord.equalsIgnoreCase(element.getWord_target())
+            || deleteWord.equalsIgnoreCase(element.getWord_explain())) {
+                dictionary.getWords().remove(i);
+                index = i;
+            }
+        }
+
+        if(index == -1) {
+            System.out.println("Failure !!!");
+        } else {
+            System.out.println("Success !!!");
+        }
+    }
+
+    public static void replaceWord() {
+        System.out.printf("Enter the word target you want to replace: ");
+        String replaceWordTarget = scanner.nextLine();
+        System.out.printf("Enter the word explain you want to replace: ");
+        String replaceWordExplain = scanner.nextLine();
+
+        int index = -1;
+        for (int i = 0; i < dictionary.getWords().size(); i++) {
+            Word element = dictionary.getWords().get(i);
+            if(replaceWordTarget.equalsIgnoreCase(element.getWord_target())) {
+                Word replaceWord = new Word();
+                replaceWord.setWord_target(replaceWordTarget);
+                replaceWord.setWord_explain(replaceWordExplain);
+
+                dictionary.getWords().set(i, replaceWord);
+                index = i;
+            }
+        }
+    }
+
+    public static void dictionaryExportToFile() {
+
     }
 
     public static void main(String[] args) throws IOException {

@@ -12,3 +12,31 @@ Tiger	Con hổ
 Lion	Sư tử
 Panda	Gấu trúc
 Bear	Con gấu
+*****(ing) load 	tải trọng phá hủy, tải trọng gây nứt 
+*****ed concrete section	Mặt cắt bê tông đã bị nứt
+Abraham’s cones	Khuôn hình chóp cụt để đo độ sụt bê tông
+absorption test	sự thử lực hấp thu 
+Abutment	tường chống, chân vòm; mố cầu
+Acceberated weathering	sự phong hóa tăng nhanh
+accelerated load test	sự thử chịu tải gia tăng 
+accelerated test	sự thử gia tăng
+Acceleration 	Đẩy nhanh tiến độ
+acceleration test	sự thử nghiệm gia tốc 
+Accelerator, Earlystrength admixture	Phụ gia tăng nhanh hóa cứng bê tông
+acceptance test	sự thử nghiệm thu 
+Acess to the site 	ra vào công trường
+acid-resisting concrete 	bê tông chịu axit 
+Action effect	hiệu quả hoạt động
+Action	tác động, tác dụng; sự hoạt động
+Activity schedule 	Biểu khối lượng công việc
+actual load 	tải trọng thực, tải trọng có ích 
+actual test	sự thử nghiệm khai thác, sự thử nghiệm thực 
+additional load 	tải trọng phụ thêm, tải trọng tăng thêm 
+additive test	sự xác định hàm lượng chất phụ gia 
+adhesion test	sự thử lực bám 
+Adjustable prop	[cột, thanh chống] điều chỉnh được
+Advance payment 	Tạm ứng
+aerated concrete 	bê tông xốp/ tổ ong 
+A-frame (construction)	khung chữ A (kết cấu)
+After anchoring	Sau khi neo xong cốt thép dự ứng lực
+ageing test	sự thử lão hóa 
