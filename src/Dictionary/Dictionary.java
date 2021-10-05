@@ -18,4 +18,15 @@ public class Dictionary {
             words.add(new Word());
         }
     }
+
+    public void sortWord(){
+        for (int i = 0;i<words.size();i++)
+            for (int j = i+1;j<words.size();j++)
+                if (words.get(i).getWord_target().compareTo(words.get(j).getWord_target())>0) {
+                    Word temp = words.get(i);
+                    words.set(i,words.get(j));
+                    words.set(j,temp);
+
+                }
+    }
 }

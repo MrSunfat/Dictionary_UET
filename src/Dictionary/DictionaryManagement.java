@@ -30,12 +30,9 @@ public class DictionaryManagement {
     }
 
     public static void insertFromFile() {
-        // lay duong dan tuong doi cua file dictionaries.txt
-        URL dictionaryURL = DictionaryManagement.class.getResource("../dictionaries.txt");
-
         try {
             // lay dl tu dictionaries.txt ra
-            FileInputStream fileInputStream = new FileInputStream(dictionaryURL.getPath());
+            FileInputStream fileInputStream = new FileInputStream("dictionaries.txt");
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(fileInputStream));
 
             // doc tung dong trong dictionaries.txt
@@ -44,6 +41,11 @@ public class DictionaryManagement {
             while (line != null) {
                 // tach tu vung, nghia
                 String[] wordsInLine = line.split("\\t");
+
+                wordsInLine[0] = wordsInLine[0].toLowerCase();
+                String firstString = wordsInLine[0].substring(0, 1).toUpperCase();
+                String secondSting = wordsInLine[0].substring(1, wordsInLine[0].length());
+                wordsInLine[0] = firstString + secondSting;
 
                 // tao 1 Dictionary.Word de luu tu vung, nghia
                 Word element = new Word(wordsInLine[0], wordsInLine[1]);
@@ -54,6 +56,8 @@ public class DictionaryManagement {
                 // tiep tuc doc dong tiep theo
                 line = bufferedReader.readLine();
             }
+
+            dictionary.sortWord();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -103,6 +107,7 @@ public class DictionaryManagement {
             Word newElement = new Word(newWordTarget, newWordExplain);
 
             dictionary.getWords().add(newElement);
+            dictionary.sortWord();
             System.out.println("Success !!!");
         } else {
             System.out.println("Failure !!!");
@@ -113,6 +118,8 @@ public class DictionaryManagement {
     public static void deleteWord() {
         System.out.printf("Enter the word you want to delete: ");
         String deleteWord = scanner.nextLine();
+
+        dictionary.sortWord();
 
         int index = -1;
         for (int i = 0; i < dictionary.getWords().size(); i++) {
@@ -144,6 +151,7 @@ public class DictionaryManagement {
                 Word replaceWord = new Word(replaceWordTarget, replaceWordExplain);
 
                 dictionary.getWords().set(i, replaceWord);
+                dictionary.sortWord();
                 index = i;
             }
         }
@@ -154,11 +162,27 @@ public class DictionaryManagement {
     }
 
     public static void dictionaryExportToFile() {
+        dictionary.sortWord();
+        try {
+            FileWriter fw = new FileWriter("dictionaries.txt");
+            for (int i = 0; i < dictionary.getWords().size(); i++) {
 
+                fw.write(dictionary.getWords().get(i).getWord_target() + "\t"
+                        + dictionary.getWords().get(i).getWord_explain() + "\n");
+            }
+            fw.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     public static void main(String[] args) throws IOException {
 //        insertFromCommandline();
-//        insertFromFile();
+        insertFromFile();
+        DictionaryCommandline.showAllWords();
+        addNewWord();
+        replaceWord();
+        DictionaryCommandline.showAllWords();
+        dictionaryExportToFile();
     }
 }

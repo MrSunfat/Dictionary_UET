@@ -1,0 +1,43 @@
+*****(ing) load 	tải trọng phá hủy, tải trọng gây nứt 
+*****ed concrete section	Mặt cắt bê tông đã bị nứt
+A-frame (construction)	khung chữ A (kết cấu)
+Abraham’s cones	Khuôn hình chóp cụt để đo độ sụt bê tông
+Absorption test	sự thử lực hấp thu 
+Abutment	tường chống, chân vòm; mố cầu
+Acceberated weathering	sự phong hóa tăng nhanh
+Accelerated load test	sự thử chịu tải gia tăng 
+Accelerated test	sự thử gia tăng
+Acceleration 	Đẩy nhanh tiến độ
+Acceleration test	sự thử nghiệm gia tốc 
+Accelerator, earlystrength admixture	Phụ gia tăng nhanh hóa cứng bê tông
+Acceptance test	sự thử nghiệm thu 
+Acess to the site 	ra vào công trường
+Acid-resisting concrete 	bê tông chịu axit 
+Action	tác động, tác dụng; sự hoạt động
+Action effect	hiệu quả hoạt động
+Activity schedule 	Biểu khối lượng công việc
+Actual load 	tải trọng thực, tải trọng có ích 
+Actual test	sự thử nghiệm khai thác, sự thử nghiệm thực 
+Additional load 	tải trọng phụ thêm, tải trọng tăng thêm 
+Additive test	sự xác định hàm lượng chất phụ gia 
+Adhesion test	sự thử lực bám 
+Adjustable prop	[cột, thanh chống] điều chỉnh được
+Advance payment 	Tạm ứng
+Aerated concrete 	bê tông xốp/ tổ ong 
+After anchoring	Sau khi neo xong cốt thép dự ứng lực
+Ageing test	sự thử lão hóa 
+Bear	Con gấu
+Call	Gọi điện
+Dog	Con chó
+Fish	Con cá
+Goodbye	Tạm biệt
+Hello	Nghĩa là xin chào
+Lion	Sư tử
+Mother	Má
+Ogre	Quái nhân
+Panda	Gấu trúc
+Play	Chơi
+Puppy	Cún con
+Russia federation	Liên Bang Nga
+Tiger	Con hổ
+Vietnamese	Tiếng Việt
