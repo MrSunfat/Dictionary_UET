@@ -1,0 +1,33 @@
+package Application;
+
+import Dictionary.DictionaryManagement;
+import javafx.application.Application;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
+import javafx.stage.Stage;
+
+
+public class Main extends Application {
+
+    public static void main(String[] args) {
+        launch(args);
+    }
+
+    @Override
+    public void start(Stage primaryStage){
+        try {
+            // Nap du lieu tu file vao -> dictionary
+            DictionaryManagement.insertFromFile();
+
+            Parent root = FXMLLoader.load(getClass().getResource("FXML/mainUI.fxml"));
+            Scene scene = new Scene(root);
+            scene.getStylesheets().add(getClass().getResource("CSS/styleUI.css").toExternalForm());
+            primaryStage.setTitle("Từ điển Anh - Việt");
+            primaryStage.setScene(scene);
+            primaryStage.show();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}

@@ -52,6 +52,6 @@ public class DictionaryCommandline {
     public static void main(String[] args) {
 //        dictionaryBasic();
         dictionaryAdvanced();
-//        dictionarySearcher();
+        dictionarySearcher();
     }
 }

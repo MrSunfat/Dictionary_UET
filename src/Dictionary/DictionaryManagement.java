@@ -1,11 +1,14 @@
 package Dictionary;
 
+import Application.ControllerEdit;
+import Application.ControllerMain;
+
 import java.io.*;
 import java.net.URL;
 import java.util.Scanner;
 
 public class DictionaryManagement {
-    public static final Scanner scanner = new Scanner(System.in);
+    public static Scanner scanner = new Scanner(System.in);
     private static Dictionary dictionary = new Dictionary();
 
     public static Dictionary getDictionary() {
@@ -30,12 +33,9 @@ public class DictionaryManagement {
     }
 
     public static void insertFromFile() {
-        // lay duong dan tuong doi cua file dictionaries.txt
-        URL dictionaryURL = DictionaryManagement.class.getResource("../dictionaries.txt");
-
         try {
             // lay dl tu dictionaries.txt ra
-            FileInputStream fileInputStream = new FileInputStream(dictionaryURL.getPath());
+            FileInputStream fileInputStream = new FileInputStream("dictionaries.txt");
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(fileInputStream));
 
             // doc tung dong trong dictionaries.txt
@@ -44,6 +44,13 @@ public class DictionaryManagement {
             while (line != null) {
                 // tach tu vung, nghia
                 String[] wordsInLine = line.split("\\t");
+
+                wordsInLine[0] = wordsInLine[0].split("\\/")[0].trim();
+
+                wordsInLine[0] = wordsInLine[0].toLowerCase();
+                String firstString = wordsInLine[0].substring(0, 1).toUpperCase();
+                String secondSting = wordsInLine[0].substring(1, wordsInLine[0].length());
+                wordsInLine[0] = firstString + secondSting;
 
                 // tao 1 Dictionary.Word de luu tu vung, nghia
                 Word element = new Word(wordsInLine[0], wordsInLine[1]);
@@ -54,6 +61,9 @@ public class DictionaryManagement {
                 // tiep tuc doc dong tiep theo
                 line = bufferedReader.readLine();
             }
+            Dictionary.sortWord(dictionary, 0, dictionary.getWords().size() - 1);
+            bufferedReader.close();
+            fileInputStream.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -89,9 +99,11 @@ public class DictionaryManagement {
         System.out.printf("Please add a word explain to the dictionary: ");
         String newWordExplain = scanner.nextLine();
 
+        int dictionarySize = dictionary.getWords().size();
+
         // kiem tra tu vung them vao da ton tai trong tu dien
         boolean hasExist = false;
-        for (int i = 0; i < dictionary.getWords().size(); i++) {
+        for (int i = 0; i < dictionarySize; i++) {
             Word element = dictionary.getWords().get(i);
             if(newWordTarget.equalsIgnoreCase(element.getWord_target())) {
                 hasExist = true;
@@ -103,10 +115,10 @@ public class DictionaryManagement {
             Word newElement = new Word(newWordTarget, newWordExplain);
 
             dictionary.getWords().add(newElement);
+            Dictionary.sortWord(dictionary, 0, dictionarySize - 1);
             System.out.println("Success !!!");
         } else {
             System.out.println("Failure !!!");
-
         }
     }
 
@@ -115,7 +127,8 @@ public class DictionaryManagement {
         String deleteWord = scanner.nextLine();
 
         int index = -1;
-        for (int i = 0; i < dictionary.getWords().size(); i++) {
+        int dictionarySize = dictionary.getWords().size();
+        for (int i = 0; i < dictionarySize; i++) {
             Word element = dictionary.getWords().get(i);
             if(deleteWord.equalsIgnoreCase(element.getWord_target())
             || deleteWord.equalsIgnoreCase(element.getWord_explain())) {
@@ -138,7 +151,8 @@ public class DictionaryManagement {
         String replaceWordExplain = scanner.nextLine();
 
         int index = -1;
-        for (int i = 0; i < dictionary.getWords().size(); i++) {
+        int dictionarySize = dictionary.getWords().size();
+        for (int i = 0; i < dictionarySize; i++) {
             Word element = dictionary.getWords().get(i);
             if(replaceWordTarget.equalsIgnoreCase(element.getWord_target())) {
                 Word replaceWord = new Word(replaceWordTarget, replaceWordExplain);
@@ -154,11 +168,29 @@ public class DictionaryManagement {
     }
 
     public static void dictionaryExportToFile() {
-
+        int dictionarySize = dictionary.getWords().size();
+        Dictionary.sortWord(dictionary, 0, dictionarySize - 1);
+        try {
+            FileWriter fw = new FileWriter("dictionaries.txt");
+            BufferedWriter buff = new BufferedWriter(fw);
+            for (int i = 0; i < dictionarySize; i++) {
+                buff.write( dictionary.getWords().get(i).getWord_target() + "\t"
+                        + dictionary.getWords().get(i).getWord_explain() + "\n");
+            }
+            buff.close();
+            fw.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     public static void main(String[] args) throws IOException {
 //        insertFromCommandline();
-//        insertFromFile();
+        insertFromFile();
+//        DictionaryCommandline.showAllWords();
+//        addNewWord();
+//        replaceWord();
+        DictionaryCommandline.showAllWords();
+        dictionaryExportToFile();
     }
 }

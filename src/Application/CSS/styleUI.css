@@ -1,0 +1,30 @@
+#titleHead {
+    -fx-text-fill: #fff;
+    -fx-font-size: 14px;
+    -fx-padding: 0 5px;
+}
+
+.option {
+    -fx-text-fill: #fff;
+    -fx-background-color: #033566;
+}
+.optionItem {
+    -fx-text-fill: #fff;
+}
+
+.titleDescription {
+    -fx-background-color: #0A4481;
+}
+
+#denificationTitle {
+    -fx-text-fill: #fff;
+    -fx-font-size: 18px;
+    -fx-padding: 0 5px;
+}
+#nav, #logo {
+    -fx-fill: #fff;
+}
+
+.btn {
+    -fx-background-color: transparent;
+}
