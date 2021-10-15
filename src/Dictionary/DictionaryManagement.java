@@ -30,12 +30,9 @@ public class DictionaryManagement {
     }
 
     public static void insertFromFile() {
-        // lay duong dan tuong doi cua file dictionaries.txt
-        URL dictionaryURL = DictionaryManagement.class.getResource("../dictionaries.txt");
-
         try {
             // lay dl tu dictionaries.txt ra
-            FileInputStream fileInputStream = new FileInputStream(dictionaryURL.getPath());
+            FileInputStream fileInputStream = new FileInputStream("dictionaries.txt");
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(fileInputStream));
 
             // doc tung dong trong dictionaries.txt
@@ -44,6 +41,13 @@ public class DictionaryManagement {
             while (line != null) {
                 // tach tu vung, nghia
                 String[] wordsInLine = line.split("\\t");
+
+                wordsInLine[0] = wordsInLine[0].split("\\/")[0].trim();
+
+                wordsInLine[0] = wordsInLine[0].toLowerCase();
+                String firstString = wordsInLine[0].substring(0, 1).toUpperCase();
+                String secondSting = wordsInLine[0].substring(1, wordsInLine[0].length());
+                wordsInLine[0] = firstString + secondSting;
 
                 // tao 1 Dictionary.Word de luu tu vung, nghia
                 Word element = new Word(wordsInLine[0], wordsInLine[1]);
@@ -54,6 +58,9 @@ public class DictionaryManagement {
                 // tiep tuc doc dong tiep theo
                 line = bufferedReader.readLine();
             }
+            Dictionary.sortWord(dictionary, 0, dictionary.getWords().size() - 1);
+            bufferedReader.close();
+            fileInputStream.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -154,7 +161,20 @@ public class DictionaryManagement {
     }
 
     public static void dictionaryExportToFile() {
-
+        int dictionarySize = dictionary.getWords().size();
+        Dictionary.sortWord(dictionary, 0, dictionarySize - 1);
+        try {
+            FileWriter fw = new FileWriter("dictionaries.txt");
+            BufferedWriter buff = new BufferedWriter(fw);
+            for (int i = 0; i < dictionarySize; i++) {
+                buff.write( dictionary.getWords().get(i).getWord_target() + "\t"
+                        + dictionary.getWords().get(i).getWord_explain() + "\n");
+            }
+            buff.close();
+            fw.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     public static void main(String[] args) throws IOException {

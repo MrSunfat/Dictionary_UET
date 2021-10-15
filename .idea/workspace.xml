@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="Da hoan thanh, chi thieu 5k tu o dictionaries.txt -commit" />
+    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="Da hoan thanh, chi thieu 5k tu o dictionaries.txt -commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dictionary/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dictionary/DictionaryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/DictionaryManagement.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,6 +188,7 @@
       <workItem from="1634259834271" duration="899000" />
       <workItem from="1634267454742" duration="3676000" />
       <workItem from="1634279363633" duration="21847000" />
+      <workItem from="1634306847314" duration="620000" />
     </task>
     <task id="LOCAL-00001" summary="Da hoan thanh, chi thieu 5k tu o dictionaries.txt -commit">
       <created>1634304775966</created>
