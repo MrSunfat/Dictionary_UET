@@ -101,13 +101,15 @@ public class ControllerMain implements Initializable {
                 new ChangeListener<String>() {
                     @Override
                     public void changed(ObservableValue<? extends String> observableValue, String oldValue, String newValue) {
-                        for (Word w: DictionaryManagement.getDictionary().getWords()) {
-                            if (newValue.equals(w.getWord_target())) {
-                                inputWord.setText(w.getWord_target());
-                                wordTarget.setText(w.getWord_target());
-                                wordExplain.setText(w.getWord_explain());
-                            }
-                        }
+                        Dictionary list = DictionaryManagement.getDictionary();
+                        int dictionarySize = list.getWords().size();
+
+                        // tim vi tri cua "tu goi y" trong tu dien
+                        int indexWord = Dictionary.binarySearch(list, 0, dictionarySize - 1, newValue);
+                        Word word = list.getWords().get(indexWord);
+                        inputWord.setText(word.getWord_target());
+                        wordTarget.setText(word.getWord_target());
+                        wordExplain.setText(word.getWord_explain());
                     }
                 }
         );

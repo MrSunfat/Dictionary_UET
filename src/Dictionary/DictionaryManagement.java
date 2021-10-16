@@ -42,15 +42,13 @@ public class DictionaryManagement {
                 // tach tu vung, nghia
                 String[] wordsInLine = line.split("\\t");
 
-                wordsInLine[0] = wordsInLine[0].split("\\/")[0].trim();
-
                 wordsInLine[0] = wordsInLine[0].toLowerCase();
                 String firstString = wordsInLine[0].substring(0, 1).toUpperCase();
                 String secondSting = wordsInLine[0].substring(1, wordsInLine[0].length());
                 wordsInLine[0] = firstString + secondSting;
 
                 // tao 1 Dictionary.Word de luu tu vung, nghia
-                Word element = new Word(wordsInLine[0], wordsInLine[1]);
+                Word element = new Word(wordsInLine[0], wordsInLine[1].trim());
 
                 // them Dictionary.Word vao tu dien
                 dictionary.getWords().add(element);

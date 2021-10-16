@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="Da hoan thanh, chi thieu 5k tu o dictionaries.txt -commit">
+    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="new version -commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dictionary/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/ControllerEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/ControllerEdit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/ControllerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/ControllerMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Dictionary/DictionaryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/DictionaryManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/freetts/freetts-1.2/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Các bản từ điển tham khảo/Dictionary_UET" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.122249365" />
@@ -188,7 +188,10 @@
       <workItem from="1634259834271" duration="899000" />
       <workItem from="1634267454742" duration="3676000" />
       <workItem from="1634279363633" duration="21847000" />
-      <workItem from="1634306847314" duration="620000" />
+      <workItem from="1634306847314" duration="773000" />
+      <workItem from="1634307752866" duration="195000" />
+      <workItem from="1634346646227" duration="1939000" />
+      <workItem from="1634352261492" duration="3546000" />
     </task>
     <task id="LOCAL-00001" summary="Da hoan thanh, chi thieu 5k tu o dictionaries.txt -commit">
       <created>1634304775966</created>
@@ -197,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634304775966</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new version -commit">
+      <created>1634307557451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634307557451</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +227,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Da hoan thanh, chi thieu 5k tu o dictionaries.txt -commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Da hoan thanh, chi thieu 5k tu o dictionaries.txt -commit" />
+    <MESSAGE value="new version -commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version -commit" />
   </component>
 </project>

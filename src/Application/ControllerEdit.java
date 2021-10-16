@@ -4,6 +4,8 @@ import Dictionary.Dictionary;
 import Dictionary.DictionaryManagement;
 import Dictionary.Word;
 import javafx.application.Application;
+import javafx.beans.value.ChangeListener;
+import javafx.beans.value.ObservableValue;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
@@ -80,6 +82,13 @@ public class ControllerEdit implements Initializable {
             } catch (Exception e) {
                 e.printStackTrace();
             }
+        });
+
+        tableView.getSelectionModel().selectedItemProperty().addListener((observableValue, oldValue, newValue) -> {
+            String wordTarget = newValue.getWord_target();
+
+            inputEditWord.setText(wordTarget);
+            deleteWord.setText(wordTarget);
         });
     }
 
