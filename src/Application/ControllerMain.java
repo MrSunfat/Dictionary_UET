@@ -138,8 +138,8 @@ public class ControllerMain implements Initializable {
     public void searchWord(ActionEvent actionEvent) {
         String inputWordText = trimWord(inputWord.getText());
 
-        int dictionarySize = DictionaryManagement.getDictionary().getWords().size();
         Dictionary wordList = DictionaryManagement.getDictionary();
+        int dictionarySize = wordList.getWords().size();
 
         // tim vi tri cua inputWordText trong tu dien
         int indexWord = Dictionary.binarySearch(wordList, 0, dictionarySize - 1, inputWordText);

@@ -26,6 +26,7 @@ import java.util.Locale;
 import java.util.ResourceBundle;
 
 public class ControllerEdit implements Initializable {
+    public Dictionary wordList = DictionaryManagement.getDictionary();
     private Stage stage;
     private Scene scene;
     private Parent root;
@@ -110,8 +111,7 @@ public class ControllerEdit implements Initializable {
         }
 
         // kiem tra xem tu duoc them , da ton tai trong tu dien chua
-        int dictionarySize = DictionaryManagement.getDictionary().getWords().size();
-        Dictionary wordList = DictionaryManagement.getDictionary();
+        int dictionarySize = wordList.getWords().size();
 
         // xem wordTarget da ton tai trong tu dien chua
         int indexWord = Dictionary.binarySearch(wordList, 0, dictionarySize - 1, wordTarget);
@@ -146,8 +146,7 @@ public class ControllerEdit implements Initializable {
         }
 
         // tim vi tri cua tu vung can thay doi
-        int dictionarySize = DictionaryManagement.getDictionary().getWords().size();
-        Dictionary wordList = DictionaryManagement.getDictionary();
+        int dictionarySize = wordList.getWords().size();
 
         // tim vi tri cua wordTarget trong tu dien
         int indexChange = Dictionary.binarySearch(wordList, 0, dictionarySize - 1, wordTarget);
@@ -181,8 +180,7 @@ public class ControllerEdit implements Initializable {
         }
 
         // tim vi tri cua tu vung can xoa
-        int dictionarySize = DictionaryManagement.getDictionary().getWords().size();
-        Dictionary wordList = DictionaryManagement.getDictionary();
+        int dictionarySize = wordList.getWords().size();
 
         // tim vi tri cua wordTarget trong tu dien
         int indexChange = Dictionary.binarySearch(wordList, 0, dictionarySize - 1, wordTarget);

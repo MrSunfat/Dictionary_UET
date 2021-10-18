@@ -1,1768 +1,4352 @@
-A bit	một chút, một tí
-A couple	một cặp, một đôi
-A few	một ít, một vài
-A little	nhỏ, một ít
-Abandon	bỏ, từ bỏ
-Abandoned	bị bỏ rơi, bị ruồng bỏ
-Ability	khả năng, năng lực
-Able	có năng lực, có tài
-About	khoảng, về
-Above	ở trên, lên trên
-Abroad	ở, ra nước ngoài, ngoài trời
-Absence	sự vắng mặt
-Absent	vắng mặt, nghỉ
-Absolute	tuyệt đối, hoàn toàn
-Absolutely	tuyệt đối, hoàn toàn
-Absorb	thu hút, hấp thu, lôi cuốn
-Abuse	lộng hành, lạm dụng
-Academic	thuộc học viện, ĐH, viện hàn lâm
-Accent	trọng âm, dấu trọng âm
-Accept	chấp nhận, chấp thuận
-Acceptable	có thể chấp nhận, chấp thuận
-Access	lối, cửa, đường vào
-Accident	tai nạn, rủi ro
-Accidental	tình cờ, bất ngờ
-Accidentally	tình cờ, ngẫu nhiên
-Accommodation	sự thích nghi, điều tiết
-Accompany	đi theo, đi cùng, kèm theo
-According to	theo, y theo
-Account	tài khoản, kế toán; tính toán, tính đến
-Accurate	đúng đắn, chính xác, xác đáng
-Accurately	đúng đắn, chính xác
-Accuse	tố cáo, buộc tội, kết tội
-Achieve	đạt được, dành được
-Achievement	thành tích, thành tựu
+A	một
+Abandon	từ bỏ
+Ability	có khả năng
+Able	có thể
+Abortion	sự phá thai
+About	trong khoảng
+Above	ở trên
+Abroad	ở nước ngoài
+Absence	vắng mặt
+Absolute	tuyệt đối
+Absolutely	chắc chắn rồi
+Absorb	hấp thụ
+Abstract	trừu tượng
+Abuse	lạm dụng
+Academic	học tập
+Accelerate	đẩy nhanh
+Accent	giọng điệu
+Accept	Chấp nhận
+Acceptable	chấp nhận được
+Acceptance	chấp thuận
+Access	truy cập
+Accessible	có thể truy cập
+Accident	Tai nạn
+Accommodate	chứa
+Accompany	đi kèm
+Accomplish	hoàn thành
+Accomplishment	hoàn thành
+According	theo
+Account	tài khoản
+Accountability	trách nhiệm giải trình
+Accounting	kế toán
+Accuracy	tính chính xác
+Accurate	chính xác
+Accurately	chính xác
+Accusation	tố cáo
+Accuse	tố cáo
+Achieve	Hoàn thành
+Achievement	thành tích
 Acid	axit
-Acknowledge	công nhận, thừa nhận
-Acquire	dành được, đạt được, kiếm được
-Across	qua, ngang qua
-Act	hành động, hành vi, cử chỉ, đối xử
-Action	hành động, hành vi, tác động
-Active	tích cực hoạt động, nhanh nhẹn
-Actively	năng động
-Activity	hoạt động
-Actor, actress	/'æktris/; diễn viên
-Actual	thực tế, có thật
-Actually	hiện nay, hiện tại
-Adapt	tra, lắp vào
-Add	cộng, thêm vào
-Addition	tính cộng, phép cộng
-Additional	thêm vào, tăng thêm
-Address	địa chỉ, đề địa chỉ
-Adequate	đầy, đầy đủ
-Adequately	tương xứng, thỏa đáng
-Adjust	sửa lại cho đúng, điều chỉnh
-Admiration	sự khâm phục,người kp, thán phục
-Admire	khâm phục, thán phục
-Admit	nhận vào, cho vào, kết hợp
-Adopt	nhận làm con nuôi, bố mẹ nuôi
-Adult	người lớn, người trưởng thành; trưởng thành
-Advance	sự tiến bộ, tiến lên; đưa lên, đề xuất
-Advanced	tiên tiến, tiến bộ, cấp cao
-Advantage	sự thuận lợi, lợi ích, lợi thế
-Adventure	sự phiêu lưu, mạo hiểm
-Advertise	báo cho biết, báo cho biết trước
-Advertisement	quảng cáo
-Advertising	sự quảng cáo, nghề quảng cáo
-Advice	lời khuyên, lời chỉ bảo
-Advise	khuyên, khuyên bảo, răn bảo
-Affair	việc
-Affect	làm ảnh hưởng, tác động đến
-Affection	tình cảm, sự yêu mến
-Afford	có thể, có đủ khả năng, điều kiện (làm gì)
-Afraid	sợ, sợ hãi, hoảng sợ
-After	sau, đằng sau, sau khi
+Acknowledge	công nhận
+Acquire	có được, thu được
+Acquisition	mua lại
+Act	hành động
+Action	hoạt động
+Active	đang hoạt động
+Actively	tích cực
+Activist	nhà hoạt động
+Activity	Hoạt động
+Actor	diễn viên
+Actress	nữ diễn viên
+Actual	thực tế
+Actually	thực ra
+Ad	quảng cáo
+Adapt	phỏng theo
+Add	thêm vào
+Added	thêm
+Addition	thêm vào
+Additional	bổ sung
+Address	địa chỉ nhà
+Adequate	đầy đủ
+Adjust	điều chỉnh
+Adjustment	điều chỉnh
+Administer	quản lý
+Administration	quản trị
+Administrative	hành chính
+Administrator	người quản lý
+Admire	ngưỡng mộ
+Admission	nhận vào
+Admit	thừa nhận
+Adolescent	thanh niên
+Adopt	thông qua
+Adoption	nhận con nuôi
+Adult	người lớn
+Advance	nâng cao
+Advanced	nâng cao
+Advantage	lợi thế
+Adventure	cuộc phiêu lưu
+Advertising	quảng cáo
+Advice	khuyên bảo
+Advise	khuyên nhủ
+Adviser	cố vấn
+Advocate	biện hộ
+Aesthetic	thẩm mỹ
+Affair	chuyện
+Affect	có ảnh hưởng đến
+Afford	đủ khả năng
+Afraid	sợ
+African	Châu Phi
+African-american	Người Mỹ gốc Phi
+After	sau
 Afternoon	buổi chiều
-Afterwards	sau này, về sau, rồi thì, sau đấy
-Again	lại, nữa, lần nữa
-Against	chống lại, phản đối
-Age	tuổi
-Aged	già đi (v)
-Agency	tác dụng, lực; môi giới, trung gian
-Agent	đại lý, tác nhân
-Aggressive	xâm lược, hung hăng (US: xông xáo)
-Ago	trước đây
-Agree	đồng ý, tán thành
-Agreement	sự đồng ý, tán thành; hiệp định, hợp đồng
-Ahead	trước, về phía trước
-Aid	sự giúp đỡ; thêm vào, phụ vào
-Aim	sự nhắm (bắn), mục tiêu, ý định; nhắm, tập trung, hướng vào
-Air	không khí, bầu không khí, không gian
-Aircraft	máy bay, khí cầu
-Airport	sân bay, phi trường
-Alarm	báo động, báo nguy
-Alarmed	báo động
-Alarming	làm lo sợ, làm hốt hoảng, làm sợ hãi
-Alcohol	rượu cồn
-Alcoholic	rượu; người nghiện rượu
-Alive	sống, vẫn còn sống, còn tồn tại
-All	tất cả
-All right	tốt, ổn, khỏe mạnh; được
-Allied	liên minh, đồng minh, thông gia
-Allow	cho phép, để cho
-Ally	nước đồng minh, liên minh; liên kết, kết thông gia
-Almost	hầu như, gần như
-Alone	cô đơn, một mình
-Along	dọc theo, theo; theo chiều dài, suốt theo
-Alongside	sát cạnh, kế bên, dọc theo
-Aloud	lớn tiếng, to tiếng
-Alphabet	bảng chữ cái, bước đầu, điều cơ bản
-Alphabetical	thuộc bảng chứ cái
-Alphabetically	theo thứ tự abc
-Already	đã, rồi, đã… rồi
-Also	cũng, cũng vậy, cũng thế
-Alter	thay đổi, biến đổi, sửa đổi
-Alternative	sự lựa chọn; lựa chọn
-Alternatively	như một sự lựa chọn
-Although	mặc dù, dẫu cho
-Altogether	hoàn toàn, hầu như; nói chung
+Afterward	sau đó
+Again	lần nữa
+Against	chống lại
+Age	tuổi tác
+Agency	đại lý
+Agenda	chương trình nghị sự
+Agent	đặc vụ
+Aggression	Hiếu chiến
+Aggressive	xâm lược
+Ago	trước
+Agree	đồng ý
+Agreement	thỏa thuận
+Agricultural	nông nghiệp
+Agriculture	nông nghiệp
+Ah	ah
+Ahead	phía trước
+Aid	viện trợ
+Aide	trợ lý
+Aids	AIDS (bệnh lây nhiễm qua đường tình dục)
+Aim	mục đích
+Air	không khí
+Aircraft	phi cơ
+Airline	hãng hàng không
+Airplane	Máy bay
+Airport	sân bay
+Aisle	lối đi
+Alarm	báo thức
+Album	album
+Alcohol	rượu
+Alien	người ngoài hành tinh
+Alike	như nhau
+Alive	sống sót
+All	tất cả các
+Allegation	cáo buộc
+Alleged	cáo buộc
+Allegedly	bị cáo buộc
+Alley	hẻm
+Alliance	liên minh
+Allow	cho phép
+Ally	đồng minh
+Almost	hầu hết
+Alone	một mình
+Along	dọc theo
+Alongside	bên cạnh
+Already	đã
+Also	cũng thế
+Alter	thay đổi
+Alternative	thay thế
+Although	mặc dù
+Altogether	hoàn toàn
+Aluminum	nhôm
 Always	luôn luôn
-Amaze	làm ngạc nhiên, làm sửng sốt
-Amazed	kinh ngạc, sửng sốt
-Amazing	kinh ngạc, sửng sốt
-Ambition	hoài bão, khát vọng
-Ambulance	xe cứu thương, xe cấp cứu
-Among	giữa, ở giữa
-Amount	số lượng, số nhiều; lên tới (money)
-Amuse	làm cho vui, thích, làm buồn cười
-Amused	vui thích
-Amusing	vui thích
-Analyse	phân tích
-Analysis	sự phân tích
-Ancient	xưa, cổ
+Am	là
+Amazing	kinh ngạc
+Ambassador	đại sứ
+Ambition	tham vọng
+Ambitious	đầy tham vọng
+Amendment	sửa đổi
+American	Người Mỹ
+Amid	giữa
+Among	trong số
+Amount	số lượng
+Analysis	phân tích
+Analyst	nhà phân tích
+Analyze	phân tích
+Ancestor	tổ tiên
+Ancient	xưa
 And	và
-Anger	sự tức giận, sự giận dữ
+And/or	và / hoặc
+Angel	Thiên thần
+Anger	Sự phẫn nộ
 Angle	góc
-Angrily	tức giận, giận dữ
-Angry	giận, tức giận
-Animal	động vật, thú vật
-Ankle	mắt cá chân
-Anniversary	ngày, lễ kỉ niệm
-Announce	báo, thông báo
-Annoy	chọc tức, làm bực mình; làm phiền, quẫy nhiễu
-Annoyed	bị khó chịu, bực mình, bị quấy rầy
-Annoying	chọc tức, làm bực mình; làm phiền, quẫy nhiễu
-Annual	hàng năm, từng năm
-Annually	hàng năm, từng năm
+Angry	bực bội
+Animal	thú vật
+Ankle	mắt cá
+Anniversary	ngày kỷ niệm
+Announce	tuyên bố
+Announcement	thông báo
+Annual	hàng năm
+Annually	hàng năm
+Anonymous	vô danh
 Another	khác
-Answer	sự trả lời; trả lời
-Anticipate	thấy trước, chặn trước, lường trước
-Anti–	chống lại
-Anxiety	mối lo âu, sự lo lắng
-Anxious	lo âu, lo lắng, băn khoăn
-Anxiously	lo âu, lo lắng, băn khoăn
-Any	một người, vật nào đó; bất cứ; một chút nào, tí nào
-Anyone	người nào, bất cứ ai
-Anything	việc gì, vật gì; bất cứ việc gì, vật gì
-Anyway	thế nào cũng được, dù sao chăng nữa
-Anywhere	bất cứ chỗ nào, bất cứ nơi đâu
-Apart	về một bên, qua một bên
-Apart from	ngoài… ra
-Apart from	ngoài…ra
-Apartment	căn phòng, căn buồng
-Apologize	xin lỗi, tạ lỗi
-Apparent	rõ ràng, rành mạch; bề ngoài, có vẻ
-Apparently	nhìn bên ngoài, hình như
-Appeal	sự kêu gọi, lời kêu gọi; kêu gọi, cầu khẩn
-Appear	xuất hiện, hiện ra, trình diện
-Appearance	sự xuất hiện, sự trình diện
-Apple	quả táo
-Application	sự gắn vào, vật gắn vào; sự chuyên cần, chuyên tâm
-Apply	gắn vào, ghép vào, áp dụng vào
-Appoint	bổ nhiệm, chỉ định, chọn
-Appointment	sự bổ nhiệm, người được bổ nhiệm
-Appreciate	thấy rõ; nhận thức
-Approach	đến gần, lại gần; sự đến gần, sự lại gần
-Appropriate	thích hợp, thích đáng
-Approval	sự tán thành, đồng ý, sự chấp thuận
-Approve	tán thành, đồng ý, chấp thuận
-Approving	tán thành, đồng ý, chấp thuận
-Approximate	giống với, giống hệt với
-Approximately	khoảng chừng, độ chừng
-April	tháng Tư
-Area	diện tích, bề mặt
-Argue	chứng tỏ, chỉ rõ
-Argument	lý lẽ
-Arise	xuất hiện, nảy ra, nảy sinh ra
-Arm	cánh tay; vũ trang, trang bị (vũ khí)
-Armed	vũ trang
-Arms	vũ khí, binh giới, binh khí
+Answer	câu trả lời
+Anticipate	đoán trước
+Anxiety	sự lo ngại
+Anxious	lo lắng
+Any	bất kì
+Anybody	bất kỳ ai
+Anymore	nữa không
+Anyone	bất kỳ ai
+Anything	bất cứ điều gì
+Anyway	dù sao
+Anywhere	ở đâu
+Apart	xa nhau
+Apart	xa nhau
+Apartment	căn hộ, chung cư
+Apologize	xin lỗi
+Apology	xin lỗi
+Apparent	rõ ràng
+Apparently	dường như
+Appeal	kháng cáo
+Appear	xuất hiện
+Appearance	xuất hiện
+Apple	táo
+Application	ứng dụng
+Apply	ứng dụng
+Appoint	bổ nhiệm
+Appointment	cuộc hẹn
+Appreciate	đánh giá
+Appreciation	sự đánh giá
+Approach	tiếp cận
+Appropriate	thích hợp
+Approval	sự chấp thuận
+Approve	tán thành
+Approximately	xấp xỉ
+Arab	Ả-rập
+Architect	kiến trúc sư
+Architecture	kiến trúc
+Area	khu vực
+Arena	đấu trường
+Argue	tranh luận
+Argument	tranh luận
+Arise	nảy sinh
+Arm	cánh tay
+Armed	trang bị
 Army	quân đội
-Around	xung quanh, vòng quanh
-Arrange	sắp xếp, sắp đặt, sửa soạn
-Arrangement	sự sắp xếp, sắp đặt, sự sửa soạn
-Arrest	bắt giữ, sự bắt giữ
-Arrival	sự đến, sự tới nơi
-Arrive	đến, tới nơi
-Arrow	tên, mũi tên
-Art	nghệ thuật, mỹ thuật
-Article	bài báo, đề mục
+Around	xung quanh
+Arrange	sắp xếp
+Arrangement	sắp xếp
+Array	mảng
+Arrest	bắt giữ
+Arrival	sự đến
+Arrive	đến nơi
+Arrow	mũi tên
+Art	nghệ thuật
+Article	bài báo
+Articulate	khớp nối
+Artifact	đồ tạo tác
 Artificial	nhân tạo
-Artificially	nhân tạo
-Artist	nghệ sĩ
-Artistic	thuộc nghệ thuật, thuộc mỹ thuật
-As	như (as you know…)
-As soon as	ngay khi
-As well	cũng, cũng như
-Ashamed	ngượng, xấu hổ
-Aside	về một bên, sang một bên
-Aside from	ngoài ra, trừ ra
+Artist	họa sĩ
+Artistic	nghệ thuật
+As	như
+Ash	tro
+Asian	Châu Á
+Aside	qua một bên
 Ask	hỏi
-Asleep	ngủ, đang ngủ
-Aspect	vẻ bề ngoài, diện mạo
-Assist	giúp, giúp đỡ; tham dự, có mặt
-Assistance	sự giúp đỡ
-Assistant	người giúp đỡ, người phụ tá; giúp đỡ
-Associate	kết giao, liên kết, kết hợp, cho cộng tác
-Associated with	liên kết với
-Association	sự kết hợp, sự liên kết
-Assume	mang, khoác, có, lấy (cái vẻ, tính chất…)
-Assure	đảm bảo, cam đoan
-At first	trực tiếp
-At least	ít ra, ít nhất, chí ít
-Atmosphere	khí quyển
-Atom	nguyên tử
-Attach	gắn, dán, trói, buộc
-Attached	gắn bó
-Attack	sự tấn công, sự công kích; tấn công, công kích
-Attempt	sự cố gắng, sự thử; cố gắng, thử
-Attempted	cố gắng, thử
-Attend	dự, có mặt
-Attention	sự chú ý
-Attitude	thái độ, quan điểm
-Attorney	người được ủy quyền
-Attract	hút; thu hút, hấp dẫn
-Attraction	sự hút, sức hút
-Attractive	hút, thu hút, có duyên, lôi cuốn
-Audience	thính, khan giả
-August	tháng Tám
-Aunt	cô, dì
+Asleep	ngủ
+Aspect	khía cạnh
+Ass	mông
+Assault	tấn công
+Assemble	tập hợp
+Assembly	hội,, tổ hợp
+Assert	khẳng định
+Assess	đánh giá
+Assessment	thẩm định, lượng định, đánh giá
+Asset	tài sản
+Assign	chỉ định
+Assignment	nhiệm vụ
+Assist	hỗ trợ
+Assistance	hỗ trợ
+Assistant	phụ tá
+Associate	liên kết
+Associated	liên kết
+Association	hiệp hội
+Assume	giả định
+Assumption	giả thiết
+Assure	cam đoan
+Astronomer	nhà thiên văn học
+At	tại
+Athlete	lực sĩ
+Athletic	Khỏe mạnh
+Atmosphere	không khí
+Atop	trên
+Attach	đính kèm
+Attack	tấn công
+Attempt	cố gắng
+Attend	tham gia
+Attendance	sự tham dự
+Attention	chú ý
+Attitude	Thái độ
+Attorney	luật sư
+Attract	thu hút
+Attraction	sức hút
+Attractive	hấp dẫn
+Attribute	thuộc tính
+Auction	bán đấu giá
+Audience	thính giả
+Aunt	cô dì
 Author	tác giả
-Authority	uy quyền, quyền lực
+Authority	thẩm quyền
+Authorize	cho phép
+Auto	Tự động
 Automatic	tự động
-Automatically	một cách tự động
-Autumn	mùa thu (US: mùa thu là fall)
-Available	có thể dùng được, có giá trị, hiệu lực
-Average	trung bình, số trung bình, mức trung bình
-Avoid	tránh, tránh xa
-Awake	đánh thức, làm thức dậy
-Award	phần thưởng; tặng, thưởng
-Aware	biết, nhận thức, nhận thức thấy
-Away	xa, xa cách, rời xa, đi xa
-Awful	oai nghiêm, dễ sợ
-Awfully	tàn khốc, khủng khiếp
-Awkward	vụng về, lung túng
-Awkwardly	vụng về, lung túng
-Back	lưng, sau, về phía sau, trở lại
-Background	phía sau; nền
-Backward	về phía sau, lùi lại
-Backwards	quay lại
+Automatically	tự động
+Automobile	ôtô
+Autonomy	tự trị
+Availability	khả dụng
+Available	có sẵn
+Average	Trung bình cộng
+Avoid	tránh
+Await	chờ đợi
+Awake	thức tỉnh
+Award	giải thưởng
+Aware	ý thức
+Awareness	nhận thức
+Away	xa
+Awful	kinh khủng
+Baby	đứa bé
+Back	trở lại
+Background	lý lịch
+Backyard	sân sau
 Bacteria	vi khuẩn
-Bad	xấu, tồi
-Badly	xấu, tồi
-Bad–tempered	xấu tính, dễ nổi cáu
-Bag	bao, túi, cặp xách
-Baggage	hành lý
-Bake	nung, nướng bằng lò
-Balance	cái cân; làm cho cân bằng, tương xứng
-Ball	quả bóng
-Ban	cấm, cấm chỉ; sự cấm
-Band	băng, đai, nẹp
-Bandage	dải băng; băng bó
-Bank	bờ (sông…) , đê
-Bar	quán bán rượu
-Bargain	sự mặc cả, sự giao kèo mua bán
-Barrier	đặt chướng ngại vật
-Base	cơ sở, cơ bản, nền móng; đặt tên, đặt cơ sở trên cái gì
-Based on	dựa trên
-Basic	cơ bản, cơ sở
-Basically	cơ bản, về cơ bản
-Basis	nền tảng, cơ sở
-Bath	sự tắm
-Bathroom	buồng tắm, nhà vệ sinh
-Battery	pin, ắc quy
-Battle	trận đánh, chiến thuật
-Bay	gian (nhà), nhịp (cầu), chuồng (ngựa); bays: vòng nguyệt quế
-Be called	được gọi, bị gọi
-Be going to	sắp sửa, có ý định
-Be sick	bị ốm
-Beach	bãi biển
-Beak	mỏ chim
-Bear	mang, cầm, vác, đeo, ôm
+Bad	xấu
+Badly	tệ
+Bag	túi
+Bake	nướng, hấp hoặc hầm
+Balance	cân đối
+Balanced	cân bằng
+Ball	trái bóng
+Balloon	quả bóng bay
+Ballot	phiếu
+Ban	lệnh cấm
+Banana	trái chuối
+Band	ban nhạc
+Bank	ngân hàng
+Banker	chủ ngân hàng
+Banking	ngân hàng
+Bankruptcy	phá sản
+Bar	quán ba
+Bare	trần
+Barely	vừa đủ
+Barn	chuồng trại
+Barrel	thùng
+Barrier	rào chắn
+Base	căn cứ
+Baseball	bóng chày
+Basement	tầng hầm
+Basic	căn bản
+Basically	về cơ bản
+Basis	nền tảng
+Basket	cái rổ
+Basketball	bóng rổ
+Bat	gậy
+Bath	bồn tắm
+Bathroom	phòng tắm
+Battery	ắc quy
+Battle	chiến đấu
+Bay	bay
+Be	được
+Beach	bờ biển
+Beam	chùm tia
+Bean	hạt đậu
+Bear	chịu
+Bear	chịu
 Beard	râu
-Beat	tiếng đập, sự đập; đánh đập, đấm
+Beast	quái thú
+Beat	tiết tấu
 Beautiful	đẹp
-Beautifully	tốt đẹp, đáng hài lòng
-Beauty	vẻ đẹp, cái đẹp; người đẹp
-Because	bởi vì, vì
-Because of	vì, do bởi
-Become	trở thành, trở nên
-Bed	cái giường
+Beauty	sắc đẹp, vẻ đẹp
+Because	bởi vì
+Become	trở nên
+Bed	Giường
 Bedroom	phòng ngủ
+Bee	con ong
 Beef	thịt bò
-Beer	rượu bia
-Before	trước, đằng trước
-Begin	bắt đầu, khởi đầu
-Beginning	phần đầu, lúc bắt đầu, lúc khởi đầu
-Behalf	sự thay mặt
-Behave	đối xử, ăn ở, cư xử
-Behaviour	hành vi, ứng xử
-Behind	sau, ở đằng sau
-Belief	lòng tin, đức tin, sự tin tưởng
-Believe	tin, tin tưởng
-Bell	cái chuông, tiếng chuông
-Belong	thuộc về, của, thuộc quyền sở hữu
-Below	ở dưới, dưới thấp, phía dưới
-Belt	dây lưng, thắt lưng
-Bend	chỗ rẽ, chỗ uốn; khuỷu tay; cúi xuống, uốn cong
-Beneath	ở dưới, dưới thấp
-Benefit	lợi, lợi ích; giúp ích, làm lợi cho
-Bent	khiếu, sở thích, khuynh hướng
-Beside	bên cạnh, so với
-Bet	đánh cuộc, cá cược; sự đánh cuộc
-Better, best	/best/; tốt hơn, tốt nhất
-Betting	sự đánh cuộc
-Between	giữa, ở giữa
-Beyond	ở xa, phía bên kia
-Bicycle	xe đạp
-Bid	đặt giá, trả giá; sự đặt giá, sự trả giá
-Big	to, lớn
-Bill	hóa đơn, giấy bạc
-Bin	thùng, thùng đựng rượu
-Biology	sinh vật học
+Beer	bia
+Before	trước
+Beg	ăn xin
+Begin	bắt đầu
+Beginning	bắt đầu
+Behalf	thay mặt
+Behave	hành xử
+Behavior	hành vi
+Behavioral	hành vi
+Behind	phía sau
+Being	đang
+Belief	niềm tin
+Believe	tin
+Bell	chuông
+Belly	bụng
+Belong	thuộc về
+Below	phía dưới
+Belt	thắt lưng
+Bench	Băng ghế
+Bend	bẻ cong
+Beneath	ở trên
+Benefit	lợi ích
+Beside	bên cạnh
+Besides	ngoài ra
+Best	tốt
+Bet	cá cược
+Better	tốt hơn
+Between	giữa
+Beyond	vượt ra ngoài
+Bias	sự thiên vị
+Bible	Kinh Thánh
+Bicycle	Xe đạp
+Bid	BID
+Big	lớn
+Bike	xe đạp
+Bill	hóa đơn
+Billion	tỷ
+Bind	trói buộc
+Biography	tiểu sử
+Biological	sinh học
+Biology	sinh học
 Bird	chim
-Birth	sự ra đời, sự sinh đẻ
-Birthday	ngày sinh, sinh nhật
-Biscuit	bánh quy
-Bit	miếng, mảnh
-Bite	cắn, ngoạm; sự cắn, sự ngoạm
-Bitter	đắng; đắng cay, chua xót
-Bitterly	đắng, đắng cay, chua xót
-Black	đen; màu đen
-Blade	lưỡi (dao, kiếm); lá (cỏ, cây); mái (chèo); cánh (chong chóng)
-Blame	khiển trách, mắng trách; sự khiển trách, sự mắng trách
-Blank	trống, để trắng; sự trống rỗng
-Blankly	ngây ra, không có thần
-Blind	đui, mù
-Block	khối, tảng (đá); làm ngăn cản, ngăn chặn
-Blonde	hoe vàng, mái tóc hoe vàng
-Blood	máu, huyết; sự tàn sát, chem giết
-Blow	nở hoa; sự nở hoa
-Blue	xanh, màu xanh
-Board	tấm ván; lát ván, lót ván
-Boat	tàu, thuyền
-Body	thân thể, thân xác
-Boil	sôi, luộc
-Bomb	quả bom; oánh bom, thả bom
-Bone	xương
-Book	sách; ghi chép
-Boot	giày ống
-Border	bờ, mép, vỉa, lề (đường)
-Bore	buồn chán, buồn tẻ
-Bored	buồn chán
-Boring	buồn chán
-Born: be born	sinh, đẻ
-Borrow	vay, mượn
-Boss	ông chủ, thủ trưởng
+Birth	Sinh
+Birthday	sinh nhật
+Bishop	giám mục
+Bit	bi
+Bite	cắn
+Bitter	đắng
+Black	đen
+Blade	lưỡi
+Blame	khiển trách
+Blank	chỗ trống
+Blanket	cái mền
+Blast	vụ nổ
+Blend	trộn
+Bless	ban phước
+Blessing	phước lành
+Blind	mù quáng
+Blink	chớp mắt
+Block	khối
+Blond	tóc vàng
+Blood	máu
+Bloody	dính máu
+Blow	thổi
+Blue	màu xanh da trời
+Board	bảng
+Boast	khoe khoan
+Boat	thuyền
+Body	thân hình
+Boil	sôi lên
+Bold	Dũng cảm
+Bolt	chớp
+Bomb	quả bom
+Bombing	ném bom
+Bond	liên kết
+Bone	khúc xương
+Bonus	thưởng
+Book	sách
+Boom	sự bùng nổ
+Boost	tăng
+Boot	khởi động
+Booth	gian hàng
+Border	biên giới
+Boring	nhàm chán
+Born	sinh ra
+Borrow	vay
+Boss	trùm
 Both	cả hai
-Bother	làm phiền, quấy rầy, làm bực mình
-Bottle	chai, lọ
-Bottom	phần dưới cùng, thấp nhất; cuối, cuối cùng
-Bound	nhất định, chắc chắn
-Bowl	cái bát
-Box	hộp, thùng
-Boy	con trai, thiếu niên
+Bother	làm phiền
+Bottle	chai
+Bottom	đáy
+Bounce	tung lên
+Boundary	ranh giới
+Bow	cây cung
+Bowl	bát
+Box	cái hộp
+Boy	con trai
 Boyfriend	bạn trai
-Brain	óc não; đầu óc, trí não
-Branch	ngành; nhành cây, nhánh song, ngả đường
-Brand	nhãn (hàng hóa)
-Brave	gan dạ, can đảm
+Brain	óc
+Brake	phanh
+Branch	chi nhánh
+Brand	nhãn hiệu
+Brave	can đảm
 Bread	bánh mỳ
-Break	bẻ gãy, đập vỡ; sự gãy, sự vỡ
-Breakfast	bữa điểm tâm, bữa sáng
-Breast	ngực, vú
-Breath	hơi thở, hơi
-Breathe	hít, thở
-Breathing	sự hô hấp, sự thở
-Breed	nuôi dưỡng, chăm sóc, giáo dục; sinh đẻ; nòi giống
+Break	phá vỡ
+Breakfast	bữa ăn sáng
+Breast	nhũ hoa
+Breath	hơi thở
+Breathe	thở
+Breathing	thở
+Breeze	khoe khoang
 Brick	gạch
-Bridge	cái cầu
-Brief	ngắn, gọn, vắn tắt
-Briefly	ngắn, gọn, vắn tắt, tóm tắt
-Bright	sáng, sáng chói
-Brightly	sáng chói, tươi
-Brilliant	tỏa sáng, rực rỡ, chói lọi
-Bring	mang, cầm , xách lại
-Broad	rộng
-Broadcast	tung ra khắp nơi,truyền rộng rãi; phát thanh, quảng bá
-Broadly	rộng, rộng rãi
-Broken	bị gãy, bị vỡ
-Brother	anh, em trai
-Brown	nâu, màu nâu
-Brush	bàn chải; chải, quét
-Bubble	bong bóng, bọt, tăm
+Bride	cô dâu
+Bridge	cầu
+Brief	ngắn gọn
+Briefly	ngắn gọn
+Bright	sáng
+Brilliant	rực rỡ
+Bring	mang đến
+British	người Anh
+Broad	rộng lớn
+Broadcast	phát sóng
+Broken	bị hỏng
+Broker	người môi giới
+Bronze	đồng
+Brother	em trai
+Brown	nâu
+Brush	chải
+Brutal	tàn bạo
+Bubble	bong bóng
+Buck	buck
+Bucket	cái xô
+Buddy	Bạn bè
 Budget	ngân sách
+Bug	lỗi
 Build	xây dựng
-Building	sự xây dựng, công trình xây dựng; tòa nhà binđinh
-Bullet	đạn (súng trường, súng lục)
-Bunch	búi, chùm, bó, cụm, buồng; bầy, đàn (AME)
-Burn	đốt, đốt cháy, thắp, nung, thiêu
-Burnt	bị đốt, bị cháy, khê; rám nắng, sạm (da)
-Burst	nổ, nổ tung (bom, đạn); nổ, vỡ (bong bóng); háo hức
-Bury	chôn cất, mai táng
+Builder	người xây dựng
+Building	Tòa nhà
+Bulb	bóng đèn
+Bulk	số lượng lớn
+Bull	con bò
+Bullet	đạn
+Bunch	bó
+Burden	gánh nặng
+Bureau	phòng làm việc
+Burn	đốt cháy
+Burning	đốt
+Burst	nổ
+Bury	chôn
 Bus	xe buýt
-Bush	bụi cây, bụi rậm
-Business	việc buôn bán, thương mại, kinh doanh
-Businessman, businesswoman	thương nhân
-Busy	bận, bận rộn
+Bush	cây bụi
+Business	kinh doanh
+Businessman	doanh nhân
+Busy	bận
 But	nhưng
+Butt	mông
 Butter	bơ
-Button	cái nút, cái khuy, cúc
+Butterfly	Con bướm
+Button	nút
 Buy	mua
 Buyer	người mua
-By	bởi, bằng
-By accident	do tai nạn, không cố ý
-By means of	bằng phương tiện
-Bye exclamation	tạm biệt
-Cabinet	tủ có nhiều ngăn đựng đồ
-Cable	dây cáp
+By	bởi
+Crack	bẻ khóa
+Cab	taxi
+Cabin	khoang cabin
+Cabinet	buồng
+Cable	cáp
+Cage	cái lồng
 Cake	bánh ngọt
 Calculate	tính toán
-Calculation	sự tính toán
-Call	gọi; tiếng kêu, tiếng gọi
-Calm	yên lặng, làm dịu đi; sự yên lặng, sự êm ả
-Calmly	yên lặng, êm ả; bình tĩnh, điềm tĩnh
-Camera	máy ảnh
-Camp	trại, chỗ cắm trại; cắm trại, hạ trại
-Campaign	chiến dịch, cuộc vận động
-Camping	sự cắm trại
-Can modal	có thể; nhà tù, nhà giam, bình, ca đựng
-Cancel	hủy bỏ, xóa bỏ
-Cancer	bệnh ung thư
-Candidate	người ứng cử, thí sinh, người dự thi
-Candy	kẹo
-Cannot	không thể
-Cap	mũ lưỡi trai, mũ vải
-Capable	có tài, có năng lực; có khả năng, cả gan
-Capacity	năng lực, khả năng tiếp thu, năng suất
-Capital	thủ đô, tiền vốn; chủ yếu, chính yếu, cơ bản
-Captain	người cầm đầu, người chỉ huy, thủ lĩnh
-Capture	bắt giữ, bắt; sự bắt giữ, sự bị bắt
+Calculation	phép tính
+Calendar	lịch
+Call	gọi
+Calm	điềm tĩnh
+Camera	Máy ảnh
+Camp	trại
+Campaign	chiến dịch
+Campus	khuôn viên
+Can	có thể
+Canadian	người Canada
+Cancel	hủy bỏ
+Cancer	ung thư
+Candidate	ứng viên
+Candle	nến
+Candy	Cục kẹo
+Canvas	Tranh sơn dầu
+Cap	mũ lưỡi trai
+Capability	khả năng
+Capable	có khả năng
+Capacity	sức chứa
+Capital	thủ đô
+Captain	đội trưởng
+Capture	nắm bắt
 Car	xe hơi
-Card	thẻ, thiếp
-Cardboard	bìa cứng, các tông
-Care	sự chăm sóc, chăm nom; chăm sóc
-Care for	trông nom, chăm sóc
-Career	nghề nghiệp, sự nghiệp
-Careful	cẩn thận, cẩn trọng, biết giữ gìn
-Carefully	cẩn thận, chu đáo
-Careless	sơ suất, cầu thả
-Carelessly	cẩu thả, bất cẩn
-Carpet	tấm thảm, thảm (cỏ)
-Carrot	củ cà rốt
-Carry	mang, vác, khuân chở
-Case	vỏ, ngăn, túi
-Cash	tiền, tiền mặt
-Cast	quăng, ném, thả, đánh gục; sự quăng, sự ném (lưới), sự thả (neo)
-Castle	thành trì, thành quách
+Carbohydrate	carbohydrate
+Carbon	carbon
+Card	Thẻ
+Care	quan tâm
+Career	nghề nghiệp
+Careful	cẩn thận
+Carefully	cẩn thận
+Cargo	hàng hóa
+Carpet	thảm
+Carrier	vận chuyển
+Carrot	cà rốt
+Carry	mang
+Cart	xe đẩy
+Cartoon	hoạt hình
+Carve	khắc chạm
+Case	trường hợp
+Cash	tiền mặt
+Casino	sòng bạc(sòng casino)
+Cast	dàn diễn viên
+Casual	giản dị
+Casualty	tai nạn
 Cat	con mèo
-Catch	bắt lấy, nắm lấy, tóm lấy, chộp lấy
-Category	hạng, loại; phạm trù
-Cause	nguyên nhân, nguyên do; gây ra, gây nên
-Cd	đĩa CD
-Cease	dừng, ngừng, ngớt, thôi, hết, tạnh
+Catalog	mục lục
+Catch	bắt lấy
+Category	thể loại
+Catholic	Công giáo
+Cattle	gia súc
+Cause	nguyên nhân
+Cave	hang
+Cease	ngưng
 Ceiling	trần nhà
-Celebrate	kỷ niệm, làm lễ kỷ niệm; tán dương, ca tụng
-Celebration	sự kỷ niệm, lễ kỷ niệm; sự tán dương, sự ca tụng
-Cell	ô, ngăn
-Cellphone	điện thoại di động
-Cent	đồng xu (bằng 1/100 đô la)
-Cent	đồng xu (=1/100 đô la)
-Centimetre	xen ti mét
-Centimetre	xen ti met
-Central	trung tâm, ở giữa, trung ương
-Centre	điểm giữa, trung tâm, trung ương
+Celebrate	ăn mừng
+Celebration	lễ kỷ niệm
+Celebrity	người nổi tiếng
+Cell	tế bào
+Cemetery	Nghĩa trang
+Center	Trung tâm
+Central	Trung tâm
 Century	thế kỷ
-Ceremony	nghi thức, nghi lễ
+Ceo	CEO
+Ceremony	Lễ
 Certain	chắc chắn
-Certainly	chắc chắn, nhất định
-Certificate	giấy chứng nhận, bằng, chứng chỉ
-Chain	dây, xích; xính lại, trói lại
-Chair	ghế
-Chairman, chairwoman	/'tʃeə,wumən/; chủ tịch, chủ tọa
-Challenge	sự thử thách, sự thách thức;
-Chamber	buồng, phòng, buồng ngủ
-Chance	sự may mắn
-Change	thay đổi, sự thay đổi, sự biến đổi
-Channel	kênh (TV, radio), eo biển
-Chapter	chương (sách)
-Character	tính cách, đặc tính, nhân vật
-Characteristic	riêng, riêng biệt, đặc trưng, đặc tính, đặc điểm
-Charge	nhiệm vụ, bổn phận, trách nhiệm; giao nhiệm vụ, giao việc
-Charity	lòng từ thiện, lòng nhân đức; sự bố thí
-Chart	đồ thị, biểu đồ; vẽ đồ thị, lập biểu đồ
-Chase	săn bắt; sự săn bắt
-Chat	nói chuyện, tán gẫu; chuyện phiếm, chuyện gẫu
-Cheap	rẻ
-Cheaply	rẻ, rẻ tiền
-Cheat	lừa, lừa đảo; trò lừa đảo, trò gian lận
-Check	kiểm tra; sự kiểm tra
+Certainly	chắc chắn
+Chain	chuỗi
+Chair	cái ghế
+Chairman	chủ tịch
+Challenge	thử thách
+Chamber	buồng
+Champion	quán quân
+Championship	chức vô địch
+Chance	cơ hội
+Change	thay đổi
+Changing	thay đổi
+Channel	kênh
+Chaos	hỗn loạn
+Chapter	chương
+Character	tính cách
+Characteristic	đặc trưng
+Characterize	đặc trưng
+Charge	sạc điện
+Charity	từ thiện
+Charm	quyến rũ
+Chart	đồ thị
+Charter	điều lệ
+Chase	đuổi theo
+Cheap	giá rẻ
+Cheat	lừa đảo
+Check	kiểm tra
 Cheek	má
-Cheerful	vui mừng, phấn khởi, hồ hởi
-Cheerfully	vui vẻ, phấn khởi
-Cheese	pho mát
-Chemical	thuộc hóa học; chất hóa học, hóa chất
-Chemist	nhà hóa học
-Chemistry	hóa học, môn hóa học, ngành hóa học
-Chemist’s	nhà thuốc
-Cheque	séc
-Chest	tủ, rương, hòm
-Chew	nhai, ngẫm nghĩ
-Chicken	gà, gà con, thịt gà
-Chief	trọng yếu, chính yếu; thủ lĩnh, lãnh tụ, người đứng đầu, xếp
-Child	đứa bé, đứa trẻ
-Chin	cằm
-Chip	vỏ bào, mảnh vỡ, chỗ sứt, mẻ
+Cheer	vui lên
+Cheese	phô mai
+Chef	đầu bếp
+Chemical	hóa chất
+Chemistry	hóa học
+Chest	ngực
+Chew	nhai
+Chicken	gà
+Chief	giám đốc
+Child	đứa trẻ
+Childhood	thời thơ ấu
+Chill	làm lạnh
+Chin	cái cằm
+Chinese	Trung Quốc
+Chip	Chip
 Chocolate	sô cô la
-Choice	sự lựa chọn
-Choose	chọn, lựa chọn
-Chop	chặt, đốn, chẻ
+Choice	lựa chọn
+Cholesterol	cholesterol
+Choose	chọn
+Chop	chặt
+Christian	Christian
+Christianity	Cơ đốc giáo
+Christmas	Giáng Sinh
+Chronic	mãn tính
+Chunk	mảnh
 Church	nhà thờ
-Cigarette	điếu thuốc lá
-Cinema	rạp xi nê, rạp chiếu bóng
-Circle	đường tròn, hình tròn
-Circumstance	hoàn cảnh, trường hợp, tình huống
-Citizen	người thành thị
+Cigarette	thuốc lá
+Circle	vòng tròn
+Circuit	mạch
+Circumstance	tình huống
+Cite	trích dẫn
+Citizen	công dân
+Citizenship	quyền công dân
 City	thành phố
-Civil	(thuộc) công dân
-Claim	đòi hỏi, yêu sách; sự đòi hỏi, sự yêu sách, sự thỉnh cầu
-Clap	vỗ, vỗ tay; tiếng nổ, tiếng vỗ tay
+Civic	công dân
+Civil	dân sự
+Civilian	dân thường
+Civilization	nền văn minh
+Claim	yêu cầu
 Class	lớp học
-Classic	cổ điển, kinh điển
-Classroom	lớp học, phòng học
-Clean	sạch, sạch sẽ;
-Clear	lau chùi, quét dọn
-Clearly	rõ ràng, sáng sủa
-Clerk	thư ký, linh mục, mục sư
-Clever	lanh lợi, thông minh. tài giỏi, khéo léo
-Click	làm thành tiếng lách cách; tiếng lách cách, cú nhắp (chuột)
+Classic	cổ điển
+Classical	cổ điển
+Classify	phân loại
+Classroom	phòng học
+Clay	đất sét
+Clean	dọn dẹp
+Clear	trong sáng
+Clearly	thông suốt
+Clerk	nhân viên bán hàng
+Click	nhấp chuột
 Client	khách hàng
-Climate	khí hậu, thời tiết
-Climb	leo, trèo
-Climbing	sự leo trèo
+Cliff	vách đá
+Climate	khí hậu
+Climb	leo
+Cling	bám lấy
+Clinic	phòng khám bệnh
+Clinical	lâm sàng
+Clip	kẹp
 Clock	đồng hồ
-Close name	đóng, khép, kết thúc, chấm dứt
-Close name	đóng kín, chật chội, che đậy
-Closed	bảo thủ, không cởi mở, khép kín
-Closely	chặt chẽ, kỹ lưỡng, tỉ mỉ
-Closet	buồng, phòng để đồ, phòng kho
-Cloth	vải, khăn trải bàn, áo thầy tu
+Close	gần
+Closed	đóng
+Closely	chặt chẽ
+Closer	gần hơn
+Closest	gần nhất
+Closet	tủ quần áo
+Cloth	vải
 Clothes	quần áo
-Clothing	quần áo, y phục
-Cloud	mây, đám mây
-Club	câu lạc bộ; gậy, dùi cui
+Clothing	quần áo
+Cloud	đám mây
+Club	câu lạc bộ
+Clue	manh mối
+Cluster	cụm
 Coach	huấn luyện viên
-Coal	than đá
-Coast	sự lao dốc; bờ biển
-Coat	áo choàng
-Code	mật mã, luật, điều lệ
+Coal	than
+Coalition	liên minh
+Coast	bờ biển
+Coastal	duyên hải
+Coat	áo khoác
+Cocaine	cocaine
+Code	mã
 Coffee	cà phê
-Coin	tiền kim loại
-Cold	lạnh, sự lạnh lẽo, lạnh nhạt
-Coldly	lạnh nhạt, hờ hững, vô tâm
-Collapse	đổ, sụp đổ; sự đổ nát, sự sụp đổ
-Colleague	bạn đồng nghiệp
-Collect	sưu tập, tập trung lại
-Collection	sự sưu tập, sự tụ họp
-College	trường cao đẳng, trường đại học
-Colour	màu sắc; tô màu
-Coloured	mang màu sắc, có màu sắc
-Column	cột , mục (báo)
-Combination	sự kết hợp, sự phối hợp
-Combine	kết hợp, phối hợp
-Come	đến, tới, đi đến, đi tới
-Comedy	hài kịch
-Comfort	sự an ủi, khuyên giải, lời động viên, sự an nhàn; dỗ dành, an ủi
-Comfortable	thoải mái, tiện nghi, đầy đủ
-Comfortably	dễ chịu, thoải mái, tiện nghi, ấm cúng
-Command	ra lệnh, chỉ huy; lệnh, mệnh lệnh, quyền ra lệnh, quyền chỉ huy
-Comment	lời bình luận, lời chú giải; bình luận, phê bình, chú thích, dẫn giải
-Commercial	buôn bán, thương mại
-Commission	hội đồng, ủy ban, sự ủy nhiệm, sự ủy thác; ủy nhiệm, ủy thác
-Commit	giao, gửi, ủy nhiệm, ủy thác; tống giam, bỏ tù
-Commitment	sự phạm tội, sự tận tụy, tận tâm
+Cognitive	nhận thức
+Coin	đồng tiền
+Cold	lạnh
+Collaboration	hợp tác
+Collapse	sự sụp đổ
+Collar	cổ áo
+Colleague	đồng nghiệp
+Collect	sưu tầm
+Collection	bộ sưu tập
+Collective	tập thể
+Collector	người thu gom
+College	trường đại học
+Colonial	thuộc địa
+Colony	thuộc địa
+Color	màu
+Colorful	Đầy màu sắc
+Column	cột
+Columnist	nhà bình luận viên
+Combat	chống lại
+Combination	sự phối hợp
+Combine	phối hợp
+Combined	kết hợp
+Come	đến
+Comedy	phim hài
+Comfort	thoải mái
+Comfortable	Thoải mái
+Coming	đang đến
+Command	chỉ huy
+Commander	chỉ huy
+Comment	bình luận
+Commercial	thương mại
+Commission	Uỷ ban
+Commissioner	ủy viên
+Commit	cam kết
+Commitment	cam kết
 Committee	ủy ban
-Common	công, công cộng, thông thường, phổ biến
-Commonly	thông thường, bình thường
-Communicate	truyền, truyền đạt; giao thiệp, liên lạc
-Communication	sự giao tiếp, liên lạc, sự truyền đạt, truyền tin
-Community	dân chúng, nhân dân
-Company	công ty
-Compare	so sánh, đối chiếu
-Comparison	sự so sánh
-Compete	đua tranh, ganh đua, cạnh tranh
-Competition	sự cạnh tranh, cuộc thi, cuộc thi đấu
-Competitive	cạnh tranh, đua tranh
-Complain	phàn nàn, kêu ca
-Complaint	lời than phiền, than thở; sự khiếu nại, đơn kiện
-Complete	hoàn thành, xong;
-Completely	hoàn thành, đầy đủ, trọn vẹn
-Complex	phức tạp, rắc rối
-Complicate	làm phức tạp, rắc rối
-Complicated	phức tạp, rắc rối
-Computer	máy tính
+Commodity	hàng hóa
+Common	chung
+Commonly	thông thường
+Communicate	giao tiếp
+Communication	giao tiếp
+Community	cộng đồng
+Companion	đồng hành
+Company	Công ty
+Comparable	so sánh
+Compare	so sánh
+Comparison	so sánh
+Compel	bắt buộc
+Compelling	thuyết phục
+Compensation	đền bù
+Compete	cạnh tranh
+Competition	cuộc thi
+Competitive	cạnh tranh
+Competitor	đối thủ
+Complain	than phiền
+Complaint	lời phàn nàn
+Complete	hoàn thành
+Completely	hoàn toàn
+Complex	phức tạp
+Complexity	phức tạp
+Compliance	sự tuân thủ
+Complicated	phức tạp
+Comply	tuân theo
+Component	thành phần
+Compose	soạn, biên soạn
+Composition	thành phần
+Compound	hợp chất
+Comprehensive	toàn diện
+Comprise	bao gồm
+Compromise	thỏa hiệp
+Computer	máy vi tính
+Concede	công nhận
+Conceive	thụ thai
 Concentrate	tập trung
-Concentration	sự tập trung, nơi tập trung
+Concentration	sự tập trung
 Concept	khái niệm
-Concern	liên quan, dính líu tới; sự liên quan, sự dính líu tới
-Concerned	có liên quan, có dính líu
-Concerning	bâng khuâng, ái ngại
+Conception	quan niệm
+Concern	mối quan ngại
+Concerned	liên quan
+Concerning	có liên quan
 Concert	buổi hòa nhạc
-Conclude	kết luận, kết thúc, chấm dứt (công việc)
-Conclusion	sự kết thúc, sự kết luận, phần kết luận
-Concrete	bằng bê tông; bê tông
-Condition	điều kiện, tình cảnh, tình thế
-Conduct	điều khiển, chỉ đạo, chỉ huy; sự điều khiển, chỉ huy
-Conference	hội nghị, sự bàn bạc
-Confidence	lòng tin tưởng, sự tin cậy
-Confident	tin tưởng, tin cậy, tự tin
-Confidently	tự tin
-Confine	giam giữ, hạn chế
-Confined	hạn chế, giới hạn
-Confirm	xác nhận, chứng thực
-Conflict	(v) kənˈflɪkt ; (n) ˈkɒnflɪkt/; xung đột, va chạm; sự xung đột, sự va chạm
-Confront	đối mặt, đối diện, đối chiếu
-Confuse	làm lộn xộn, xáo trộn
-Confused	bối rối, lúng túng, ngượng
-Confusing	khó hiểu, gây bối rối
-Confusion	sự lộn xộn, sự rối loạn
-Congratulations	sự chúc mừng, khen ngợi; lời chúc mừng, khen ngợi
-Congress	đại hội, hội nghị, Quốc hội
-Connect	kết nối, nối
-Connection	sự kết nối, sự giao kết
-Conscious	tỉnh táo, có ý thức, biết rõ
-Consequence	kết quả, hậu quả
-Conservative	thận trọng, dè dặt, bảo thủ
-Consider	cân nhắc, xem xét; để ý, quan tâm, lưu ý đến
-Considerable	lớn lao, to tát, đáng kể
-Considerably	đáng kể, lớn lao, nhiều
-Consideration	sự cân nhắc, sự xem xét, sự để ý, sự quan tâm
-Consist of	gồm có
-Constant	kiên trì, bền lòng
-Constantly	kiên định
+Conclude	kết luận
+Conclusion	phần kết luận
+Concrete	bê tông
+Condemn	lên án
+Condition	điều kiện
+Conduct	hạnh kiểm
+Conference	hội nghị
+Confess	xưng
+Confession	lời thú tội
+Confidence	sự tự tin
+Confident	tự tin
+Confirm	xác nhận
+Conflict	cuộc xung đột
+Confront	đối đầu
+Confrontation	đối đầu
+Confuse	nhầm lẫn
+Confusion	sự nhầm lẫn
+Congress	Hội nghị
+Congressional	quốc hội
+Connect	kết nối
+Connection	kết nối
+Conscience	lương tâm
+Conscious	có ý thức
+Consciousness	ý thức
+Consecutive	liên tiếp
+Consensus	sự đồng thuận
+Consent	bằng lòng
+Consequence	hậu quả
+Consequently	hậu quả là
+Conservation	bảo tồn
+Conservative	thận trọng
+Consider	xem xét
+Considerably	đáng kể
+Consideration	xem xét
+Consist	bao gồm
+Consistent	thích hợp
+Consistently	nhất quán
+Conspiracy	âm mưu
+Constant	không thay đổi
+Constantly	liên tục
+Constitute	cấu tạo
+Constitution	hiến pháp
+Constraint	hạn chế
 Construct	xây dựng
-Construction	sự xây dựng
-Consult	tra cứu, tham khảo, thăm dò, hỏi ý kiến
-Consumer	người tiêu dùng
-Contact	sự liên lạc, sự giao thiệp; tiếp xúc
-Contain	bao hàm, chứa đựng, bao gồm
-Container	cái đựng, chứa; công te nơ
-Contemporary	đương thời, đương đại
-Content	nội dung, sự hài lòng
-Contest	cuộc thi, trận đấu, cuộc tranh luận, cuộc chiến đấu, chiến tranh
-Context	văn cảnh, khung cảnh, phạm vi
-Continent	lục địa, đại lục (lục địa Bắc Mỹ)
-Continue	tiếp tục, làm tiếp
-Continuous	liên tục, liên tiếp
-Continuously	liên tục, liên tiếp
-Contract	hợp đồng, sự ký hợp đồng; ký kết
-Contrast	or /'kɔntræst /; sự tương phản; làm tương phản, làm trái ngược
-Contrasting	tương phản
-Contribute	đóng góp, ghóp phần
-Contribution	sự đóng góp, sự góp phần
-Control	sự điều khiển, quyền hành, quyền lực, quyền chỉ huy
-Controlled	được điều khiển, được kiểm tra
-Convenient	tiện lợi, thuận lợi, thích hợp
-Convention	hội nghị, hiệp định, quy ước
-Conventional	quy ước
-Conversation	cuộc đàm thoại, cuộc trò chuyện
-Convert	đổi, biến đổi
-Convince	làm cho tin, thuyết phục; làm cho nhận thức thấy
-Cook	nấu ăn, người nấu ăn
-Cooker	lò, bếp, nồi nấu
+Consult	tham khảo ý kiến
+Consultant	tư vấn
+Consume	tiêu dùng
+Consumer	khách hàng
+Consumption	tiêu dùng
+Contact	tiếp xúc
+Contain	chứa
+Container	thùng đựng hàng
+Contemplate	thưởng ngoạn
+Contemporary	đồng thời
+Contend	đấu tranh
+Content	Nội dung
+Contest	Cuộc thi
+Context	bối cảnh
+Continent	lục địa
+Continue	tiếp tục
+Continued	tiếp tục
+Continuing	tiếp tục
+Continuous	liên tiếp
+Contract	hợp đồng
+Contractor	nhà thầu
+Contrast	tương phản
+Contribute	Góp phần
+Contribution	sự đóng góp
+Contributor	người đóng góp
+Control	điều khiển
+Controversial	gây tranh cãi
+Controversy	tranh cãi
+Convenience	tiện
+Convention	quy ước
+Conventional	thông thường
+Conversation	cuộc hội thoại
+Conversion	chuyển đổi
+Convert	đổi
+Convey	chuyên chở
+Convict	tù nhân
+Conviction	lòng tin chắc, sự kết án, phán quyết
+Convince	thuyết phục
+Convinced	thuyết phục
+Cook	nấu ăn
 Cookie	bánh quy
-Cooking	sự nấu ăn, cách nấu ăn
-Cool	mát mẻ, điềm tĩnh; làm mát,
-Cope	đối phó, đương đầu
-Copy	bản sao, bản chép lại; sự sao chép; sao chép, bắt chước
-Core	nòng cốt, hạt nhân; đáy lòng
-Corner	góc (tường, nhà, phố...)
-Correct	đúng, chính xác; sửa, sửa chữa
-Correctly	đúng, chính xác
-Cost	giá, chi phí; trả giá, phải trả
+Cooking	nấu nướng
+Cool	mát mẻ
+Cooperate	hợp tác
+Cooperation	hợp tác
+Cooperative	hợp tác xã
+Coordinate	danh từ
+Coordinator	điều phối viên
+Cop	cảnh sát
+Cope	đối phó
+Copy	sao chép
+Cord	dây
+Core	cốt lõi
+Corn	Ngô
+Corner	góc
+Corporate	công ty
+Corporation	tập đoàn
+Correct	chính xác
+Correctly	đúng
+Correlation	tương quan
+Correspondent	phóng viên
+Corridor	hành lang
+Corruption	tham nhũng
+Cost	Giá cả
+Costly	tốn kém
+Costume	trang phục
 Cottage	nhà tranh
-Cotton	bông, chỉ, sợi
-Cough	ho, sự ho, tiếng hoa
-Coughing	ho
-Could	có thể, có khả năng
-Could modal	có thể
+Cotton	bông
+Couch	đi văng
+Could	có thể
 Council	hội đồng
-Count	đếm, tính
-Counter	quầy hàng, quầy thu tiền, máy đếm
-Country	nước, quốc gia, đất nước
-Countryside	miền quê, miền nông thôn
-County	hạt, tỉnh
-Couple	đôi, cặp; đôi vợ chồng, cặp nam nữ
-Courage	sự can đảm, sự dũng cảm, dũng khí
-Course	tiến trình, quá trình diễn tiến; sân chạy đua
-Court	sân, sân (tennis...), tòa án, quan tòa, phiên tòa
-Cousin	anh em họ
-Cover	bao bọc, che phủ; vỏ, vỏ bọc
-Covered	có mái che, kín đáo
-Covering	sự bao bọc, sự che phủ, cái bao, bọc
-Cow	con bò cái
-Crack	cừ, xuất sắc; làm nứt, làm vỡ, nứt nẻ, rạn nứt
-Cracked	rạn, nứt
-Craft	nghề, nghề thủ công
-Crash	vải thô; sự rơi (máy bay), sự phá sản, sụp đổ; phá tan tành, phá vụn
-Crazy	điên, mất trí
+Counsel	lời khuyên
+Counseling	tư vấn
+Counselor	cố vấn
+Count	đếm
+Counter	quầy tính tiền
+Counterpart	đối tác
+Country	Quốc gia
+County	quận
+Coup	cuộc đảo chính
+Couple	vợ chồng
+Courage	lòng can đảm
+Course	khóa học
+Court	tòa án
+Courtroom	phòng xử án
+Cousin	anh chị em họ
+Cover	che
+Coverage	phủ sóng
+Cow	bò
+Craft	nghề thủ công
+Crash	tai nạn
+Crawl	thu thập thông tin
+Crazy	khùng
 Cream	kem
-Create	sáng tạo, tạo nên
-Creature	sinh vật, loài vật
-Credit	sự tin, lòng tin, danh tiếng; tiền gửi ngân hàng
-Credit card	thẻ tín dụng
-Crime	tội, tội ác, tội phạm
-Criminal	có tội, phạm tội; kẻ phạm tội, tội phạm
-Crisis	sự khủng hoảng, cơn khủng hoảng
-Crisp	giòn
-Criterion	tiêu chuẩn
-Critical	phê bình, phê phán; khó tính
-Criticism	sự phê bình, sự phê phán, lời phê bình, lời phê phán
-Criticize	phê bình, phê phán, chỉ trích
-Crop	vụ mùa
-Cross	cây Thánh Giá, nỗi thống khổ; sự băng qua; băng qua, vượt qua
+Create	tạo nên
+Creation	sự sáng tạo
+Creative	sáng tạo
+Creativity	sáng tạo
+Creature	sinh vật
+Credibility	uy tín
+Credit	tín dụng
+Crew	phi hành đoàn
+Crime	tội ác
+Criminal	phạm tội
+Crisis	khủng hoảng
+Criteria	tiêu chuẩn
+Critic	nhà phê bình
+Critical	chỉ trích
+Criticism	sự chỉ trích
+Criticize	chỉ trích
+Crop	mùa vụ
+Cross	vượt qua
 Crowd	đám đông
-Crowded	đông đúc
-Crown	vương miện, vua, ngai vàng; đỉnh cao nhất
-Crucial	quyết định, cốt yếu, chủ yếu
-Cruel	độc ác, dữ tợn, tàn nhẫn
-Crush	ép, vắt, đè nát, đè bẹp
-Cry	khóc, kêu la; sự khóc, tiếng khóc, sự kêu la
-Cultural	(thuộc) văn hóa
-Culture	văn hóa, sự mở mang, sự giáo dục
-Cup	tách, chén
-Cupboard	1 loại tủ có ngăn
-Curb	kiềm chế, nén lại, hạn chế
-Cure	chữa trị, điều trị; cách chữa bệnh, cách điều trị; thuốc
-Curious	ham muốn, tò mò, lạ lùng
-Curiously	tò mò, hiếu kỳ, lạ kỳ
-Curl	quăn, xoắn, uốn quăn, làm xoắn; sự uốn quăn
-Curly	quăn, xoắn
-Current	hiện hành, phổ biến, hiện nay; dòng (nước), luống (gió)
-Currently	hiện thời, hiện nay
-Curtain	màn (cửa, rạp hát, khói, sương)
-Curve	đường cong, đường vòng; cong, uốn cong, bẻ cong
-Curved	cong
-Custom	phong tục, tục lệ, thói quen, tập quán
+Crowded	Đông người
+Crucial	quan trọng
+Cruel	hung ác
+Cruise	du lịch
+Crush	nghiền nát
+Cry	khóc
+Crystal	pha lê
+Cuban	Cuba
+Cue	gợi ý
+Cultural	văn hoá
+Culture	nền văn hóa
+Cup	tách
+Cure	chữa khỏi
+Curiosity	sự tò mò
+Curious	hiếu kỳ
+Currency	tiền tệ
+Current	hiện hành
+Currently	hiện tại
+Curriculum	chương trình giáo dục
+Curtain	tấm màn
+Curve	đường cong
+Custody	quyền nuôi con
+Custom	tập quán
 Customer	khách hàng
-Customs	thuế nhập khẩu, hải quan
-Cut	cắt, chặt; sự cắt
-Cycle	chu kỳ, chu trình, vòng; quay vòng theo chu kỳ, đi xe đạp
-Cycling	sự đi xe đạp
-Dad	bố, cha
-Daily	hàng ngày
-Damage	mối hạn, điều hại, sự thiệt hại; làm hư hại, làm hỏng, gây thiệt hại
-Damp	ẩm, ẩm ướt, ẩm thấp
-Dance	sự nhảy múa, sự khiêu vũ; nhảy múa, khiêu vũ
-Dancer	diễn viên múa, người nhảy múa
-Dancing	sự nhảy múa, sự khiêu vũ
-Danger	sự nguy hiểm, mối hiểm nghèo; nguy cơ, mối đe dọa
+Cut	cắt tỉa
+Cute	dễ thương
+Cycle	chu kỳ
+Dad	cha
+Daily	hằng ngày
+Dam	con đập
+Damage	hư hại
+Damn	chỉ trích
+Dance	nhảy
+Dancer	vũ công
+Dancing	khiêu vũ
+Danger	nguy hiểm
 Dangerous	nguy hiểm
-Dare	dám, dám đương đầu với; thách
-Dark	tối, tối tăm; bóng tối, ám muội
-Data	số liệu, dữ liệu
-Date	ngày, kỳ, kỳ hạn, thời kỳ, thời đại; đề ngày tháng, ghi niên hiệu
-Daughter	con gái
-Day	ngày, ban ngày
-Dead	chết, tắt
-Deaf	điếc, làm thinh, làm ngơ
-Deal	phân phát, phân phối; sự giao dịch, thỏa thuận mua bán
-Deal with	giải quyết
-Dear	thân, thân yêu, thân mến; kính thưa, thưa
-Death	sự chết, cái chết
-Debate	cuộc tranh luận, cuộc tranh cãi; tranh luận, bàn cãi
-Debt	nợ
-Decade	thập kỷ, bộ mười, nhóm mười
-Decay	tình trạng suy tàn, suy sụp, tình trạng đổ nát
-December	tháng mười hai, tháng Chạp
-Decide	quyết định, giải quyết, phân xử
-Decision	sự quyết định, sự giải quyết, sự phân xử
-Declare	tuyên bố, công bố
-Decline	sự suy tàn, sự suy sụp; suy sụp, suy tàn
-Decorate	trang hoàng, trang trí
-Decoration	sự trang hoàng, đồ trang hoàng, trang trí
-Decorative	để trang hoàng, để trang trí, để làm cảnh
-Decrease	'di:kri:s/; giảm bớt, làm suy giảm, sự giảm đi, sự giảm sút
-Deep	sâu, khó lường, bí ẩn
-Deeply	sâu, sâu xa, sâu sắc
-Defeat	đánh thắng, đánh bại; sự thất bại (1 kế hoạch), sự tiêu tan (hy vọng..)
-Defence	cái để bảo vệ, vật để chống đỡ, sự che chở
-Defend	che chở, bảo vệ, bào chữa
+Dare	dám
+Dark	tối
+Darkness	bóng tối
+Data	dữ liệu
+Database	cơ sở dữ liệu
+Date	ngày
+Daughter	Con gái
+Dawn	bình minh
+Day	ngày
+Dead	đã chết
+Deadline	hạn chót
+Deadly	chết người
+Deal	thỏa thuận
+Dealer	người buôn bán
+Dear	kính thưa
+Death	tử vong
+Debate	tranh luận
+Debris	mảnh vụn
+Debt	món nợ
+Debut	ra mắt
+Decade	thập kỷ
+Decent	phong nha
+Decide	quyết định
+Decision	phán quyết
+Deck	boong
+Declare	khai
+Decline	từ chối
+Decorate	trang trí
+Decrease	giảm bớt
+Dedicate	dâng hiến
+Deem	thấy
+Deep	sâu
+Deeply	sâu sắc
+Deer	con nai
+Defeat	đánh bại
+Defend	phòng thủ
+Defendant	bị cáo
+Defender	hậu vệ
+Defense	phòng thủ
+Defensive	phòng ngự
+Deficit	thâm hụt
 Define	định nghĩa
-Definite	xác định, định rõ, rõ ràng
-Definitely	rạch ròi, dứt khoát
-Definition	sự định nghĩa, lời định nghĩa
-Degree	mức độ, trình độ; bằng cấp; độ
-Delay	sự chậm trễ, sự trì hoãn, sự cản trở; làm chậm trễ
-Deliberate	thận trọng, có tính toán, chủ tâm, có suy nghĩ cân nhắc
-Deliberately	thận trọng, có suy nghĩ cân nhắc
-Delicate	thanh nhã, thanh tú, tế nhị, khó xử
-Delight	sự vui thích, sự vui sướng, điều thích thú; làm vui thích, làm say mê
-Delighted	vui mừng, hài lòng
-Deliver	cứu khỏi, thoát khỏi, bày tỏ, giãi bày
-Delivery	sự phân phát, sự phân phối, sự giao hàng; sự bày tỏ, phát biếu
-Demand	sự đòi hỏi, sự yêu cầu; đòi hỏi, yêu cầu
-Demonstrate	chứng minh, giải thích; bày tỏ, biểu lộ
-Dentist	nha sĩ
-Deny	từ chối, phản đối, phủ nhận
-Department	cục, sở, ty, ban, khoa; gian hàng, khu bày hàng
-Departure	sự rời khỏi, sự đi, sự khởi hành
-Depend	phụ thuộc, tùy thuộc; dựa vào, ỷ vào, trông mong vào
-Deposit	vật gửi, tiền gửi, tiền đặt cọc; gửi, đặt cọc
-Depress	làm chán nản, làm phiền muộn; làm suy giảm
-Depressed	chán nản, thất vọng, phiền muộn; suy yếu, đình trệ
-Depressing	làm chán nản làm thát vọng, làm trì trệ
-Depth	chiều sâu, độ dày
-Derive	nhận được từ, lấy được từ; xuất phát từ, bắt nguồn, chuyển hóa từ (from)
-Describe	diễn tả, miêu tả, mô tả
-Description	sự mô tả, sự tả, sự miêu tả
-Desert	sa mạc; công lao, giá trị; rời bỏ, bỏ trốn
-Deserted	hoang vắng, không người ở
-Deserve	đáng, xứng đáng
-Design	sự thiết kế, kế hoạch, đề cương. phác thảo; phác họa, thiết kế
-Desire	ước muốn; thèm muốn, ao ước
-Desk	bàn (học sinh, viết, làm việc)
-Desperate	liều mạng, liều lĩnh; tuyệt vọng
-Desperately	liều lĩnh, liều mạng
-Despite	dù, mặc dù, bất chấp
-Destroy	phá, phá hoại, phá huỷ, tiêu diệt, triệt phá
-Destruction	sự phá hoại, sự phá hủy, sự tiêu diệt
-Detail	(v) dɪˈteɪl/; chi tiết
-Detailed	cặn kẽ, tỉ mỉ, nhiều chi tiết
-Determination	sự xác định, sự định rõ; sự quyết định
-Determine	xác định, định rõ; quyết định
-Determined	đã được xác định, đã được xác định rõ
-Develop	phát triển, mở rộng; trình bày, bày tỏ
-Development	sự phát triển, sự trình bày, sự bày tỏ
-Device	kế sách; thiết bị, dụng cụ, máy móc
-Devote	hiến dâng, dành hết cho
-Devoted	hiến cho, dâng cho, dành cho; hết lòng, nhiệt tình
-Diagram	biểu đồ
+Definitely	chắc chắn
+Definition	Định nghĩa
+Degree	trình độ
+Delay	sự chậm trễ
+Deliberately	thong thả
+Delicate	tinh tế
+Delight	Hân hoan
+Deliver	giao hàng
+Delivery	chuyển
+Demand	nhu cầu
+Democracy	dân chủ
+Democrat	Dân chủ
+Democratic	dân chủ
+Demographic	nhân khẩu học
+Demonstrate	chứng minh
+Demonstration	trình diễn
+Denial	từ chối
+Dense	dày đặc
+Density	tỉ trọng
+Deny	phủ nhận
+Depart	khởi hành
+Department	bộ phận
+Departure	khởi hành
+Depend	tùy theo
+Dependent	phụ thuộc
+Depending	tùy
+Depict	miêu tả
+Deploy	triển khai
+Deposit	tiền gửi
+Depressed	suy sụp
+Depression	Phiền muộn
+Depth	chiều sâu
+Deputy	Phó
+Derive	lấy được
+Descend	hạ xuống
+Describe	miêu tả
+Description	sự miêu tả
+Desert	Sa mạc
+Deserve	xứng đáng
+Design	thiết kế
+Designer	nhà thiết kế
+Desire	khao khát
+Desk	bàn
+Desperate	tuyệt vọng
+Desperately	tuyệt vọng
+Despite	mặc dù
+Dessert	món tráng miệng
+Destination	nơi đến
+Destroy	hủy hoại
+Destruction	sự phá hủy
+Detail	chi tiết
+Detailed	chi tiết
+Detect	phát hiện
+Detective	thám tử
+Determination	sự quyết tâm
+Determine	mục đích
+Devastating	tàn phá
+Develop	phát triển, xây dựng
+Developer	nhà phát triển
+Developing	phát triển
+Development	phát triển
+Developmental	phát triển
+Device	thiết bị
+Devil	ác quỷ
+Devote	cống hiến
+Diabetes	Bệnh tiểu đường
+Diagnose	chẩn đoán
+Diagnosis	chẩn đoán
+Dialogue	đối thoại
 Diamond	kim cương
-Diary	sổ nhật ký; lịch ghi nhớ
-Dictionary	từ điển
-Die	chết, từ trần, hy sinh
-Diet	chế độ ăn uống, chế độ ăn kiêng
-Difference	sự khác nhau
-Different	khác, khác biệt, khác nhau
-Differently	khác, khác biệt, khác nhau
-Difficult	khó, khó khăn, gay go
-Difficulty	sự khó khăn, nỗi khó khăn, điều cản trở
-Dig	đào bới, xới
-Dinner	bữa trưa, chiều
-Direct	dai'rekt/; trực tiếp, thẳng, thẳng thắn; gửi, viết cho ai, điều khiển
-Direction	sự điều khiển, sự chỉ huy
-Directly	trực tiếp, thẳng
-Director	giám đốc, người điều khiển, chỉ huy
-Dirt	đồ bẩn thỉu, đồ dơ bẩn, vật rác rưởi
-Dirty	bẩn thỉu, dơ bẩn
-Disabled	bất lực, không có khă năng
-Disadvantage	sự bất lợi, sự thiệt hại
-Disagree	bất đồng, không đồng ý, khác, không giống; không hợp
-Disagreement	sự bất đồng, sự không đồng ý, sự khác nhau
-Disappear	biến mất, biến đi
-Disappoint	không làm thỏa ước nguyện, ý mong đợi; thất ước, làm thất bại
+Diary	Nhật ký
+Dictate	điều khiển
+Die	chết
+Diet	chế độ ăn
+Differ	khác nhau
+Difference	Sự khác biệt
+Different	khác nhau
+Differently	khác
+Difficult	khó khăn
+Difficulty	khó khăn
+Dig	đào
+Digital	kỹ thuật số
+Dignity	phẩm giá
+Dilemma	tình trạng khó xử
+Dimension	kích thước
+Diminish	suy giảm
+Dining	ăn uống
+Dinner	bữa tối
+Dip	nhúng
+Diplomat	nhà ngoại giao
+Diplomatic	ngoại giao
+Direct	thẳng thắn
+Direction	phương hướng
+Directly	trực tiếp
+Director	giám đốc
+Dirt	bẩn
+Dirty	dơ bẩn
+Disability	khuyết tật
+Disabled	tàn tật
+Disagree	không đồng ý
+Disappear	biến mất
 Disappointed	thất vọng
-Disappointing	làm chán ngán, làm thất vọng
-Disappointment	sự chán ngán, sự thất vọng
-Disapproval	sự phản đổi, sự không tán thành
-Disapprove	không tán thành, phản đối, chê
-Disapproving	phản đối
-Disaster	tai họa, thảm họa
+Disappointment	thất vọng
+Disaster	thảm họa
 Disc	đĩa
 Discipline	kỷ luật
-Discount	sự bớt giá, sự chiết khấu, tiền bớt, chiết khấu
-Discover	khám phá, phát hiện ra, nhận ra
-Discovery	sự khám phá, sự tìm ra, sự phát hiện ra
-Discuss	thảo luận, tranh luận
-Discussion	sự thảo luận, sự tranh luận
-Disease	căn bệnh, bệnh tật
-Disgust	làm ghê tởm, làm kinh tởm, làm phẫn nộ
-Disgusted	chán ghét, phẫn nộ
-Disgusting	làm ghê tởm, kinh tởm
-Dish	đĩa (đựng thức ăn)
-Dishonest	bất lương, không thành thật
-Dishonestly	bất lương, không lương thiện
-Disk	đĩa, đĩa hát
-Dislike	sự không ưa, không thích, sự ghét
-Dismiss	giải tán (quân đội, đám đông); sa thải (người làm)
-Display	bày tỏ, phô trương, trưng bày; sự bày ra, phô bày, trưng bày
-Dissolve	tan rã, phân hủy, giải tán
-Distance	khoảng cách, tầm xa
-Distinguish	phân biệt, nhận ra, nghe ra
-Distribute	phân bổ, phân phối, sắp xếp, phân loại
-Distribution	sự phân bổ, sự phân phối, phân phát, sự sắp xếp
-District	huyện, quận
-Disturb	làm mất yên tĩnh, làm náo động, quấy rầy
-Disturbing	xáo trộn
-Divide	chia, chia ra, phân ra
-Division	sự chia, sự phân chia, sự phân loại
-Divorce	sự ly dị
-Divorced	đã ly dị
+Disclose	tiết lộ
+Discount	giảm giá
+Discourage	gây chán nản cho
+Discourse	đàm luận
+Discover	khám phá
+Discovery	khám phá
+Discrimination	kỳ thị
+Discuss	bàn luận
+Discussion	thảo luận
+Disease	dịch bệnh
+Dish	món ăn
+Disk	đĩa
+Dismiss	bỏ qua
+Disorder	rối loạn
+Display	trưng bày
+Dispute	tranh chấp
+Dissolve	giải thể
+Distance	khoảng cách
+Distant	xa xôi
+Distinct	khác biệt
+Distinction	phân biệt
+Distinctive	đặc biệt
+Distinguish	phân biệt
+Distract	làm mất tập trung
+Distribute	phân phát
+Distribution	phân phối
+District	huyện
+Disturb	xáo trộn
+Disturbing	phiền
+Diverse	phong phú
+Diversity	sự đa dạng
+Divide	chia
+Divine	thần thánh
+Division	phân chia
+Divorce	ly hôn
+Divorce	ly hôn
+Dna	DNA
 Do	làm
-Doctor	bác sĩ y khoa, tiến sĩ
-Document	văn kiện, tài liệu, tư liệu
+Dock	bến tàu
+Doctor	Bác sĩ
+Doctrine	học thuyết
+Document	tài liệu
+Documentary	phim tài liệu
 Dog	chó
-Dollar	đô la Mỹ
-Domestic	vật nuôi trong nhà, (thuộc) nội trợ, quốc nội
-Dominate	chiếm ưu thế, có ảnh hưởng, chi phối; kiềm chế
-Door	cửa, cửa ra vào
-Dot	chấm nhỏ, điểm; của hồi môn
-Double	đôi, hai, kép; cái gấp đôi, lượng gấp đôi; làm gấp đôi
-Doubt	sự nghi ngờ, sự ngờ vực; nghi ngờ, ngờ vực
+Doll	búp bê
+Domain	miền
+Domestic	trong nước
+Dominant	có ưu thế
+Dominate	thống trị
+Donate	hiến tặng
+Donation	Quyên góp
+Donor	nhà tài trợ
+Door	cửa
+Doorway	lối vào
+Dose	liều
+Dot	dấu chấm
+Double	gấp đôi
+Doubt	nghi ngờ
+Dough	bột
 Down	xuống
-Downstairs	ở dưới nhà, ở tầng dưới; xống gác; tầng dưới
-Downward	xuống, đi xuống
-Downwards	xuống, đi xuống
-Dozen	tá (12)
-Draft	bản phác thảo, sơ đồ thiết kế; phác thảo, thiết kế
-Drag	lôi kéo, kéo lê
-Drama	kịch, tuồng
-Dramatic	như kịch, như đóng kịch, thích hợp với sân khấu
+Downtown	trung tâm thành phố
+Dozen	tá
+Draft	bản nháp
+Drag	kéo
+Drain	ráo nước
+Drama	kịch
+Dramatic	kịch tính
 Dramatically	đột ngột
-Draw	vẽ, kéo
-Drawer	người vẽ, người kéo
-Drawing	bản vẽ, bức vẽ, sự kéo
-Dream	giấc mơ, mơ
-Dress	quần áo, mặc (quần áo), ăn mặc
-Dressed	cách ăn mặc
-Drink	đồ uống; uống
-Drive	lái , đua xe; cuộc đua xe (điều khiển)
+Draw	vẽ tranh
+Drawer	ngăn kéo
+Drawing	vẽ
+Dream	mơ tưởng
+Dress	trang phục
+Dried	khô
+Drift	trôi dạt
+Drill	máy khoan
+Drink	uống
+Drinking	uống
+Drive	lái xe
 Driver	người lái xe
-Driving	sự lái xe, cuộc đua xe
-Drop	chảy nhỏ giọt, rơi, rớt; giọt (nước, máu...)
-Drug	thuốc, dược phẩm; ma túy
-Drugstore	hiệu thuốc, cửa hàng dược phẩm
-Drum	cái trống, tiếng trống
-Drunk	say rượu
-Dry	khô, cạn; làm khô, sấy khô
-Due	đến kỳ hạn (trả nợ); xứng đáng, thích đáng
-Due to	vì, do, tại, nhờ có
-Dull	chậm hiểu, ngu đần
-Dump	đổ rác; đống rác, nơi đổ rác
-During	trong lúc, trong thời gian
-Dust	bụi, rác; rắc (bụi, phấn), quét bụi, phủi bụi
-Duty	sự tôn kính, kính trọng; bồn phận, trách nhiệm
-Dvd	đĩa DVD
-Dying	sự chết
-E.g.	Viết tắt của cụm từ La tinh exempli gratia (for example)
+Driveway	đường lái xe
+Driving	điều khiển
+Drop	rơi vãi
+Drown	chết chìm
+Drug	thuốc uống
+Drum	trống
+Drunk	say
+Dry	khô
+Duck	con vịt
+Due	đến hạn
+Due	đến hạn
+Dumb	ngớ ngẩn
+Dump	đổ
+During	suốt trong
+Dust	bụi bặm
+Dutch	Người Hà Lan
+Duty	nhiệm vụ
+Dying	chết
+Dynamic	năng động
+Dynamics	động lực học
+E-mail	e-mail
 Each	mỗi
-Each other	(also one another) (pronoun) nhau, lẫn nhau
-Each other	nhau, lẫn nhau
+Eager	hăng hái
 Ear	tai
 Early	sớm
-Earn	kiếm (tiền), giành (phần thưởng)
-Earth	đất, trái đất
-Ease	sự thanh thản, sự thoải mái; làm thanh thản, làm yên tâm, làm dễ chịu
+Earn	kiếm
+Earnings	thu nhập
+Earth	trái đất
+Earthquake	động đất
+Ease	giảm bớt
 Easily	dễ dàng
-East	hướng đông, phía đông, (thuộc) đông, ở phía đông
-Eastern	đông
-Easy	dễ dàng, dễ tính, ung dung
+East	Đông
+Eastern	phương Đông
+Easy	dễ dàng
 Eat	ăn
-Economic	(thuộc) Kinh tế
-Economy	sự tiết kiệm, sự quản lý kinh tế
-Edge	lưỡi, cạnh sắc
-Edition	nhà xuất bản, sự xuất bản
-Editor	người thu thập và xuất bản, chủ bút
-Educate	giáo dục, cho ăn học; rèn luyện
-Educated	được giáo dục, được đào tạo
-Education	sự giáo dục, sự rèn luyện (kỹ năng)
-Effect	hiệu ứng, hiệu quả, kết quả
-Effective	có kết quả, có hiệu lực
-Effectively	có kết quả, có hiệu lực
-Efficient	có hiệu lực, có hiệu quả
-Efficiently	có hiệu quả, hiệu nghiệm
-Effort	sự cố gắng, sự nỗ lực
+Eating	Ăn
+Echo	echo
+Ecological	sinh thái
+Economic	thuộc kinh tế
+Economically	kinh tế
+Economics	Kinh tế học
+Economist	nhà kinh tế học
+Economy	nên kinh tê
+Ecosystem	hệ sinh thái
+Edge	cạnh
+Edit	chỉnh sửa
+Edition	phiên bản
+Editor	người biên tập
+Educate	giáo dục
+Education	giáo dục
+Educational	giáo dục
+Educator	nhà giáo dục
+Effect	hiệu ứng
+Effective	có hiệu lực
+Effectively	có hiệu quả
+Effectiveness	hiệu quả
+Efficiency	hiệu quả
+Efficient	hiệu quả
+Effort	cố gắng
 Egg	trứng
-Either	mỗi, một; cũng phải thế
+Ego	tự ngã
+Eight	tám
+Eighth	thứ tám
+Either	hoặc
+Elaborate	kỹ lưỡng
 Elbow	khuỷu tay
-Elderly	có tuổi, cao tuổi
-Elect	bầu, quyết định
-Election	sự bầu cử, cuộc tuyển cử
-Electric	(thuộc) điện, có điện, phát điện
-Electrical	(thuộc) điện
-Electricity	điện, điện lực; điện lực học
-Electronic	(thuộc) điện tử
-Elegant	thanh lịch, tao nhã
-Element	yếu tôd, nguyên tố
-Elevator	máy nâng, thang máy
-Else	khác, nữa; nếu không
-Elsewhere	ở một nơi nào khác
-Email	thư điện tử; gửi thư điện tử
-Embarrass	lúng túng, làm ngượng nghịu; làm rắc rối, gây khó khăn
-Embarrassed	lúng túng, bối rối, ngượng; mang nợ
-Embarrassing	làm lúng túng, ngăn trở
-Embarrassment	sự lúng túng, sự bối rối
-Emerge	nổi lên, hiện ra; nổi bật lên
-Emergency	tình trạng khẩn cấp
-Emotion	xự xúc động, sự cảm động, mối xác cảm
-Emotional	cảm động, xúc động, xúc cảm; dễ cảm động, dễ xúc cảm
-Emotionally	xúc động
-Emphasis	sự nhấn mạnh, tầm quan trọng
-Emphasize	nhấn mạnh, làm nổi bật
-Empire	đế chế, đế quốc
-Employ	dùng, thuê ai làm gì
-Employee	người lao động, người làm công
-Employer	chủ, người sử dụng lao động
-Employment	sự thuê mướn
-Empty	trống, rỗng; đổ, dốc; uống, làm cạn
-Enable	làm cho có thể, có khả năng; cho phép ai làm gì
-Encounter	chạm chán, bắt gặp; sự chạm trán, sự bắt gặp
-Encourage	động viên, ủng hộ, giúp đỡ, làm can đảm, mạnh dạn
-Encouragement	niềm cổ vũ, động viên, khuyến khích
-End	giới hạn, sự kết thúc; kết thúc, chấm dứt
-Ending	sự kết thúc, sự chấm dứt; phần cuối, kết cục
-Enemy	kẻ thù, quân địch
-Energy	năng lượng, nghị lực, sinh lực
-Engage	hứa hẹn, cam kết, đính ước
-Engaged	đã đính ước, đã hứa hôn; đã có người
-Engine	máy, động cơ
+Elder	đàn anh
+Elderly	người lớn tuổi
+Elect	trúng tuyển
+Election	cuộc bầu cử
+Electric	điện
+Electrical	điện
+Electricity	điện
+Electronic	điện tử
+Electronics	thiết bị điện tử
+Elegant	thanh lịch
+Element	thành phần
+Elementary	tiểu học
+Elephant	con voi
+Elevator	thang máy
+Eleven	mười một
+Eligible	hội đủ điều kiện
+Eliminate	loại bỏ
+Elite	ưu tú
+Else	khác
+Elsewhere	ở nơi khác
+Embarrassed	xấu hổ
+Embrace	ôm hôn
+Emerge	hiện ra
+Emergency	trường hợp khẩn cấp
+Emerging	mới nổi
+Emission	khí thải
+Emotion	cảm xúc
+Emotional	đa cảm
+Emotionally	tình cảm
+Emphasis	nhấn mạnh
+Emphasize	nhấn mạnh
+Empire	đế chế
+Employ	thuê
+Employee	Nhân viên
+Employer	nhà tuyển dụng
+Employment	việc làm
+Empty	trống
+Enable	cho phép
+Enact	ban hành
+Encounter	gặp gỡ
+Encourage	khuyến khích
+Encouraging	khuyến khích
+End	kết thúc
+Endless	bất tận
+Endorse	chứng thực
+Endure	chịu đựng
+Enemy	kẻ thù
+Energy	năng lượng
+Enforce	thi hành
+Enforcement	thực thi
+Engage	thuê
+Engagement	hôn ước
+Engine	động cơ
 Engineer	kỹ sư
-Engineering	nghề kỹ sư, công việc của kỹ sư
-Enjoy	thưởng thức, thích thú cái gì, được hưởng, có được
-Enjoyable	thú vị, thích thú
-Enjoyment	sự thích thú, sự có được, được hưởng
-Enormous	to lớn, khổng lồ
+Engineering	kỹ thuật
+English	tiếng Anh
+Enhance	nâng cao
+Enjoy	thưởng thức
+Enormous	to lớn
 Enough	đủ
-Enquiry	sự điều tra, sự thẩm vấn
-Ensure	bảo đảm, chắc chắn
-Enter	đi vào, gia nhập
-Entertain	giải trí, tiếp đón, chiêu đãi
-Entertainer	người quản trò, người tiếp đãi, chiêu đãi
-Entertaining	giải trí
-Entertainment	sự giải trí, sự tiếp đãi, chiêu đãi
-Enthusiasm	sự hăng hái, sự nhiệt tình
-Enthusiastic	hăng hái, say mê, nhiệt tình
-Entire	toàn thể, toàn bộ
-Entirely	toàn vẹn, trọn vẹn, toàn bộ
-Entitle	cho tiêu đề, cho tên (sách); cho quyền làm gì
-Entrance	sự đi vào, sự nhậm chức
-Entry	sự ghi vào sổ sách, sự đi vào, sự tiếp nhận (pháp lý)
+Enroll	ghi danh
+Ensure	đảm bảo
+Enter	đi vào
+Enterprise	doanh nghiệp
+Entertainment	sự giải trí
+Enthusiasm	hăng hái
+Entire	toàn bộ
+Entirely	hoàn toàn
+Entitle	quyền lợi
+Entity	thực thể
+Entrance	cổng vào
+Entrepreneur	doanh nhân
+Entry	nhập cảnh
 Envelope	phong bì
-Environment	môi trường, hoàn cảnh xung quanh
-Environmental	thuộc về môi trường
-Equal	ngang, bằng; người ngang hàng, ngang tài, sức; bằng, ngang
-Equally	bằng nhau, ngang bằng
-Equipment	trang, thiết bị
-Equivalent	tương đương; từ, vật tương đương
-Error	lỗi, sự sai sót, sai lầm
-Escape	trốn thoát, thoát khỏi; sự trốn thoát, lỗi thoát
-Especially	đặc biệt là, nhất là
-Essay	bài tiểu luận
-Essential	bản chất, thực chất, cốt yếu; yếu tố cần thiết
-Essentially	về bản chất, về cơ bản
-Establish	lập, thành lập
-Estate	tài sản, di sản, bất động sản
-Estimate	sự ước lượng, đánh giá; ước lượng, đánh giá
-Etc.	vân vân
-Euro	đơn vị tiền tệ của liên minh châu Âu
-Even	ngay cả, ngay, lại còn; bằng phẳng, điềm đạm, ngang bằng
-Evening	buổi chiều, tối
-Event	sự việc, sự kiện
+Environment	môi trường
+Environmental	môi trường
+Envision	hình dung
+Epidemic	bệnh dịch
+Episode	tập phim
+Equal	công bằng
+Equality	bình đẳng
+Equally	bằng nhau
+Equation	phương trình
+Equip	Trang bị
+Equipment	Trang thiết bị
+Equity	công bằng
+Equivalent	tương đương
+Era	kỷ nguyên
+Error	lỗi
+Escape	thoát khỏi
+Especially	đặc biệt
+Essay	tiểu luận
+Essence	Bản chất
+Essential	Cần thiết
+Essentially	bản chất
+Establish	thành lập
+Establishment	thành lập
+Estate	bất động sản
+Estimate	ước tính
+Estimated	ước tính
+Etc	vv
+Ethical	đạo đức
+Ethics	đạo đức
+Ethnic	dân tộc
+European	Châu Âu
+Evaluate	đánh giá
+Evaluation	đánh giá
+Even	cũng
+Evening	tối
+Event	biến cố
 Eventually	cuối cùng
-Ever	từng, từ trước tới giờ
-Every	mỗi, mọi
-Everyone	mọi người
-Everything	mọi vật, mọi thứ
+Ever	không bao giờ
+Every	mỗi
+Everybody	mọi người
+Everyday	mỗi ngày
+Everyone	tất cả mọi người
+Everything	mọi điều
 Everywhere	mọi nơi
-Evidence	điều hiển nhiên, điều rõ ràng
-Evil	xấu, ác; điều xấu, điều ác, điều tai hại
-Exact	chính xác, đúng
-Exactly	chính xác, đúng đắn
-Exaggerate	cường điệu, phóng đại
-Exaggerated	cường điệu, phòng đại
-Exam	viết tắt của Examination (xem nghĩa phía dưới)
-Examination	(n) sự thi cử, kỳ thi
-Examine	thẩm tra, khám xét, hỏi han (thí sinh)
-Example	thí dụ, ví dụ
-Excellent	xuất sắc, xuất chúng
-Except	trừ ra, không kể; trừ phi
-Exception	sự trừ ra, sự loại ra
-Exchange	trao đổi; sự trao đổi
-Excite	kích thích, kích động
-Excited	bị kích thích, bị kích động
-Excitement	sự kích thích, sự kích động
-Exciting	hứng thú, thú vị
-Exclude	ngăn chạn, loại trừ
-Excluding	ngoài ra, trừ ra
-Excuse	lời xin lỗi, bào chữa; xin lỗi, tha thứ, tha lỗi
-Executive	sự thi hành, chấp hành; (thuộc) sự thi hành, chấp hành
-Exercise	bài tập, sự thi hành, sự thực hiện; làm, thi hành, thực hiện
-Exhibit	trưng bày, triển lãm; vật trưng bày, vật triển lãm
-Exhibition	cuộc triển lãm, trưng bày
-Exist	tồn tại, sống
-Existence	sự tồn tại, sự sống
-Exit	lỗi ra, sự đi ra, thoát ra
-Expand	mở rộng, phát triển, nở, giãn ra
-Expect	chờ đợi, mong ngóng; liệu trước
-Expectation	sự mong chờ, sự chờ đợi
-Expected	được chờ đợi, được hy vọng
+Evidence	chứng cớ
+Evident	hiển nhiên
+Evil	tà ác
+Evolution	sự phát triển
+Evolve	phát triển
+Exact	chính xác
+Exactly	chính xác
+Exam	thi
+Examination	kiểm tra
+Examine	xem xét
+Example	thí dụ
+Exceed	quá
+Excellent	Xuất sắc
+Except	ngoại trừ
+Exception	ngoại lệ
+Excessive	quá đáng
+Exchange	trao đổi, giao dịch
+Excited	bị kích thích
+Excitement	sự phấn khích
+Exciting	thú vị
+Exclude	loại trừ
+Exclusive	độc quyền
+Exclusively	duy nhất
+Excuse	tha
+Execute	thi hành
+Execution	chấp hành
+Executive	điều hành
+Exercise	tập thể dục
+Exhaust	thoát ra
+Exhibit	triển lãm
+Exhibition	triển lãm
+Exist	hiện hữu
+Existence	sự tồn tại
+Existing	hiện tại
+Exit	lối thoát
+Exotic	kỳ lạ
+Expand	mở rộng
+Expansion	sự bành trướng
+Expect	chờ đợi
+Expectation	sự mong đợi
+Expected	kỳ vọng
+Expedition	thám hiểm
 Expense	chi phí
 Expensive	đắt
-Experience	kinh nghiệm; trải qua, nếm mùi
-Experienced	có kinh nghiệm, từng trải, giàu kinh nghiệm
-Experiment	(v) ɛkˈspɛrəˌmɛnt/; cuộc thí nghiệm; thí nghiệm
-Expert	chuyên gia; chuyên môn, thành thạo
-Explain	giải nghĩa, giải thích
-Explanation	sự giải nghĩa, giải thích
-Explode	đập tan (hy vọng...), làm nổ, nổ
-Explore	thăm dò, thám hiểm
-Explosion	sự nổ, sự phát triển ồ ạt
-Export	xuất khẩu; hàng xuất khẩu, sự xuất khẩu
-Expose	trưng bày, phơi bày
-Express	diễn tả, biểu lộ, bày tỏ; nhanh, tốc hành
-Expression	sự diễn tả, sự bày tỏ, biểu lộ, sự diễn đạt
-Extend	giơ, duỗi ra (tay, châ(n).); kéo dài (thời gia(n).), dành cho, gửi lời
-Extension	sự giơ, duỗi; sự kéo dài, sự dành cho, gửi lời
-Extensive	rộng rãi, bao quát
-Extent	quy mô, phạm vi
-Extra	thêm, phụ, ngoại; thứ thêm, phụ
-Extraordinary	đặc biệt, lạ thường, khác thường
-Extreme	vô cùng, khắc nghiệt, quá khích, cực đoan; sự quá khích
-Extremely	vô cùng, cực độ
-Ex–	chỉ bên ngoài
+Experience	kinh nghiệm
+Experienced	có kinh nghiệm
+Experiment	thí nghiệm
+Experimental	thử nghiệm
+Expert	chuyên gia
+Expertise	chuyên môn
+Explain	giải thích
+Explanation	giải trình
+Explicit	rõ ràng
+Explo de	nổ tung
+Exploit	khai thác
+Exploration	thăm dò
+Explore	khám phá
+Explosion	nổ
+Export	xuất khẩu
+Expose	lộ ra
+Exposure	Phơi bày
+Express	bày tỏ
+Expression	biểu hiện
+Extend	mở rộng
+Extended	mở rộng
+Extension	sự mở rộng
+Extensive	sâu rộng
+Extent	phạm vi
+External	bên ngoài
+Extra	thêm
+Extraordinary	bất thường
+Extreme	cực
+Extremely	vô cùng
 Eye	mắt
-Face	mặt, thể diện; đương đầu, đối phó, đối mặt
-Facility	điều kiện dễ dàng, sự dễ dàng, thuận lợi
-Fact	việc, sự việc, sự kiện
-Factor	nhân tố
-Factory	nhà máy, xí nghiệp, xưởng
-Fail	sai, thất bại
-Failure	sự thất bại, người thất bại
-Faint	nhút nhát, yếu ớt
-Faintly	nhút nhát, yếu ớt
-Fair	hợp lý, công bằng; thuận lợi
-Fairly	hợp lý, công bằng
-Faith	sự tin tưởng, tin cậy; niềm tin, vật đảm bảo
-Faithful	trung thành, chung thủy, trung thực
-Faithfully	trung thành, chung thủy, trung thực
-Fall	rơi, ngã, sự rơi, ngã
-Fall asleep	ngủ thiếp đi
-Fall over	ngã lộn nhào, bị đổ
-False	sai, nhầm, giả dối
-Fame	tên tuổi, danh tiếng
-Familiar	thân thiết, quen thộc
-Family	gia đình, thuộc gia đình
-Famous	nổi tiếng
-Fan	người hâm mộ
-Fancy	tưởng tượng, cho, nghĩ rằng; tưởng tượng
+Eyebrow	lông mày
+Fabric	vải
+Face	khuôn mặt ,đối mặt
+Facilitate	tạo điều kiện
+Facility	cơ sở
+Fact	thực tế
+Factor	hệ số
+Factory	nhà máy
+Faculty	giảng viên
+Fade	phai màu
+Fail	Thất bại
+Failure	thất bại
+Faint	mờ nhạt
+Fair	hội chợ
+Fairly	công bằng
+Faith	đức tin
+Fall	ngã
+False	sai
+Fame	danh tiếng
+Familiar	quen
+Family	gia đình
+Famous	nổi danh
+Fan	quạt
+Fantastic	tuyệt diệu
+Fantasy	tưởng tượng
 Far	xa
-Farm	trang trại
-Farmer	nông dân, người chủ trại
-Farming	công việc trồng trọt, đồng áng
-Fashion	mốt, thời trang
-Fashionable	đúng mốt, hợp thời trang
-Fast	nhanh
-Fasten	buộc, trói
-Fat	béo, béo bở; mỡ, chất béo
-Father	cha (bố)
-Faucet	vòi (ở thùng rượu....)
-Fault	sự thiết sót, sai sót
-Favour	thiện ý, sự quý mến; sự đồng ý; sự chiếu cố
-Favourite	được ưa thích; người (vật) được ưa thích
-Fear	sự sợ hãi, e sợ; sợ, lo ngại
-Feather	lông chim
-Feature	nét đặt biệt, điểm đặc trưng; mô tả nét đặc biệt, đặc trưng của...
-February	tháng 2
+Fare	giá vé
+Farm	nông trại
+Farmer	nông phu
+Fascinating	hấp dẫn
+Fashion	thời trang
+Fast	Nhanh
+Faster	nhanh hơn
+Fat	mập
+Fatal	gây tử vong
+Fate	số phận
+Father	cha
+Fatigue	mệt mỏi
+Fault	lỗi
+Favor	ủng hộ
+Favorable	thuận lợi
+Favorite	yêu thích
+Fear	nỗi sợ
+Feather	lông vũ
+Feature	đặc tính
 Federal	liên bang
-Fee	tiền thù lao, học phí
-Feed	cho ăn, nuôi
+Fee	chi phí
+Feed	nuôi
+Feedback	Phản hồi
 Feel	cảm thấy
-Feel sick	(especially BrE) buồn nôn
-Feeling	sự cảm thấy, cảm giác
-Fellow	anh chàng (đang yêu), đồng chí
-Female	thuộc giống cái; giống cái
+Feeling	cảm giác
+Fellow	đồng bào
+Female	giống cái
+Feminist	nữ quyền sĩ
 Fence	hàng rào
-Festival	lễ hội, đại hội liên hoan
-Fetch	tìm về, đem về; làm bực mình; làm say mê, quyến rũ
-Fever	cơn sốt, bệnh sốt
-Few	ít,vài; một ít, một vài
-Field	cánh đồng, bãi chiến trường
-Fight	đấu tranh, chiến đấu; sự đấu tranh, cuộc chiến đấu
-Fighting	sự chiến đấu, sự đấu tranh
-Figure	hình dáng, nhân vật; hình dung, miêu tả
-File	hồ sơ, tài liệu
-Fill	làm đấy, lấp kín
-Film	phim, được dựng thành phim
-Final	cuối cùng, cuộc đấu chung kết
-Finally	cuối cùng, sau cùng
-Finance	tài chính; tài trợ, cấp vốn
-Financial	thuộc (tài chính)
-Find	tìm, tìm thấy
-Find out sth	khám phá, tìm ra
-Fine	tốt, giỏi
-Finely	đẹp đẽ, tế nhị, cao thượng
+Festival	lễ hội
+Fever	sốt
+Few	vài
+Fewer	ít hơn
+Fiber	chất xơ
+Fiction	viễn tưởng
+Field	cánh đồng
+Fierce	khốc liệt
+Fifteen	mười lăm
+Fifth	thứ năm
+Fifty	năm mươi
+Fight	chiến đấu
+Fighter	đấu sĩ
+Fighting	trận đánh
+Figure	nhân vật
+File	tập tin
+Fill	lấp đầy
+Film	phim ảnh
+Filter	lọc
+Final	sau cùng
+Finally	cuối cùng
+Finance	tài chính
+Financial	tài chính
+Find	tìm thấy
+Finding	Phát hiện
+Fine	khỏe
 Finger	ngón tay
-Finish	kết thúc, hoàn thành; sự kết thúc, phần cuối
-Finished	hoàn tất, hoàn thành
-Fire	lửa; đốt cháy
-Firm	hãng, công ty; chắc, kiên quyết, vũng vàng, mạnh mẽ
-Firmly	vững chắc, kiên quyết
-First	thứ nhất, đầu tiên, trước hết; người, vật đầu tiên, thứ nhất
-Fish	cá, món cá; câu cá, bắt cá
-Fishing	sự câu cá, sự đánh cá
-Fit	hợp, vừa; thích hợp, xứng đáng
-Fix	đóng, gắn, lắp; sửa chữa, sửa sang
-Fixed	đứng yên, bất động
-Flag	quốc kỳ
+Finish	hoàn thành
+Fire	ngọn lửa
+Firm	chắc chắn
+Firmly	vững chắc
+First	Đầu tiên
+Fiscal	tài chính
+Fish	cá
+Fisherman	ngư dân
+Fishing	đánh bắt cá
+Fist	nắm tay
+Fit	Phù hợp
+Fitness	sự tập thể dục
+Five	số năm
+Fix	sửa chữa
+Fixed	đã sửa
+Flag	cờ
 Flame	ngọn lửa
-Flash	loé sáng, vụt sáng; ánh sáng lóe lên, đèn nháy
-Flat	bằng phẳng, bẹt, nhẵn; dãy phòng, căn phòng, mặt phẳng
-Flavour	vị, mùi; cho gia vị, làm tăng thêm mùi vị
-Flesh	thịt
-Flight	sự bỏ chạy, rút chạy; sự bay, chuyến bay
-Float	nổi, trôi, lơ lửng
-Flood	lụt, lũ lụtl; tràn đầy, tràn ngập
-Floor	sàn, tầng (nhà)
-Flour	bột, bột mỳ
-Flow	sự chảy; chảy
-Flower	hoa, bông, đóa, cây hoa
-Flu	bệnh cúm
-Fly	bay; sự bay, quãng đường bay
-Flying	biết bay; sự bay, chuyến bay
-Focus	tập trung; trung tâm, trọng tâm ((n)bóng)
-Fold	gấp, vén, xắn; nếp gấp
-Folding	gấp lại được
-Follow	đi theo sau, theo, tiếp theo
-Following	tiếp theo, theo sau, sau đây; sau, tiếp theo
-Food	đồ ăn, thức, món ăn
-Foot	chân, bàn chân
+Flash	đèn flash
+Flat	bằng phẳng
+Flavor	hương vị
+Flee	chạy trốn
+Fleet	hạm đội
+Flesh	xác thịt
+Flexibility	Mềm dẻo
+Flexible	linh hoạt
+Flight	chuyến bay
+Flip	lật
+Float	phao
+Flood	lũ
+Floor	sàn nhà
+Flour	bột mì
+Flow	lưu lượng
+Flower	hoa
+Fluid	chất lỏng
+Fly	bay
+Flying	bay
+Focus	tiêu điểm
+Fog	sương mù
+Fold	gập lại
+Folk	dân gian
+Follow	theo
+Following	tiếp theo
+Food	món ăn
+Fool	ngu xuẩn
+Foot	chân
 Football	bóng đá
-For	cho, dành cho...
-For instance	ví dụ chẳng hạn
-Force	sức mạnh; ép buộc, cưỡng ép
-Forecast	sự dự đoán, dự báo; dự đoán, dự báo
-Foreign	(thuộc) nước ngoài, từ nước ngoài, ở nước ngoài
+For	cho
+Forbid	ngăn cấm
+Force	lực lượng
+Forehead	trán
+Foreign	ngoại quốc
+Foreigner	người nước ngoài
 Forest	rừng
 Forever	mãi mãi
 Forget	quên
-Forgive	tha, tha thứ
+Forgive	tha lỗi
 Fork	cái nĩa
-Form	hình thể, hình dạng, hình thức; làm thành, được tạo thành
-Formal	hình thức
-Formally	chính thức
-Former	trước, cũ, xưa, nguyên
-Formerly	trước đây, thuở xưa
-Formula	công thức, thể thức, cách thức
-Fortune	sự giàu có, sự thịnh vượng
-Forward	ở phía trước, tiến về phía trước
-Forward	về tương lai, sau này ở phía trước, tiến về phía trước
-Found	(q.k of find) tìm, tìm thấy
-Foundation	sự thành lập, sự sáng lập; tổ chức
-Frame	cấu trúc, hệ thống; dàn xếp, bố trí
-Free	miễn phí, tự do, giải phóng, trả tự do
-Freedom	sự tự do; nền tự do
-Freely	tự do, thoải mái
-Freeze	sự đông lạnh, sự giá lạnh; làm đông, làm đóng băng
-Freeze	đóng băng, đông lạnh
-Frequent	thường xuyên
+Form	hình thức
+Formal	chính thức
+Format	định dạng
+Formation	sự hình thành
+Former	trước đây
+Formerly	trước kia
+Formula	công thức
+Forth	ra
+Fortunately	may mắn
+Fortune	vận may
+Forty	bốn mươi
+Forum	diễn đàn
+Forward	phía trước
+Foster	nuôi dưỡng
+Found	tìm
+Foundation	nền tảng
+Founder	người sáng lập
+Four	bốn
+Fourth	thứ tư
+Fraction	phân số
+Fragile	mong manh
+Fragment	miếng
+Frame	khung
+Framework	khuôn khổ
+Franchise	nhượng quyền thương mại
+Frankly	thẳng thắn
+Fraud	gian lận
+Free	miễn phí
+Freedom	sự tự do
+Freely	tự do
+Freeze	Đông cứng
+French	người Pháp
+Frequency	tần số
+Frequent	Thường xuyên
 Frequently	thường xuyên
-Fresh	tươi, tươi tắn
-Freshly	tươi mát, khỏe khoắn
-Friday	thứ Sáu
-Fridge	tủ lạnh
+Fresh	tươi
+Freshman	sinh viên năm nhất
 Friend	người bạn
-Friendly	thân thiện, thân mật
-Friendship	tình bạn, tình hữu nghị
-Frighten	làm sợ, làm hoảng sợ
-Frightened	hoảng sợ, khiếp sợ
-Frightening	kinh khủng, khủng khiếp
-From	frəm/; từ
-Front	mặt; đằng trước, về phía trước
-Frozen	lạnh giá
-Fruit	quả, trái cây
-Fry	rán, chiên; thịt rán
-Fuel	chất đốt, nhiên liệu
-Full	đầy, đầy đủ
-Fully	đầy đủ, hoàn toàn
-Fun	sự vui đùa, sự vui thích; hài hước
-Function	chức năng; họat động, chạy (máy)
-Fund	kho, quỹ; tài trợ, tiền bạc, để tiền vào công quỹ
-Fundamental	cơ bản, cơ sở, chủ yếu
-Funeral	lễ tang, đám tang
-Funny	buồn cười, khôi hài
-Fur	bộ da lông thú
-Furniture	đồ đạc (trong nhà)
-Further	xa hơn nữa; thêm nữa
-Further, furthest	cấp so sánh của far
-Future	tương lai
-Gain	lợi, lợi ích; giành được, kiếm được, đạt tới
-Gallon	Galông 1gl = 4, 54 lít ở Anh, 3, 78 lít ở Mỹ
-Gamble	đánh bạc; cuộc đánh bạc
-Gambling	trò cờ bạc
+Friendly	thân thiện
+Friendship	hữu nghị
+From	từ
+Front	trước mặt
+Frontier	biên giới
+Frown	nhăn mặt
+Frozen	đông lạnh
+Fruit	trái cây
+Frustrate	thất vọng
+Fucking	fucking
+Fuel	nhiên liệu
+Full	đầy
+Full-time	toàn thời gian
+Fully	đầy đủ
+Fun	vui vẻ
+Function	chức năng, hàm
+Functional	chức năng
+Fund	quỹ
+Fundamental	căn bản
+Funding	kinh phí
+Funeral	tang lễ
+Funny	buồn cười
+Fur	lông thú
+Furniture	đồ nội thất
+Furthermore	hơn nữa
+Future	Tương lai
+Gain	thu được
+Galaxy	Thiên hà
+Gallery	bộ sưu tập
 Game	trò chơi
-Gap	đèo, lỗ hổng, kẽ hở; chỗ trống
-Garage	nhà để ô tô
-Garbage	lòng, ruột (thú)
+Gang	băng nhóm
+Gap	lỗ hổng
+Garage	gara
+Garbage	rác thải
 Garden	vườn
-Gas	khí, hơi đốt
-Gasoline	dầu lửa, dầu hỏa, xăng
-Gate	cổng
-Gather	tập hợp; hái, lượm, thu thập
-Gear	cơ cấu, thiết bị, dụng cụ
-General	chung, chung chung; tổng
-Generally	nói chung, đại thể
-Generate	sinh, đẻ ra
-Generation	sự sinh ra, sự phát sinh ra; thế hệ, đời
-Generous	rộng lượng, khoan hồng, hào phóng
-Generously	rộng lượng, hào phóng
-Gentle	hiền lành, dịu dàng, nhẹ nhàng
-Gentleman	người quý phái, người thượng lưu
-Gently	nhẹ nhàng, êm ái, dịu dàng
-Genuine	thành thật, chân thật; xác thực
-Genuinely	thành thật, chân thật
-Geography	địa lý, khoa địa lý
-Get	được, có được
-Get off	ra khỏi, thoát khỏi
-Get on	leo, trèo lên
-Giant	người khổng lồ, người phi thường; khổng lồ, phi thường
+Garlic	tỏi
+Gas	khí đốt
+Gasoline	xăng
+Gate	cánh cổng
+Gather	tụ họp
+Gathering	thu thập
+Gay	gay
+Gaze	nhìn chằm chằm
+Gaze	nhìn chằm chằm
+Gear	Hộp số
+Gender	giới tính
+Gene	gen
+General	chung
+Generally	nói chung là
+Generate	tạo ra
+Generation	thế hệ
+Generous	hào phóng
+Genetic	di truyền
+Genius	Thiên tài
+Genre	thể loại
+Gentle	dịu dàng
+Gentleman	quý ông
+Gently	dịu dàng
+Genuine	chính hãng
+German	tiếng Đức
+Gesture	cử chỉ
+Get	được
+Ghost	ma
+Giant	khổng lồ
 Gift	quà tặng
+Gifted	năng khiếu
 Girl	con gái
-Girlfriend	bạn gái, người yêu
-Give	cho, biếu, tặng
-Give	bỏ, từ bỏ
-Give birth	sinh ra
-Give sth away	cho, phát
-Give sth out	chia, phân phối
-Glad	vui lòng, sung sướng
-Glass	kính, thủy tinh, cái cốc, ly
-Glasses	kính đeo mắt
-Global	toàn cầu, toàn thể, toàn bộ
-Glove	bao tay, găng tay
-Glue	keo, hồ; gắn lại, dán bằng keo, hồ
+Girlfriend	bạn gái
+Give	đưa cho
+Given	được
+Glad	vui vẻ
+Glance	nháy mắt
+Glass	ly
+Glimpse	nhìn thoáng qua
+Global	toàn cầu
+Globe	quả địa cầu
+Glory	vinh quang
+Glove	găng tay
 Go	đi
-Go bad	bẩn thỉu, thối, hỏng
-Go down	đi xuống
-Go up	đi lên
-Go wrong	mắc lỗi, sai lầm
 Goal	mục tiêu
-God	thần, Chúa
-Gold	vàng; bằng vàng
-Good	tốt, hay, tuyệt; điều tốt, điều thiện
-Good at	tiến bộ ở
-Good for	có lợi cho
-Good, well	/wel/; tốt, khỏe
-Goodbye exclamation,	tạm biệt; lời chào tạm biệt
-Goods	của cải, tài sản, hàng hóa
-Govern	cai trị, thống trị, cầm quyền
-Government	chính phủ, nội các; sự cai trị
-Governor	thủ lĩnh, chủ; kẻ thống trị
-Grab	túm lấy, vồ, chộp lấy
-Grade	điểm, điểm số; phân loại, xếp loại
-Gradual	dần dần, từng bước một
-Gradually	dần dần, từ từ
-Grain	thóc lúa, hạt, hột; tính chất, bản chất
-Gram	ngữ pháp
-Gram	đậu xanh
-Grammar	văn phạm
-Grand	rộng lớn, vĩ đại
-Grandchild	cháu (của ông bà)
-Granddaughter	cháu gái
-Grandfather	ông
-Grandmother	bà
+Goat	con dê
+God	thần
+Gold	vàng
+Golden	vàng
+Golf	golf
+Good	tốt
+Govern	quản lý
+Government	chính quyền
+Governor	thống đốc
+Grab	vồ lấy
+Grace	ân sủng
+Grade	cấp
+Gradually	dần dần
+Graduate	tốt nghiệp
+Graduation	tốt nghiệp
+Grain	ngũ cốc
+Grand	lớn
+Grandchild	cháu ngoại
+Grandfather	ông nội
+Grandmother	bà ngoại
 Grandparent	ông bà
-Grandson	cháu trai
-Grant	cho, ban, cấp; sự cho, sự ban, sự cấp
-Grass	cỏ; bãi cỏ, đồng cỏ
-Grateful	biết ơn, dễ chịu, khoan khoái
-Grave	mộ, dấu huyền; trang nghiêm, nghiêm trọng
-Gray	xám, hoa râm (tóc)
-Great	to, lớn, vĩ đại
-Greatly	rất, lắm; cao thượng, cao cả
-Green	xanh lá cây
-Grey	xám, hoa râm (tóc)
-Grey	màu xám
-Groceries	hàng tạp hóa
-Grocery	cửa hàng tạp phẩm
-Ground	mặt đất, đất, bãi đất
+Grant	ban cho
+Grape	giống nho
+Grasp	sự hiểu biết
+Grass	cỏ
+Grateful	tri ân
+Grave	phần mộ
+Gravity	nghiêm trọng
+Gray	màu xám
+Great	tuyệt quá
+Greatest	vĩ đại nhất
+Greatly	rất nhiều
+Greek	người Hy Lạp
+Green	màu xanh lá
+Greet	chào hỏi
+Grief	đau buồn
+Grin	nụ cười
+Grip	nắm chặt
+Grocery	tạp hóa
+Gross	Tổng
+Ground	đất
 Group	nhóm
-Grow	mọc, mọc lên
-Grow up	lớn lên, trưởng thành
-Growth	sự lớn lên, sự phát triển
-Guarantee	sự bảo hành, bảo lãnh, người bảo lãnh; cam
-Guard	cái chắn, người bảo vệ; bảo vệ, gác, canh giữ
-Guess	đoán, phỏng đoán; sự đoán, sự ước chừng
-Guest	khách, khách mời
-Guide	điều chỉ dẫn, người hướng dẫn; dẫn đường, chỉ đường
-Guilty	có tội, phạm tội, tội lỗi
+Grow	lớn lên
+Growing	phát triển
+Growth	sự phát triển
+Guarantee	Bảo hành
+Guard	bảo vệ
+Guess	phỏng đoán
+Guest	khách
+Guidance	hướng dẫn
+Guide	hướng dẫn
+Guideline	hướng dẫn
+Guilt	tội lỗi
+Guilty	tội lỗi
+Guitar	đàn ghi ta
 Gun	súng
-Guy	anh chàng, gã
-Habit	thói quen, tập quán
+Gut	ruột
+Guy	chàng
+Gym	phòng thể dục
+Ha	ha
+Habit	thói quen
+Habitat	môi trường sống
 Hair	tóc
-Hairdresser	thợ làm tóc
-Half	một nửa, phần chia đôi, nửa giờ; nửa
-Hall	đại sảnh, tòa (thị chính), hội trường
-Hammer	búa
-Hand	tay, bàn tay; trao tay, truyền cho
-Handle	cầm, sờ mó; tay cầm, móc quai
-Hang	treo, mắc
-Happen	xảy ra, xảy đến
-Happily	sung sướng, hạnh phúc
-Happiness	sự sung sướng, hạnh phúc
-Happy	vui sướng, hạnh phúc
-Hard	cứng, rắn, hà khắc; hết sức cố gắng, tích cực
-Hardly	khắc nghiệt, nghiêm khắc, tàn tệ, khó khăn
-Harm	thiệt hại, tổn hao; làm hại, gây thiệt hại
-Harmful	gây tai hại, có hại
-Harmless	không có hại
-Hat	cái mũ
-Hate	ghét; lòng căm ghét, thù hận
-Hatred	lòng căm thì, sự căm ghét
+Half	một nửa
+Halfway	nửa chừng
+Hall	đại sảnh
+Hallway	hành lang
+Hand	tay
+Handful	ít
+Handle	xử lý
+Handsome	đẹp
+Hang	treo
+Happen	xảy ra
+Happily	hạnh phúc
+Happiness	hạnh phúc
+Happy	vui mừng
+Harassment	quấy rối
+Hard	cứng
+Hardly	khó khăn
+Hardware	phần cứng
+Harm	làm hại
+Harmony	hòa hợp
+Harsh	khắc nghiệt
+Harvest	mùa gặt
+Hat	nón
+Hate	ghét bỏ
+Haul	lôi
 Have	có
-Have to	phải (bắt buộc, có bổn phận phải)
-He	nó, anh ấy, ông ấy
-Head	cái đầu (người, thú); chỉ huy, lãnh đại, dẫn đầu
-Headache	chứng nhức đầu
-Heal	chữa khỏi, làm lành
-Health	sức khỏe, thể chất, sự lành mạnh
-Healthy	khỏe mạnh, lành mạnh
-Hear	nghe
-Hearing	sự nghe, thính giác
-Heart	tim, trái tim
-Heat	hơi nóng, sức nóng
-Heating	sự đốt nóng, sự làm nóng
+Hazard	nguy hiểm
+He	anh ta
+Head	cái đầu
+Headache	đau đầu
+Headline	tiêu đề
+Headquarters	trụ sở chính
+Heal	chữa lành
+Health	Sức khỏe
+Healthy	khỏe mạnh
+Hear	Nghe
+Hearing	thính giác
+Heart	tim
+Heat	nhiệt
 Heaven	thiên đường
-Heavily	nặng, nặng nề
-Heavy	nặng, nặng nề
+Heavily	nặng nề
+Heavy	nặng
 Heel	gót chân
-Height	chiều cao, độ cao; đỉnh, điểm cao
-Hell	địa ngục
-Hello	lời chào hỏi, chào
-Help	giúp đỡ; sự giúp đỡ
-Helpful	có ích; giúp đỡ
-Hence	sau đây, kể từ đây; do đó, vì thế
-Her	nó, chị ấy, cô ấy, bà ấy
-Here	đây, ở đây
-Hero	người anh hùng
-Hers	cái của nó, cái của cô ấy, cái của chị ấy, cái của bà ấy
-Herself	chính nó, chính cô ta, chính chị ta, chính bà ta
-Hesitate	ngập ngừng, do dự
-Hi	xin chào thôi !!!
-Hide	trốn, ẩn nấp; che giấu
-High	cao, ở mức độ cao
-Highlight	làm nổi bật, nêu bật; chỗ nổi bật nhất, đẹp, sáng nhất
-Highly	tốt, cao; hết sức, ở mức độ cao
-Highway	đường quốc lộ
-Hill	đồi
-Him	nó, hắn, ông ấy, anh ấy
-Himself	chính nó, chính hắn, chính ông ta, chính anh ta
+Height	Chiều cao
+Helicopter	máy bay trực thăng
+Hell	Địa ngục
+Hello	xin chào
+Helmet	mũ bảo hiểm
+Help	Cứu giúp
+Helpful	Hữu ích
+Hence	vì thế
+Her	cô ấy
+Herb	thảo mộc
+Here	đây
+Heritage	gia tài
+Hero	anh hùng
+Hers	của cô ấy
+Herself	cô ấy
+Hesitate	do dự
+Hey	Chào
+Hi	Chào
+Hidden	ẩn
+Hide	ẩn giấu
+High	cao
+High-tech	công nghệ cao
+Highlight	Điểm nổi bật
+Highly	cao
+Highway	Xa lộ
+Hike	đi lang thang
+Hill	đồi núi
+Him	anh ta
+Himself	bản thân anh ấy
+Hint	dấu
 Hip	hông
-Hire	thuê, cho thuê (nhà...); sự thuê, sự cho thuê
+Hire	thuê mướn
 His	của anh ấy
-Historical	lịch sử, thuộc lịch sử
-History	lịch sử, sử học
-Hit	đánh, đấm, ném trúng; đòn, cú đấm
-Hobby	sở thích riêng
-Hold	cầm, nắm, giữ; sự cầm, sự nắm giữ
-Hole	lỗ, lỗ trống; hang
-Holiday	ngày lễ, ngày nghỉ
-Hollow	rỗng, trống rỗng
-Holy	linh thiêng; sùng đạo
-Home	nhà; ở tại nhà, nước mình
-Homework	bài tập về nhà (học sinh), công việc làm ở nhà
-Honest	lương thiện, trung thực, chân thật
-Honestly	lương thiện, trung thực, chân thật
-Honour	danh dự, thanh danh, lòng kính trọng
-Hook	cái móc; bản lề; lưỡi câu
-Hope	hy vọng; nguồn hy vọng
-Horizontal	(thuộc) chân trời, ở chân trời; ngang, nằm ngang (trục hoành)
-Horn	sừng (trâu, bò...)
-Horror	điều kinh khủng, sự ghê rợn
-Horse	ngựa
-Hospital	bệnh viện, nhà thương
-Host	chủ nhà, chủ tiệc; dẫn (c.trình), đăng cai tổ chức (hội nghị....)
-Hot	nóng, nóng bức
+Hispanic	Người Hispanic
+Historian	nhà sử học
+Historic	mang tính lịch sử
+Historical	lịch sử
+History	lịch sử
+Hit	đánh
+Hockey	khúc côn cầu
+Hold	giữ
+Hole	lỗ
+Holiday	ngày lễ
+Holy	thánh
+Home	nhà
+Homeland	quê hương
+Homeless	Vô gia cư
+Homework	bài tập về nhà
+Honest	thật thà
+Honestly	thành thật
+Honey	mật ong
+Honor	tôn vinh
+Hook	cái móc
+Hope	mong
+Hopefully	hy vọng
+Horizon	đường chân trời
+Hormone	hoocmon
+Horn	sừng
+Horrible	kinh khủng
+Horror	kinh dị
+Horse	con ngựa
+Hospital	bệnh viện
+Host	chủ nhà
+Hostage	con tin
+Hostile	Hostile
+Hot	nóng bức
 Hotel	khách sạn
 Hour	giờ
-House	nhà, căn nhà, toàn nhà
-Household	hộ, gia đình; (thuộc) gia đình
-Housing	nơi ăn chốn ở
-How	thế nào, như thế nào, làm sao, ra sao
-However	tuy nhiên, tuy vậy, dù thế nào
-Huge	to lớn, khổng lồ
-Human	(thuộc) con người, loài người
-Humorous	hài hước, hóm hỉnh
-Humour	sự hài hước, sự hóm hỉnh
-Hungry	đó
-Hunt	săn, đi săn
-Hunting	sự đi săn
-Hurry	sự vội vàng, sự gấp rút
-Hurt	làm bị thương, gây thiệt hại
+House	nhà ở
+Household	hộ gia đình
+Housing	nhà ở
+How	làm sao
+However	Tuy nhiên
+Hug	ôm
+Huge	khổng lồ
+Huh	Huh
+Human	Nhân loại
+Humanity	nhân loại
+Humor	hài hước
+Hundred	hàng trăm
+Hunger	đói
+Hungry	đói bụng
+Hunt	săn bắn
+Hunter	thợ săn
+Hunting	săn bắn
+Hurricane	bão
+Hurry	vội
+Hurt	đau
 Husband	người chồng
-I.e.	nghĩa là, tức là ( Id est)
-Ice	băng, nước đá
-Ice cream	kem
-Idea	ý tưởng, quan niệm
-Ideal	(thuộc) quan niệm, tư tưởng; lý tưởng
-Ideally	lý tưởng, đúng như lý tưởng
-Identify	nhận biết, nhận ra, nhận dạng
-Identity	cá tính, nét nhận dạng; tính đồng nhất, giống hệt
-If	nếu, nếu như
-Ignore	phớt lờ, tỏ ra không biết đến
-Ill	ốm
-Illegal	trái luật, bất hợp pháp
-Illegally	trái luật, bất hợp pháp
-Illness	sự đau yếu, ốm, bệnh tật
-Illustrate	minh họa, làm rõ ý
-Image	ảnh, hình ảnh
-Imaginary	tưởng tượng, ảo
-Imagination	trí tưởng tượng, sự tưởng tượng
-Imagine	tưởng tượng, hình dung; tưởng rằng, cho rằng
-Immediate	lập tức, tức thì
-Immediately	ngay lập tức
-Immoral	trái đạo đức, luân lý; xấu xa
-Impact	sự và chạm, sự tác động, ảnh hưởng
-Impatient	thiếu kiên nhẫn, nóng vội
-Impatiently	nóng lòng, sốt ruột
-Implication	sự lôi kéo, sự liên can, điều gợi ý
-Imply	ngụ ý, bao hàm
-Import	sự nhập, sự nhập khẩu; nhập, nhập khẩu
-Importance	sự quan trọng, tầm quan trọng
-Important	quan trọng, hệ trọng
-Importantly	quan trọng, trọng yếu
-Impose	đánh (thuế...), bắt gánh vác; đánh tráo, lợi dụng
-Impossible	không thể làm được, không thể xảy ra
-Impress	ghi, khắc, in sâu vào; gây ấn tượng, làm cảm động
-Impressed	được ghi, khắc, in sâu vào
-Impression	ấn tượng, cảm giác; sự in, đóng dấu
-Impressive	gấy ấn tượng mạnh; hùng vĩ, oai vệ
-Improve	cải thiện, cái tiến, mở mang
-Improvement	sự cái thiện, sự cải tiến, sự mở mang
-In	ở, tại, trong; vào
-In a hurry	vội vàng, hối hả, gấp rút
-In addition	thêm vào
-In advance	trước, sớm
-In case	nếu, trong trường hợp
-In charge of	phụ trách
-In common	sự chung, của chung
-In control	trong sự điều khiển của
-In detail	tường tận, tỉ mỉ
-In exchange	trong việc trao đổi về
-In favour	ủng hộ cái gì (to be in favour of something )
-In front	ở phía trước
-In general	nói chung, đại khái
-In honour	để tỏ lòng tôn kính, trân trọng đối với
-In memory of	sự tưởng nhớ
-In order to	hợp lệ
-In public	giữa công chúng, công khai
-In the end	cuối cùng, về sau
-Inability	sự bất lực, bất tài
-Inch	insơ (đơn vị đo chiều dài Anh bằng 2, 54 cm)
-Incident	việc xảy ra, việc có liên quan
-Include	bao gồm, tính cả
-Including	bao gồm, kể cả
-Income	lợi tức, thu nhập
-Increase	tăng, tăng thêm; sự tăng, sự tăng thêm
-Increasingly	tăng thêm
-Indeed	thật vậy, quả thật
-Independence	sự độc lập, nền độc lập
+Hypothesis	giả thuyết
+I	tôi
+Ice	Nước đá
+Icon	biểu tượng
+Idea	ý kiến
+Ideal	lý tưởng
+Identical	giống nhau
+Identification	nhận biết
+Identify	nhận định
+Ideological	ý thức hệ
+Ideology	hệ tư tưởng
+Ie	nghĩa là
+If	nếu
+Ignore	bỏ qua
+Ill	bệnh
+Illegal	bất hợp pháp
+Illness	bệnh
+Illusion	ảo giác
+Illustrate	Minh họa
+Image	hình ảnh
+Imagination	trí tưởng tượng
+Imagine	tưởng tượng
+Immediate	ngay lập tức
+Immediately	ngay
+Immigrant	di trú
+Immigration	nhập cư
+Immune	miễn dịch
+Impact	va chạm
+Implement	thực hiện
+Implementation	thực hiện
+Implication	hàm ý
+Imply	ngụ ý
+Import	nhập khẩu
+Importance	tầm quan trọng
+Important	quan trọng
+Importantly	quan trọng
+Impose	áp đặt
+Impossible	Không thể nào
+Impress	gây ấn tượng
+Impression	ấn tượng
+Impressive	ấn tượng
+Improve	cải tiến
+Improved	cải tiến
+Improvement	cải tiến
+Impulse	thúc đẩy
+In	trong
+Incentive	khuyến khích
+Incident	biến cố
+Include	bao gồm
+Including	kể cả
+Income	thu nhập
+Incorporate	kết hợp
+Increase	tăng
+Increased	tăng
+Increasing	tăng
+Increasingly	ngày càng
+Incredible	đáng kinh ngạc
+Incredibly	vô cùng
+Indeed	thật
+Independence	độc lập
 Independent	độc lập
-Independently	độc lập
-Index	chỉ số, sự biểu thị
-Indicate	chỉ, cho biết; biểu thị, trình bày ngắn gọn
-Indication	sự chỉ, sự biểu thị, sự biểu lộ
-Indirect	gián tiếp
-Indirectly	gián tiếp
-Individual	riêng, riêng biệt; cá nhân
-Indoor	trong nhà
-Indoors	ở trong nhà
-Industrial	(thuộc) công nghiệp, kỹ nghệ
-Industry	công nghiệp, kỹ nghệ
-Inevitable	không thể tránh được, chắc chắn xảy ra; vẫn thường thấy, nghe
+Index	mục lục
+Indian	người Ấn Độ
+Indicate	biểu thị
+Indication	dấu hiệu
+Indicator	chỉ thị
+Indigenous	bản địa
+Individual	cá nhân
+Industrial	công nghiệp
+Industry	ngành công nghiệp
+Inevitable	chắc chắn xảy ra
 Inevitably	chắc chắn
-Infect	nhiễm, tiêm nhiễm, đầu độc, lan truyền
-Infected	bị nhiễm, bị đầu độc
-Infection	sự nhiễm, sự đầu độc
-Infectious	lây, nhiễm
-Influence	sự ảnh hưởng, sự tác dụng; ảnh hưởng, tác động
-Inform	báo cho biết, cung cấp tin tức
-Informal	không chính thức, không nghi thức
-Information	tin tức, tài liệu, kiến thức
-Ingredient	phần hợp thành, thành phần
-Initial	ban đầu, lúc đầu; chữ đầu (của 1 tên gọi)
-Initially	vào lúc ban đầu, ban đầu
-Initiative	bước đầu, sự khởi đầu
-Injure	làm tổn thương, làm hại, xúc phạm
-Injured	bị tổn thương, bị xúc phạm
-Injury	sự làm tổn thương, làm hại; điều hại, điều tổn hại
-Ink	mực
-Inner	ở trong, nội bộ; thân cận
-Innocent	vô tội, trong trắng, ngây thơ
-Insect	sâu bọ, côn trùng
-Insert	chèn vào, lồng vào
-Inside	mặt trong, phía, phần trong; ở trong, nội bộ
-Insist	cứ nhất định, cứ khăng khăng
-Install	đặt (hệ thống máy móc, thiết bị...)
-Instance	thí dị, ví dụ; trường hợp cá biệt
-Instead	để thay thế
-Instead of	thay cho
-Institute	viện, học viện
-Institution	US ,insti'tu:ʃn/; sự thành lập, lập; cơ quan, trụ sở
-Instruction	sự dạy, tài liệu cung cấp
-Instrument	dụng cụ âm nhạc khí
-Insult	lăng mạ, xỉ nhục; lời lăng mạ, sự xỉ nhục
-Insulting	lăng mạ, xỉ nhục
-Insurance	sự bảo hiểm
-Intelligence	sự hiểu biết, trí thông minh
-Intelligent	thông minh, sáng trí
-Intend	ý định, có ý định
-Intended	có ý định, có dụng ý
-Intention	ý định, mục đích
-Interest	or /ˈɪntrest/; sự thích thú, sự quan tâm, chú ý; làm quan tâm, làm chú ý
-Interested	có thích thú, có quan tâm, có chú ý
-Interesting	làm thích thú, làm quan tâm, làm chú ý
-Interior	phần trong, phía trong; ở trong, ở phía trong
-Internal	ở trong, bên trong, nội địa
+Infant	trẻ sơ sinh
+Infection	nhiễm trùng
+Inflation	lạm phát
+Influence	ảnh hưởng
+Influential	có ảnh hưởng
+Inform	thông báo
+Informal	không chính thức
+Information	thông tin
+Infrastructure	cơ sở hạ tầng
+Ingredient	thành phần
+Inherent	vốn có
+Inherit	thừa kế
+Initial	ban đầu
+Initially	ban đầu
+Initiate	bắt đầu
+Initiative	sáng kiến
+Injure	làm bị thương
+Injury	chấn thương
+Inmate	tù nhân
+Inner	bên trong
+Innocent	vô tội
+Innovation	đổi mới
+Innovative	sáng tạo
+Input	đầu vào
+Inquiry	yêu cầu
+Insect	côn trùng
+Insert	chèn
+Inside	phía trong
+Insight	cái nhìn sâu sắc
+Insist	năn nỉ
+Inspection	kiểm tra
+Inspector	thanh tra
+Inspiration	cảm hứng
+Inspire	truyền cảm hứng
+Install	cài đặt, dựng lên
+Installation	cài đặt
+Instance	ví dụ
+Instant	tức thời
+Instantly	ngay lập tức
+Instead	thay thế
+Instinct	bản năng
+Institution	tổ chức
+Institutional	thể chế
+Instruct	dạy
+Instruction	chỉ dẫn
+Instructional	hướng dẫn
+Instructor	giảng viên
+Instrument	dụng cụ
+Insurance	bảo hiểm
+Intact	nguyên vẹn
+Integrate	tích hợp
+Integrated	tích hợp
+Integration	hội nhập
+Integrity	chính trực
+Intellectual	trí tuệ
+Intelligence	Sự thông minh
+Intelligent	thông minh
+Intend	dự định
+Intense	cường độ cao
+Intensity	cường độ
+Intent	ý định
+Intention	ý định
+Interact	tương tác
+Interaction	sự tương tác
+Interest	quan tâm
+Interested	quan tâm
+Interesting	hấp dẫn
+Interfere	gây trở ngại
+Interior	Nội địa
+Internal	bên trong
 International	quốc tế
-Internet	liên mạng
-Interpret	giải thích
-Interpretation	sự giải thích
-Interrupt	làm gián đoạn, ngắt lời
-Interruption	sự gián đoạn, sự ngắt lời
-Interval	khoảng (k–t.gian), khoảng cách
-Interview	cuộc phỏng vấn, sự gặp mặt; phỏng vấn, nói chuyện riêng
-Into	or /'intə/; vào, vào trong
+Internet	Internet
+Interpret	thông dịch
+Interpretation	diễn dịch
+Interrupt	làm gián đoạn
+Interval	khoảng thời gian
+Intervention	can thiệp
+Interview	phỏng vấn
+Intimate	thân mật
+Into	vào
 Introduce	giới thiệu
-Introduction	sự giới thiệu, lời giới thiệu
-Invent	phát minh, sáng chế
-Invention	sự phát minh, sự sáng chế
+Introduction	Giới thiệu
+Invade	xâm chiếm
+Invasion	cuộc xâm lăng
+Invent	phát minh
+Invention	sự phát minh
+Inventory	hàng tồn kho
 Invest	đầu tư
-Investigate	điều tra, nghiên cứu
-Investigation	sự điều tra, nghiên cứu
-Investment	sự đầu tư, vốn đầu tư
-Invitation	lời mời, sự mời
-Invite	mời
-Involve	bao gồm, bao hàm; thu hút, dồn tâm trí
-Involved in	để hết tâm trí vào
-Involvement	sự gồm, sự bao hàm; sự để, dồn hết tâm trí vào
-Iron	sắt; bọc sắt
-Irritate	làm phát cáu, chọc tức
-Irritated	tức giận, cáu tiết
-Irritating	làm phát cáu, chọc tức
-Island	hòn đảo
-Issue	BrE also ɪsjuː/; sự phát ra, sự phát sinh; phát hành, đưa ra
-It	cái đó, điều đó, con vật đó
-Item	tin tức; khoả(n)., mó(n).., tiết mục
-Its	của cái đó, của điều đó, của con vật đó; cái của điều đó, cái của con vật đó
-Itself	chính cái đó, chính điều đó, chính con vật đó
-Jacket	áo vét
-Jam	mứt
-January	tháng giêng
-Jealous	ghen,"", ghen tị
-Jeans	quần bò, quần zin
-Jelly	thạch
-Jewellery	nữ trang, kim hoàn
-Job	việc, việc làm
-Join	gia nhập, tham gia; nối, chắp, ghép
-Joint	chung (giữa 2 người hoặc hơn); chỗ nối, đầu nối
-Jointly	cùng nhau, cùng chung
-Joke	trò cười, lời nói đùa; nói đùa, giễu cợt
+Investigate	điều tra
+Investigation	cuộc điều tra
+Investigator	điều tra viên
+Investment	đầu tư
+Investor	nhà đầu tư
+Invisible	vô hình
+Invitation	lời mời
+Invite	mời gọi
+Involve	liên quan
+Involved	có tính liên quan
+Involvement	sự tham gia
+Iraqi	Iraqi
+Irish	Người Ailen
+Iron	bàn là
+Ironically	trớ trêu thay
+Irony	mỉa mai
+Islam	đạo Hồi
+Islamic	Hồi giáo
+Island	Đảo
+Isolate	cô lập
+Isolated	bị cô lập
+Isolation	cô lập
+Israeli	Israeli
+Issue	vấn đề
+It	nó
+Italian	người Ý
+Item	mục
+Its	của nó
+Itself	chinh no
+Jacket	Áo khoác
+Jail	nhà giam
+Japanese	tiếng Nhật
+Jar	lọ
+Jaw	hàm
+Jazz	jazz
+Jeans	Quần jean
+Jet	máy bay phản lực
+Jew	Người Do Thái
+Jewelry	đồ trang sức
+Jewish	Người Do thái
+Job	việc làm
+Join	tham gia
+Joint	chung
+Joke	đùa
+Journal	tạp chí
+Journalism	báo chí
 Journalist	nhà báo
-Journey	cuộc hành trình (đường bộ); quãng đường, chặng đường đi
-Joy	niềm vui, sự vui mừng
-Judge	xét xử, phân xử; quan tòa, thẩm phán
-Judgement	sự xét xử
-Juice	nước ép (rau, củ, quả)
-July	tháng 7
-Jump	nhảy; sự nhảy, bước nhảy
-June	tháng 6
-Junior	trẻ hơn, ít tuổi hơn; người ít tuổi hơn
-Just	đúng, vừa đủ; vừa mới, chỉ
-Justice	sự công bằng
-Justified	hợp lý, được chứng minh là đúng
-Justify	bào chữa, biện hộ
-Keen	sắc, bén
-Keen on	say mê, ưa thích
-Keep	giữ, giữ lại
-Key	chìa khóa, khóa, thuộc (khóa)
-Keyboard	bàn phím
-Kick	đá; cú đá
-Kid	con dê non
-Kill	giết, tiêu diệt
-Killing	sự giết chóc, sự tàn sát
-Kilogram	Kilôgam
-Kilometre	Kilômet
-Kilometre	Kilômet
-Kind	loại, giống; tử tế, có lòng tốt
-Kindly	tử tế, tốt bụng
-Kindness	sự tử tế, lòng tốt
-King	vua, quốc vương
-Kiss	hôn, cái hôn
-Kitchen	bếp
+Journey	hành trình
+Joy	vui sướng
+Judge	thẩm phán
+Judgment	phán đoán
+Judicial	tư pháp
+Juice	Nước ép
+Jump	nhảy
+Jungle	rừng nhiệt đới
+Junior	em
+Jurisdiction	quyền hạn
+Juror	bồi thẩm đoàn
+Jury	ban bồi thẩm
+Just	chỉ
+Justice	Sự công bằng
+Justify	biện hộ
+Keep	giữ
+Key	Chìa khóa
+Kick	đá
+Kid	đứa trẻ
+Kill	giết chết
+Killer	sát thủ
+Killing	giết chết
+Kind	loại
+King	nhà vua
+Kingdom	Vương quốc
+Kiss	hôn
+Kit	bộ dụng cụ
+Kitchen	phòng bếp
 Knee	đầu gối
-Knife	con dao
-Knit	đan, thêu
-Knitted	được đan, được thêu
-Knitting	việc đan; hàng dệt kim
-Knock	đánh, đập; cú đánh
-Knot	cái nơ; điểm nút, điểm trung tâm
+Kneel	quỳ xuống
+Knife	dao
+Knock	đánh
 Know	biết
-Knowledge	sự hiểu biết, tri thức
-Label	nhãn, mác; dán nhãn, ghi mác
-Laboratory, lab	phòng thí nghiệm
-Labour	lao động; công việc
-Lack	sự thiếu; thiếu
-Lacking	ngu đần, ngây ngô
-Lady	người yêu, vợ, quý bà, tiểu thư
+Knowledge	hiểu biết
+Known	nổi tiếng
+Korean	Hàn Quốc
+Lab	phòng thí nghiệm
+Label	nhãn
+Labor	lao động
+Laboratory	phòng thí nghiệm
+Lack	thiếu sót
+Ladder	thang
+Lady	quý bà
 Lake	hồ
 Lamp	đèn
-Land	đất, đất canh tác, đất đai
+Land	đất đai
+Landing	đổ bộ
+Landmark	mốc
 Landscape	phong cảnh
-Lane	đường nhỏ (làng, hẻm phố)
+Lane	lane
 Language	ngôn ngữ
-Large	rộng, lớn, to
-Largely	phong phú, ở mức độ lớn
-Last	lầm cuối, sau cùng; người cuối cùng; cuối cùng, rốt hết; kéo dài
-Late	trễ, muộn
-Later	chậm hơn
-Latest	muộn nhất, chậm nhất, gần đây nhất
-Latter	sau cùng, gần đây, mới đây
-Laugh	cười; tiếng cười
-Launch	hạ thủy (tàu); khai trương; sự hạ thủy, buổi giới thiệu sản phầm
-Law	luật
+Lap	vòng
+Large	lớn
+Largely	phần lớn
+Laser	laser
+Last	Cuối cùng
+Late	muộn
+Lately	gần đây
+Later	một lát sau
+Latin	Latin
+Latter	sau này
+Laugh	cười
+Laughter	tiếng cười
+Launch	phóng
+Laundry	giặt ủi
+Law	pháp luật
+Lawmaker	nhà lập pháp
+Lawn	bãi cỏ
+Lawsuit	kiện tụng
 Lawyer	luật sư
-Lay	xếp, đặt, bố trí
+Lay	đặt nằm
 Layer	lớp
-Lazy	lười biếng
-Lead	(v) (n) lãnh đạo, dẫn dắt; sự lãnh đạo, sự hướng dẫn
-Leader	người lãnh đạo, lãnh tụ
-Leading	lãnh đạo, dẫn đầu
-Leaf	lá cây, lá (vàng...)
-League	liên minh, liên hoàn
-Lean	nghiêng, dựa, ỷ vào
-Learn	lə:n/; học, nghiên cứu
-Least	tối thiểu; ít nhất
-Leather	da thuộc
-Leave	bỏ đi, rời đi, để lại
-Leave out	bỏ quên, bỏ sót
-Lecture	bài diễn thuyết, bài thuyết trình, bài nói chuyện
-Left	bên trái; về phía trái
-Leg	chân (người, thú, bà(n)..)
+Lead	chì
+Leader	lãnh đạo
+Leadership	khả năng lãnh đạo
+Leading	dẫn đầu
+Leaf	lá
+League	liên đoàn
+Lean	nạc
+Leap	nhảy vọt
+Learn	học hỏi
+Learning	học tập
+Least	ít nhất
+Leather	da
+Leave	rời khỏi
+Lecture	bài học
+Left	trái
+Leg	Chân
+Legacy	di sản
 Legal	hợp pháp
 Legally	hợp pháp
-Lemon	quả chanh
-Lend	cho vay, cho mượn
-Length	chiều dài, độ dài
-Less	nhỏ bé, ít hơn; số lượng ít hơn
+Legend	huyền thoại
+Legislation	pháp luật
+Legislative	lập pháp
+Legislator	nhà lập pháp
+Legislature	cơ quan lập pháp
+Legitimate	hợp pháp
+Lemon	Chanh
+Lend	cho vay
+Length	chiều dài
+Lens	ống kính
+Less	ít hơn
 Lesson	bài học
-Let	cho phép, để cho
-Letter	thư; chữ cái, mẫu tự
-Level	trình độ, cấp, vị trí; bằng, ngang bằng
+Let	để cho
+Letter	lá thư
+Level	cấp độ
+Liability	trách nhiệm pháp lý
+Liberal	tự do
+Liberty	tự do
 Library	thư viện
-Licence	bằng, chứng chỉ, bằng cử nhân; sự cho phép
-License	cấp chứng chỉ, cấp bằng, cho phép
-Lid	nắp, vung (xoong, nồi..); mi mắt (eyelid)
-Mother	mẹ (má)
+License	giấy phép
+Lid	Nắp
+Lie	nói dối
+Life	đời sống
+Lifestyle	lối sống
+Lifetime	cả đời
+Lift	thang máy
+Light	ánh sáng
+Lighting	thắp sáng
+Lightly	nhẹ nhàng
+Lightning	sét đánh
+Like	như
+Likelihood	khả năng
+Likely	có khả năng
+Likewise	tương tự
+Limb	chân tay
+Limit	giới hạn
+Limitation	giới hạn
+Limited	giới hạn
+Line	hàng
+Link	liên kết
+Lion	sư tử
+Lip	môi
+Liquid	chất lỏng
+List	danh sách
+Listen	nghe
+Listener	người nghe
+Literally	nghĩa đen
+Literary	văn chương
+Literature	văn chương
+Little	ít
+Live	trực tiếp
+Liver	Gan
+Living	sống
+Load	tải trọng
+Loan	tiền vay
+Lobby	sảnh đợi
+Local	địa phương
+Locate	định vị
+Location	vị trí
+Lock	Khóa
+Log	đăng nhập
+Logic	logic
+Logical	hợp lý
+Lonely	cô đơn
+Long	Dài
+Long-term	dài hạn
+Longtime	thời gian dài
+Look	nhìn
+Loop	vòng lặp
+Loose	lỏng lẻo
+Lose	thua
+Loss	mất mát
+Lost	mất đi
+Lot	nhiều
+Lots	rất nhiều
+Loud	to tiếng
+Love	yêu
+Lovely	đáng yêu
+Lover	người yêu
+Low	thấp
+Lower	thấp hơn
+Loyal	trung thành
+Loyalty	lòng trung thành
+Luck	may mắn
+Lucky	may mắn
+Lunch	Bữa trưa
+Lung	phổi
+Machine	máy móc
+Mad	điên
+Magazine	tạp chí
+Magic	ma thuật
+Magnetic	từ tính
+Magnitude	độ lớn
+Mail	thư
+Main	chủ yếu
+Mainly	chủ yếu
+Mainstream	dòng chính
+Maintain	duy trì
+Maintenance	bảo trì
+Major	chính
+Majority	đa số
+Make	chế tạo
+Maker	nhà sản xuất
+Makeup	trang điểm
+Male	Nam giới
+Mall	trung tâm mua sắm
+Man	Đàn ông
+Manage	quản lý
+Management	sự quản lý
+Manager	giám đốc
+Managing	quản lý
+Mandate	ủy nhiệm
+Manipulate	vận dụng
+Manner	cách thức
+Mansion	biệt thự
+Manual	sổ tay
+Manufacturer	nhà chế tạo
+Manufacturing	chế tạo
+Many	nhiều
+Map	bản đồ
+Marble	đá hoa
+March	tháng Ba
+Margin	lề
+Marine	biển
+Mark	dấu
+Marker	đánh dấu
+Market	thị trường
+Marketing	tiếp thị
+Marketplace	thương trường
+Marriage	kết hôn
+Married	cưới nhau
+Marry	kết hôn
+Mask	mặt nạ
+Mass	khối lượng
+Massive	to lớn
+Master	bậc thầy
+Match	trận đấu
+Mate	người bạn đời
+Material	vật chất
+Math	môn Toán
+Mathematics	toán học
+Matter	vấn đề
+Maximum	tối đa
+May	Tháng Năm
+Maybe	có lẽ
+Mayor	thị trưởng
+Me	tôi
+Meal	bữa ăn
+Mean	nghĩa là
+Meaning	Ý nghĩa
+Meaningful	có ý nghĩa
+Means (pl)	nghĩa là (PL)
+Meantime	thời gian chờ đợi
+Meanwhile	trong khi đó
+Measure	đo
+Measurement	phép đo
+Meat	thịt
+Mechanic	thợ cơ khí
+Mechanical	cơ khí
+Mechanism	cơ chế
+Medal	huy chương
+Media	phương tiện truyền thông
+Medical	Y khoa
+Medication	thuốc men
+Medicine	dược phẩm
+Medium	Trung bình
+Meet	gặp
+Meeting	gặp gỡ
+Melt	tan chảy
+Member	hội viên
+Membership	thành viên
+Memory	ký ức
+Mental	tâm thần
+Mentally	tinh thần
+Mention	đề cập đến
+Mentor	người cố vấn
+Menu	thực đơn
+Merchant	thương gia
+Mere	chỉ là
+Merely	đơn thuần
+Merit	n
+Mess	lộn xộn
+Message	thông điệp
+Metal	kim loại
+Metaphor	phép ẩn dụ
+Meter	mét
+Method	phương pháp
+Metropolitan	đô thị
+Mexican	Mexico
+Middle	ở giữa
+Middle-class	tầng lớp trung lưu
+Midnight	nữa đêm
+Midst	giữa
+Might	có thể
+Migration	di cư
+Mild	nhẹ nhàng
+Military	quân đội
+Milk	Sữa
+Mill	cối xay
+Million	triệu
+Mind	lí trí
+Mine	tôi
+Mineral	khoáng sản
+Minimal	tối thiểu
+Minimize	giảm thiểu
+Minimum	tối thiểu
+Minister	bộ trưởng, mục sư
+Ministry	Bộ
+Minor	diễn viên phụ
+Minority	thiểu số
+Minute	phút
+Miracle	phép màu
+Mirror	gương
+Miss	bỏ lỡ
+Missile	tên lửa
+Missing	mất tích
+Mission	sứ mệnh
+Missionary	nhà truyền giáo
+Mistake	sai lầm
+Mix	pha trộn
+Mixed	pha trộn
+Mixture	hỗn hợp
+Mm-hmm	mm-hmm
+Mobile	di động
+Mode	chế độ
+Model	mô hình
+Moderate	vừa phải
+Modern	hiện đại
+Modest	khiêm tốn
+Modify	sửa đổi
+Molecule	phân tử
+Mom	mẹ
+Moment	chốc lát
+Momentum	Đà
+Money	tiền bạc
+Monitor	giám sát
+Monkey	con khỉ
+Monster	quái vật
+Month	tháng
+Monthly	hàng tháng
+Monument	tượng đài
+Mood	khí sắc
+Moon	mặt trăng
+Moral	đạo đức
+More	hơn
+Moreover	hơn thế nữa
+Morning	buổi sáng
+Mortality	tử vong
+Mortgage	thế chấp
+Most	phần lớn
+Mostly	chủ yếu
+Mother	mẹ
+Motion	chuyển động
+Motivate	động viên
+Motivation	động lực
+Motive	động cơ
+Motor	động cơ
+Mount	gắn kết
+Mountain	núi
+Mouse	chuột
+Mouth	miệng
+Move	di chuyển
+Movement	phong trào
+Movie	bộ phim
+Mr	Ông
+Mrs	Bà
+Ms	Cô
+Much	nhiều
+Mud	bùn
+Multiple	nhiều
+Municipal	thành phố
+Murder	giết người
+Muscle	cơ bắp
+Museum	viện bảo tàng
+Mushroom	nấm
+Music	Âm nhạc
+Musical	âm nhạc
+Musician	nhạc sĩ
+Muslim	Hồi giáo
+Must	phải
+Mutter	lẩm bẩm
+Mutual	lẫn nhau
+My	tôi
+Myself	riêng tôi
+Mysterious	huyền bí
+Mystery	huyền bí
+Myth	huyền thoại
+N't	không
+Nail	móng tay
+Naked	trần truồng
+Name	Tên
+Narrative	tường thuật
+Narrow	hẹp
+Nasty	bẩn thỉu
+Nation	quốc gia
+National	Quốc gia
+Nationwide	toàn quốc
+Native	tự nhiên
+Natural	tự nhiên
+Naturally	một cách tự nhiên
+Nature	thiên nhiên
+Naval	hải quân
+Near	ở gần
+Nearby	gần đó
+Nearly	Gần
+Neat	khéo léo
+Necessarily	nhất thiết
+Necessary	cần thiết
+Necessity	sự cần thiết
+Neck	cái cổ
 Need	nhu cầu
-Pc	máy tính cá nhân
+Needle	cây kim
+Negative	tiêu cực
+Negotiate	đàm phán
+Negotiation	đàm phán
+Neighbor	hàng xóm
+Neighborhood	khu vực lân cận
+Neighboring	lân cận
+Neither	cũng không
+Nerve	dây thần kinh
+Nervous	lo lắng
+Nest	tổ
+Net	mạng lưới
+Network	mạng
+Neutral	Trung tính
+Never	không bao giờ
+Nevertheless	Tuy nhiên
+New	Mới
+Newly	mới
+News	Tin tức
+Newspaper	báo chí
+Next	kế tiếp
+Nice	tốt đẹp
+Night	đêm
+Nightmare	ác mộng
+Nine	chín
+No	Không
+Nobody	không ai
+Nod	gật đầu
+Noise	tiếng ồn
+Nomination	đề cử
+Nominee	ứng cử viên
+None	không ai
+Nonetheless	dù sao
+Nonprofit	phi lợi nhuận
+Noon	trưa
+Nor	cũng không
+Norm	định mức
+Normal	bình thường
+Normally	bình thường
+North	Bắc
+Northeast	đông bắc
+Northern	Phương bắc
+Northwest	Tây Bắc
+Nose	mũi
+Not	không phải
+Note	chú thích
+Notebook	sổ tay
+Nothing	không có gì
+Notice	để ý
+Notion	khái niệm
+Novel	cuốn tiểu thuyết
+Now	hiện nay
+Nowhere	hư không
+Nuclear	Nguyên tử
+Number	con số
+Numerous	nhiều
+Nurse	y tá
+Nut	hạt
+Nutrient	chất dinh dưỡng
+O'clock	giờ
+Oak	cây sồi
+Object	vật
+Objection	sự phản đối
+Objective	mục tiêu
+Obligation	nghĩa vụ
+Observation	quan sát
+Observe	quan sát
+Observer	người quan sát
+Obstacle	trở ngại
+Obtain	đạt được
+Obvious	hiển nhiên
+Obviously	chắc chắn
+Occasion	dịp
+Occasional	thỉnh thoảng
+Occasionally	thỉnh thoảng
+Occupation	nghề nghiệp
+Occupy	chiếm
+Occur	xảy ra
+Ocean	đại dương
+Odd	lẻ
+Odds	tỷ lệ
+Of	của
+Off	tắt
+Offender	tội phạm
+Offense	xúc phạm
+Offensive	phản cảm
+Offer	phục vụ
+Offering	chào bán
+Office	văn phòng
+Officer	nhân viên văn phòng
+Official	chính thức
+Officially	chính thức
+Often	thường xuyên
+Oh	Oh
+Oil	dầu
+Ok	được
+Okay	đuợc
+Old	cũ
+Old-fashioned	Cổ hủ
+Olympic	Olympic
+Olympics	Thế vận hội
+On	trên
+Once	Một lần
+One	một
+One-third	một phần ba
+Ongoing	đang diễn ra
+Onion	củ hành
+Online	Trực tuyến
+Only	chỉ có
+Onto	trên
+Open	mở
+Opening	khai mạc
+Openly	cởi mở
+Opera	opera
+Operate	vận hành
+Operating	điều hành
+Operation	hoạt động
+Operator	nhà điều hành
+Opinion	quan điểm
+Opponent	phản đối
+Opportunity	cơ hội
+Oppose	phản đối
+Opposed	phản đối
+Opposite	đối diện
+Opposition	Sự đối lập
+Opt	opt
+Optimistic	lạc quan
+Option	Tùy chọn
+Or	hoặc là
+Oral	miệng
+Orange	trái cam
+Orbit	quỹ đạo
+Order	gọi món
+Ordinary	bình thường
+Organ	đàn organ
+Organic	hữu cơ
+Organism	cơ thể
+Organization	cơ quan
+Organizational	tổ chức
+Organize	tổ chức
+Organized	tổ chức
+Orientation	sự định hướng
+Origin	gốc
+Original	nguyên
+Originally	ban đầu
+Other	khác
+Others	Khác
+Otherwise	nếu không thì
+Ought	nên
+Our	của chúng ta
+Ours	của chúng tôi
+Ourselves	chúng ta
+Out	ngoài
+Outcome	kết quả
+Outdoor	ngoài trời
+Outer	bên ngoài
+Outfit	trang phục
+Outlet	đầu ra
+Outline	đề cương
+Output	đầu ra
+Outside	ở ngoài
+Outsider	người ngoài
+Outstanding	nổi bật
+Oven	lò nướng
+Over	kết thúc
+Overall	tổng thể
+Overcome	vượt qua
+Overlook	bỏ qua
+Overnight	qua đêm
+Oversee	giám sát
+Overwhelm	quá tải
+Overwhelming	áp đảo
+Owe	nợ
+Own	sở hữu
+Owner	chủ nhân
+Ownership	sở hữu
+Oxygen	ôxy
+Pace	tốc độ
+Pack	đóng gói
+Package	gói
+Pad	tập giấy
+Page	trang
+Pain	đau đớn
+Painful	đau đớn
+Paint	Sơn
+Painter	họa sĩ
+Painting	bức vẽ
+Pair	đôi
+Palace	cung điện
+Pale	nhợt nhạt
+Palestinian	Palestine
+Palm	lòng bàn tay
+Pan	chảo
+Panel	bảng điều khiển
+Panic	hoảng loạn
+Pants (pl)	quần (PL)
+Paper	giấy
+Parade	diễu hành
+Parent	cha mẹ
+Parental	cha mẹ
+Parish	giáo xứ
+Park	công viên
+Parking	bãi đỗ xe
+Part	phần
+Partial	một phần
+Partially	một phần
+Participant	người tham gia
+Participate	tham dự
+Participation	sự tham gia
+Particle	hạt
+Particular	cụ thể
+Particularly	đặc biệt
+Partly	từng phần
+Partner	cộng sự
+Partnership	hợp tác
+Party	buổi tiệc
+Pass	vượt qua
+Passage	đoạn văn
+Passenger	hành khách
+Passing	đi qua
+Passion	niềm đam mê
+Past	quá khứ
+Pasta	mỳ ống
+Pastor	mục sư
+Pat	vỗ vỗ
+Patch	vá
+Patent	bằng sáng chế
+Path	con đường
+Patience	kiên nhẫn
+Patient	bệnh nhân
+Patrol	tuần tra
+Patron	người bảo trợ
+Pattern	mẫu
+Pause	tạm ngừng
+Pay	trả
+Payment	thanh toán
+Pc	PC
+Peace	hòa bình
+Peaceful	bình yên
+Peak	cao điểm
+Peanut	đậu phụng
+Peasant	nông dân
+Peel	lột vỏ
+Peer	ngang nhau
+Pen	cây bút
+Penalty	hình phạt
+Pencil	bút chì
+Pension	lương hưu
+People	những người
+Pepper	tiêu
+Per	mỗi
+Perceive	nhận thức
+Perceived	lĩnh hội
+Percentage	phần trăm
+Perception	nhận thức
+Perfect	hoàn hảo
+Perfectly	hoàn hảo
+Perform	biểu diễn
+Performance	hiệu suất
+Performer	người biểu diễn
+Perhaps	có lẽ
+Period	giai đoạn
+Permanent	dài hạn
+Permission	sự cho phép
+Permit	cho phép
+Persian	Người Ba Tư
+Persist	tồn tại
+Person	người
+Personal	cá nhân
+Personality	nhân cách
+Personally	cá nhân
+Personnel	nhân viên
+Perspective	quan điểm
+Persuade	truy vấn
+Pet	vật nuôi
+Phase	giai đoạn
+Phenomenon	hiện tượng
+Philosophical	triết học
+Philosophy	triết học
+Phone	điện thoại
+Photo	hình chụp
+Photograph	ảnh chụp
+Photographer	nhiếp ảnh gia
+Photography	nhiếp ảnh
+Phrase	cụm từ
+Physical	vật lý
+Physically	thể chất
+Physician	bác sĩ
+Physics	vật lý
+Piano	đàn piano
+Pick	chọn
+Pickup	nhặt lên
+Picture	hình ảnh
+Pie	chiếc bánh
+Piece	cái
+Pig	con lợn
+Pile	Đóng cọc
+Pill	Viên thuốc
+Pillow	cái gối
+Pilot	Phi công
+Pin	ghim
+Pine	cây thông
+Pink	hồng
+Pioneer	người tiên phong
+Pipe	ống
+Pistol	súng lục
+Pit	hố
+Pitch	sân cỏ
+Pitcher	người bình
+Pizza	pizza
+Place	địa điểm
+Placement	vị trí
+Plain	trơn
+Plaintiff	nguyên đơn
+Plan	kế hoạch
+Plane	máy bay
+Planet	hành tinh
+Planner	lập kế hoạch
+Planning	lập kế hoạch
+Plant	thực vật
+Plastic	nhựa
+Plate	đĩa
+Platform	nền tảng
+Play	chơi
+Player	người chơi
+Playoff	playoff
+Plea	lời bào chữa
+Plead	biện hộ
+Pleasant	dễ chịu
+Please	xin vui lòng
+Pleased	vừa lòng
+Pleasure	vui lòng
+Plenty	nhiều
+Plot	âm mưu
+Plunge	lao xuống
+Plus	thêm
+Pm	PM
+Pocket	bỏ túi
+Poem	bài thơ
+Poet	bài thơ
+Poetry	thơ phú
+Point	điểm
+Poke	xô
+Pole	cây sào
+Police	cảnh sát
+Policeman	cảnh sát
+Policy	chính sách
+Political	chính trị
+Politically	chính trị
+Politician	chính trị gia
+Politics	chính trị
+Poll	thăm dò ý kiến
+Pollution	sự ô nhiễm
+Pond	ao
+Pool	bơi
+Poor	nghèo nàn
+Pop	nhạc pop
+Popular	phổ biến
+Popularity	phổ biến
+Population	dân số
+Porch	hiên nhà
+Pork	thịt heo
+Port	Hải cảng
+Portfolio	danh mục đầu tư
+Portion	phần
+Portrait	Chân dung
+Portray	miêu tả
+Pose	đặt ra
+Position	Chức vụ
+Positive	tích cực
+Possess	sở hữu
+Possession	chiếm hữu
+Possibility	khả năng
+Possible	khả thi
+Possibly	có thể
+Post	bài đăng
+Poster	áp phích
+Pot	nồi
+Potato	khoai tây
+Potential	tiềm năng
+Potentially	có khả năng
+Pound	pao
+Pour	đổ
+Poverty	nghèo nàn
+Powder	bột
+Power	quyền lực
+Powerful	quyền lực
+Practical	thiết thực
+Practically	thực tế
+Practice	thực hành
+Practitioner	học viên
+Praise	ca ngợi
+Pray	cầu nguyện
+Prayer	cầu nguyện
+Preach	rao giảng
+Precious	quí
+Precise	tóm lược
+Precisely	đúng
+Predator	người ăn thịt
+Predict	tiên đoán
+Prediction	dự đoán
+Prefer	thích hơn
+Preference	sở thích
+Pregnancy	mang thai
+Pregnant	có thai
+Preliminary	sơ bộ
+Premise	tiền đề
+Premium	phí bảo hiểm
+Preparation	chuẩn bị
+Prepare	chuẩn bị
+Prescription	đơn thuốc
+Presence	sự hiện diện
+Present	hiện tại
+Presentation	trình bày
+Preserve	giữ gìn
+Presidency	chức tổng thống
+President	chủ tịch
+Presidential	tổng thống
+Press	nhấn
+Pressure	sức ép
+Presumably	có lẽ
+Pretend	giả vờ
+Pretty	đẹp
+Prevail	chiếm ưu thế
+Prevent	ngăn chặn
+Prevention	Phòng ngừa
+Previous	Trước
+Previously	trước đây
+Price	giá bán
+Pride	tự hào
+Priest	thầy tu
+Primarily	chủ yếu
+Primary	sơ cấp
+Prime	nguyên tố
+Principal	hiệu trưởng
+Principle	nguyên tắc
+Print	in
+Prior	trước
+Priority	sự ưu tiên
+Prison	nhà tù
+Prisoner	Tù nhân
+Privacy	riêng tư
+Privately	tư nhân
+Privilege	đặc quyền
+Prize	giải thưởng
+Pro	pro
+Probably	có lẽ
+Problem	vấn đề
+Procedure	thủ tục
+Proceed	tiếp tục
+Process	quá trình
+Processing	Chế biến
+Processor	bộ vi xử lý
+Proclaim	tuyên bố
+Produce	sản xuất
+Producer	nhà sản xuất
+Product	sản phẩm
+Production	sản xuất
+Productive	có năng suất
+Productivity	năng suất
+Profession	chuyên nghiệp
+Professional	chuyên nghiệp
+Professor	Giáo sư
+Profile	Hồ sơ
+Profit	lợi nhuận
+Profound	thâm thúy
+Program	chương trình
+Programming	lập trình
+Progress	tiến độ
+Progressive	cấp tiến
+Prohibit	cấm
+Project	dự án
+Projection	chiếu
+Prominent	nổi bật
+Promise	lời hứa
+Promising	hứa hẹn
+Promote	Quảng bá
+Promotion	quảng cáo
+Prompt	nhắc nhở
+Proof	bằng chứng
+Proper	phù hợp
+Properly	đúng
+Property	bất động sản
+Proportion	tỉ lệ
+Proposal	đề nghị
+Propose	cầu hôn
+Proposed	đề xuất
+Prosecution	truy tố
+Prosecutor	công tố viên
+Prospect	khách hàng tiềm năng
+Protect	bảo vệ
+Protection	sự bảo vệ
+Protective	bảo vệ
+Protein	chất đạm
+Protest	phản đối
+Protocol	giao thức
+Proud	tự hào
+Prove	chứng minh
+Provide	cung cấp
+Provided	cung cấp
+Provider	các nhà cung cấp
+Province	tỉnh
+Provision	điều khoản
+Provoke	kích động
+Psychological	tâm lý
+Psychologist	nhà tâm lý học
+Psychology	tâm lý học
+Public	công cộng
+Publication	xuất bản
+Publicity	công khai
+Publicly	công khai
+Publish	công bố
+Publisher	nhà xuất bản
+Pull	kéo
+Pulse	xung
+Pump	máy bơm
+Punch	đấm
+Punish	trừng phạt
+Punishment	hình phạt
+Purchase	mua, tựa vào, bám vào
+Pure	nguyên chất
+Purple	màu tím
+Purpose	mục đích
+Purse	cái ví
+Pursue	theo đuổi
+Pursuit	theo đuổi
+Push	đẩy
+Put	đặt
+Puzzle	câu đố
+Qualify	đủ tiêu chuẩn
+Quality	phẩm chất
+Quantity	số lượng
+Quarter	phần tư
+Quarterback	tiền vệ
+Queen	nữ hoàng
+Quest	nhiệm vụ
+Question	câu hỏi
+Questionnaire	bảng câu hỏi
+Quick	nhanh chóng
+Quickly	Mau
+Quiet	Yên tĩnh
+Quietly	lặng lẽ
+Quit	thoái lui
+Quite	khá
+Quote	Trích dẫn
+Rabbit	Con thỏ
+Race	cuộc đua
+Racial	chủng tộc
+Racism	chủ nghĩa phân biệt chủng tộc
+Rack	giá đỡ
+Radar	radar
+Radiation	sự bức xạ
+Radical	cấp tiến, căn nguyên
+Radio	radio
+Rage	giận dữ
+Rail	đường sắt
+Railroad	đường sắt
+Rain	mưa
+Raise	nâng cao
+Rally	biểu tình
+Ranch	trang trại
+Random	ngẫu nhiên
+Range	phạm vi
+Rank	cấp
+Rape	hãm hiếp
+Rapid	nhanh
+Rapidly	nhanh chóng
+Rare	hiếm
+Rarely	ít khi
+Rat	con chuột
+Rate	tỷ lệ
+Rather	hơn
+Rating	Xêp hạng
+Ratio	tỉ lệ
+Rational	hợp lý
+Raw	thô
+Re	lại
+Reach	chạm tới
+React	phản ứng
+Reaction	phản ứng
+Read	đọc
+Reader	người đọc
+Readily	dễ dàng
+Reading	đọc hiểu
+Ready	sẳn sàng
+Real	thực
+Realistic	thực tế
+Reality	thực tế
+Realize	nhận ra
+Really	có thật không
+Realm	cảnh giới
+Rear	phía sau
+Reason	lý do
+Reasonable	hợp lý
+Rebel	nổi loạn
+Rebuild	xây dựng lại
+Recall	hồi tưởng
+Receive	nhận được
+Receiver	người nhận
+Recent	gần đây
+Recently	gần đây
+Reception	tiếp nhận
+Recession	suy thoái kinh tế
+Recipe	công thức
+Recipient	người nhận
+Recognition	sự công nhận
+Recognize	nhìn nhận
+Recommend	giới thiệu
+Recommendation	sự giới thiệu
+Record	ghi lại
+Recording	ghi âm
+Recover	bình phục
+Recovery	phục hồi
+Recruit	tuyển dụng
+Red	đỏ
+Reduce	giảm
+Reduction	giảm
+Refer	tham khảo
+Reference	tài liệu tham khảo
+Reflect	phản chiếu
+Reflection	sự phản chiếu
+Reform	cải cách
+Refrigerator	tủ lạnh
+Refuge	nơi ẩn náu
+Refugee	người tị nạn
+Refuse	từ chối
+Regain	giành lại
+Regard	quan tâm
+Regarding	về
+Regardless	bất kể
+Regime	chế độ
+Region	khu vực
+Regional	khu vực
+Register	ghi danh
+Regret	hối tiếc
+Regular	đều đặn
+Regularly	thường xuyên
+Regulate	quy định
+Regulation	Quy định
+Regulator	người điều tiết
+Regulatory	quy định
+Rehabilitation	phục hồi chức năng
+Reinforce	củng cố
+Reject	Từ chối
+Relate	liên hệ
+Related	liên quan
+Relation	quan hệ
+Relationship	mối quan hệ
+Relative	quan hệ
+Relatively	tương đối
+Relax	thư giãn
+Release	giải phóng
+Relevant	liên quan, thích hợp
+Reliability	độ tin cậy
+Reliable	đáng tin cậy
+Relief	cứu trợ
+Relieve	giải tỏa
+Religion	tôn giáo
+Religious	Tôn giáo
+Reluctant	lưỡng lự
+Rely	dựa
+Remain	vẫn còn
+Remaining	còn lại
+Remark	nhận xét
+Remarkable	đáng chú ý
+Remember	nhớ lại
+Remind	nhắc lại
+Reminder	nhắc nhở
+Remote	xa
+Removal	gỡ bỏ
+Remove	tẩy
+Render	render
+Rent	thuê
+Rental	thuê
+Repair	sửa
+Repeat	nói lại
+Repeatedly	nhiều lần
+Replace	thay thế
+Replacement	thay thế
+Reply	Đáp lại
+Report	bài báo cáo
+Reportedly	báo cáo
+Reporter	phóng viên
+Reporting	Báo cáo
+Represent	đại diện
+Representation	đại diện
+Representative	Tiêu biểu
+Republic	nước cộng hòa
+Republican	nhà nước cộng hòa
+Reputation	uy tín
+Request	yêu cầu
+Require	yêu cầu
+Required	cần thiết
+Requirement	yêu cầu
+Rescue	cứu hộ
+Research	nghiên cứu
+Researcher	nghiên cứu viên
+Resemble	giống
+Reservation	đặt phòng
+Reserve	dự trữ
+Residence	nơi cư trú
+Resident	cư dân
+Residential	nhà ở
+Resign	từ chức
+Resist	kháng cự
+Resistance	sức đề kháng
+Resolution	độ phân giải
+Resolve	giải quyết
+Resort	phương sách
+Resource	tài nguyên
+Respect	sự tôn trọng
+Respectively	tương ứng
+Respond	trả lời
+Respondent	người trả lời
+Response	phản ứng
+Responsibility	trách nhiệm
+Responsible	chịu trách nhiệm
+Rest	nghỉ ngơi
+Restaurant	nhà hàng
+Restore	phục hồi
+Restrict	giới hạn
+Restriction	sự hạn chế
+Result	kết quả
+Resume	tiếp tục
+Retail	bán lẻ
+Retailer	nhà bán lẻ
+Retain	giữ lại
+Retire	về hưu
+Retired	nghỉ hưu
+Retirement	nghỉ hưu
+Retreat	rút lui
+Return	trở về
+Reveal	tiết lộ
+Revelation	sự mặc khải
+Revenue	thu nhập
+Reverse	đảo ngược
+Review	ôn tập
+Revolution	Cuộc cách mạng
+Revolutionary	cách mạng
+Reward	phần thưởng
+Rhetoric	Hùng biện
+Rhythm	nhịp
+Rib	xương sườn
+Ribbon	ribbon
+Rice	cơm
+Rich	giàu có
+Rid	thoát khỏi
+Ride	dap xe
+Rider	người lái
+Ridge	cây rơm
+Ridiculous	nực cười
+Rifle	súng trường
+Right	đúng
+Rim	rim
+Ring	nhẫn
+Ring	nhẫn
+Riot	bạo loạn
+Rip	Yên nghỉ
+Rise	tăng lên
+Risk	rủi ro
+Risky	rủi ro
+Ritual	lễ nghi
+Rival	đối thủ
+River	con sông
+Road	đường
+Robot	robot
+Rock	đá
+Rocket	tên lửa
+Rod	gậy
+Role	vai trò
+Roll	cuộn
+Rolling	lăn
+Roman	Roman
+Romance	lãng mạn
+Romantic	lãng mạn
+Roof	mái nhà
+Room	phòng
+Root	nguồn gốc
+Rope	dây thừng
+Rose	bông hồng
+Rough	thô
+Roughly	gần
+Round	tròn
+Route	lộ trình
+Routine	công Việt Hằng ngày
+Routinely	thường
+Row	hàng
+Royal	hoàng tộc
+Rub	chà xát
+Rubber	cao su
+Ruin	phá hoại
+Rule	qui định
+Ruling	phán quyết
+Rumor	tin đồn
 Run	chạy
+Runner	người chạy
+Running	đang chạy
+Rural	nông thôn
+Rush	vội vã
+Russian	Người Nga
+Sack	bao
+Sacred	Linh thiêng
+Sacrifice	sự hy sinh
+Sad	buồn
+Safe	an toàn
+Safely	an toàn
+Safety	an toàn
+Sail	cánh buồm
+Sake	lợi ích
+Salad	rau xà lách
+Salary	lương
+Sale	buôn bán
+Sales	bán hàng
+Salmon	cá hồi
+Salt	Muối
+Same	tương tự
+Sample	mẫu vật
+Sanction (pl)	sự trừng phạt (PL)
+Sand	cát
+Sandwich	sandwich
+Satellite	vệ tinh
+Satisfaction	sự thỏa mãn
+Satisfy	làm vui lòng
+Sauce	Nước xốt
+Save	tiết kiệm
+Saving (pl)	tiết kiệm (PL)
+Say	Nói
+Scale	tỉ lệ
+Scan	quét
+Scandal	vụ bê bối
+Scare	sợ hãi
+Scared	sợ hãi
+Scary	đáng sợ
+Scatter	tiêu tan
+Scenario	kịch bản
+Scene	bối cảnh
+Scent	hương thơm
+Schedule	kế hoạch
+Scheme	kế hoạch
+Scholar	học giả
+Scholarship	học bổng
+School	trường học
+Science	khoa học
+Scientific	thuộc về khoa học
+Scientist	nhà khoa học
+Scope	phạm vi
+Score	ghi bàn
+Scramble	tranh giành
+Scratch	vết trầy
+Scream	hét lên
+Screen	màn
+Screening	kiểm tra
+Screw	Đinh ốc
+Script	kịch bản
+Sculpture	điêu khắc
+Sea	biển
+Seal	niêm phong
+Search	Tìm kiếm
+Season	Mùa
+Seat	ghế
+Second	thứ hai
+Secondary	thứ hai
+Secret	bí mật
+Secretary	Thư ký
+Section	phần
+Sector	ngành
+Secular	thế tục
+Secure	đảm bảo
+Security	Bảo vệ
+See	xem
+Seed	giống
+Seek	tìm kiếm
+Seem	hình như
+Seemingly	có vẻ
+Segment	phần
+Seize	tịch thu
+Seldom	ít khi
+Select	lựa chọn
+Selected	đã chọn
+Selection	lựa chọn
+Self	tự
+Self-esteem	lòng tự trọng
+Sell	bán
+Seller	người bán
+Seminar	hội thảo
+Senate	Thượng nghị viện
+Senator	thượng nghị sĩ
+Send	gửi
+Senior	cao cấp
+Sensation	cảm giác
+Sense	giác quan
+Sensitive	nhạy cảm
+Sensitivity	nhạy cảm
+Sensor	cảm biến
+Sentence	kết án
+Sentiment	tình cảm
+Separate	tách rời
+Separation	tách biệt
+Sequence	trình tự
+Series	loạt
+Serious	nghiêm trọng
+Seriously	nghiêm túc
+Servant	người hầu
+Serve	phục vụ
+Service	dịch vụ
+Serving	phục vụ
+Session	phiên họp
+Set	bộ
+Setting	cài đặt
+Settle	ổn định
+Settlement	giải quyết
+Seven	bảy
+Seventh	thứ bảy
+Several	một số
+Severe	nghiêm trọng
+Severely	nghiêm trọng
+Sex	tình dục
+Sexual	tình dục
+Sexuality	tình dục
+Sexually	tình dục
+Sexy	sexy
+Shade	bóng râm
+Shadow	bóng
+Shake	lắc
+Shall	sẽ
+Shallow	nông
+Shame	xấu hổ
+Shape	hình dạng
+Share	chia sẻ
+Shared	chia sẻ
+Shareholder	cổ đông
+Shark	cá mập
+Sharp	nhọn
+Sharply	mạnh
+She	chị ấy
+Shed	đổ ra
+Sheep	cừu
+Sheer	tuyệt
+Sheet	tấm
+Shelf	kệ
+Shell	vỏ
+Shelter	nơi trú ẩn
+Shift	sự thay đổi
+Shine	tỏa sáng
+Ship	tàu
+Shirt	áo sơ mi
+Shit	dơ bẩn
+Shock	sốc
+Shoe	giày
+Shoot	bắn
+Shooting	chụp
+Shop	cửa tiệm
+Shopping	mua sắm
+Shore	bờ biển
+Short	ngắn
+Short-term	thời gian ngắn
+Shortage	sự thiếu
+Shortly	ngay
+Shorts	quần short
+Shot	bắn
+Should	Nên
+Shoulder	vai
+Shout	kêu la
+Shove	xô
+Show	chỉ
+Shower	vòi hoa sen
+Shrimp	con tôm
+Shrink	co lại
+Shrug	nhún vai
+Shut	đóng lại
+Shuttle	đưa đón
+Shy	nhát
+Sibling	anh chị em ruột
+Sick	đau ốm
+Side	bên
+Sidewalk	đường đi bộ
+Sigh	thở dài
+Sight	thị giác
+Sign	ký tên
+Signal	tín hiệu
+Signature	Chữ ký
+Significance	tầm quan trọng
+Significant	có ý nghĩa
+Significantly	đáng kể
+Silence	khoảng lặng
+Silent	im lặng
+Silk	lụa
+Silly	ngớ ngẩn
+Silver	bạc
+Similar	giống
+Similarity	sự giống nhau
+Similarly	tương tự
+Simple	đơn giản
+Simply	đơn giản
+Simultaneously	đồng thời
+Sin	tội
+Since	kể từ
+Sing	hát
+Singer	ca sĩ
+Single	Độc thân
+Sink	bồn rửa
+Sink	bồn rửa
+Sir	Ngài
+Sister	em gái
+Sit	ngồi
+Site	địa điểm
+Situation	tình hình
+Six	sáu
+Sixth	thứ sáu
+Size	kích thước
+Ski	trượt tuyết
+Skill	kỹ năng
+Skilled	có kỹ năng
+Skin	da
+Skip	bỏ qua
+Skirt	váy
+Skull	sọ
+Sky	bầu trời
+Slam	sập
+Slap	tát
+Slave	nô lệ
+Slavery	chế độ nô lệ
+Sleep	ngủ
+Sleeve	tay áo
+Slice	lát
+Slide	trượt
+Slight	nhẹ
+Slightly	khinh bỉ
+Slip	trượt
+Slope	dốc
+Slot	khe
+Slow	chậm
+Slowly	chậm rãi
+Small	nhỏ bé
+Smart	thông minh
+Smell	mùi
+Smile	nụ cười
+Smoke	hút thuốc lá
+Smooth	trơn tru
+Snake	con rắn
+Snap	chụp nhanh
+Sneak	sneak
+Snow	tuyết
+So	vì thế
+So-called	cái gọi là
+Soak	ngâm
+Soap	xà bông
+Soar	bay lên
+Soccer	bóng đá
+Social	xã hội
+Socially	xã hội
+Society	xã hội
+Sock	bít tất
+Sodium	natri
+Sofa	ghế sô pha
+Soft	mềm mại
+Soften	làm mềm
+Softly	nhẹ nhàng
+Software	phần mềm
+Soil	đất
+Solar	hệ mặt trời
+Soldier	lính
+Sole	Duy Nhất
+Solely	chỉ
+Solid	chất rắn
+Solution	dung dịch
+Solve	giải quyết
+Some	một số
+Somebody	có ai
+Someday	một ngày nào đó
+Somehow	bằng cách nào đó
+Someone	người nào
+Something	cái gì đó
+Sometime	thỉnh thoảng
+Sometimes	đôi khi
+Somewhat	phần nào
+Somewhere	một vài nơi
+Son	Con trai
+Song	bài hát
+Soon	Sớm
+Sophisticated	tinh vi
+Sorry	lấy làm tiếc
+Sort	sắp xếp
+Soul	Linh hồn
+Sound	âm thanh
+Soup	Súp
+Source	nguồn
+South	miền Nam
+Southeast	Đông Nam
+Southern	phía Nam
+Southwest	tây nam
+Sovereignty	chủ quyền
+Soviet	Liên Xô
+Space	không gian
+Spanish	người Tây Ban Nha
+Spare	phụ tùng
+Spark	tia lửa
+Speak	nói
+Speaker	loa
+Special	đặc biệt
+Specialist	chuyên gia
+Specialize	chuyên môn hóa
+Specialty	chuyên môn
+Species	loài
+Specific	riêng
+Specifically	đặc biệt
+Specify	chỉ định
+Spectacular	đẹp mắt
+Spectrum	quang phổ
+Speculate	suy đoán
+Speculation	suy đoán
+Speech	phát biểu
+Speed	tốc độ
+Spell	Đánh vần
+Spend	tiêu
+Spending	chi tiêu
+Sphere	quả cầu
+Spill	tràn
+Spin	quay
+Spine	xương sống
+Spirit	tinh thần
+Spiritual	tinh thần
+Spit	nhổ
+Spite	bất bình
+Split	phân chia
+Spokesman	người phát ngôn
+Sponsor	nhà tài trợ
+Spoon	cái thìa
+Sport	môn thể thao
+Spot	nơi
+Spouse	vợ / chồng
+Spray	Xịt nước
+Spread	Lan tràn
+Spring	mùa xuân
+Sprinkle	rắc
+Spy	gián điệp
+Squad	đội hình
+Square	Quảng trường
+Squeeze	bóp
+Stability	sự ổn định
+Stable	ổn định
+Stack	cây rơm
+Stadium	sân vận động
+Staff	cán bộ
+Stage	sân khấu
+Stair	cầu thang
+Stake	cổ phần
+Stance	lập trường
+Stand	đứng
+Standard	Tiêu chuẩn
+Standing	đứng
+Star	ngôi sao
+Stare	nhìn chằm chằm
+Start	khởi đầu
+Starter	bắt đầu
+Starting	bắt đầu
+State	tiểu bang
+Statement	tuyên bố
+Station	ga tàu
+Statistical	thống kê
+Statistics	số liệu thống kê
+Statue	bức tượng
+Status	trạng thái
+Statute	đạo luật
+Stay	ở lại
+Steadily	liên tục
+Steady	vững chắc
+Steak	miếng bò hầm
+Steal	lấy trộm
+Steam	hơi nước
+Steel	Thép
+Steep	dốc
+Steer	chỉ đạo
+Stem	thân cây
+Step	bậc thang
+Step	bậc thang
+Stereotype	khuôn mẫu
+Stick	gậy
+Stiff	cứng
+Still	vẫn
+Stimulate	kích thích
+Stimulus	kích thích kinh tế
+Stir	khuấy
+Stock	cổ phần
+Stomach	Dạ dày
+Stone	Cục đá
+Stop	dừng lại
+Storage	lưu trữ
+Store	cửa hàng
+Storm	bão táp
+Story	câu chuyện
+Stove	bếp
+Straight	thẳng
+Straighten	làm thẳng
+Strain	sự căng thẳng, quá tải
+Strange	kỳ lạ
+Stranger	lạ
+Strategic	chiến lược
+Strategy	chiến lược
+Straw	Rơm rạ
+Streak	streak
+Stream	suối
+Street	đường phố
+Strength	sức mạnh
+Strengthen	củng cố
+Stress	nhấn mạnh, cẳng thẳng
+Stretch	căng ra
+Strict	nghiêm khắc
+Strictly	nghiêm khắc
+Strike	đình công
+Striking	nổi bật
+String	chuỗi
+Strip	dải
+Stroke	Cú đánh
+Strong	mạnh
+Strongly	mạnh mẽ
+Structural	cấu trúc
+Structure	kết cấu
+Struggle	đấu tranh
+Student	sinh viên
+Studio	studio
+Study	học
+Stuff	đồ đạc
+Stumble	tình cờ gặp
+Stupid	ngốc nghếch
+Style	Phong cách
+Subject	môn học
+Submit	đệ trình
+Subsequent	sau đó
+Subsidy	trợ cấp
+Substance	vật chất
+Substantial	đáng kể
+Subtle	tế nhị
+Suburb	ngoại ô
+Suburban	ngoại ô
+Succeed	thành công
+Success	sự thành công
+Successful	thành công
+Successfully	thành công
+Such	như là
+Suck	hút
+Sudden	đột nhiên
+Suddenly	đột ngột
+Sue	kiện
+Suffer	đau khổ
+Suffering	đau khổ
+Sufficient	đủ
+Sugar	đường
+Suggest	đề nghị
+Suggestion	gợi ý
+Suicide	tự tử
+Suit	bộ đồ
+Suitable	thích hợp
+Suite	suite
+Sum	tổng hợp
+Summary	tóm lược
+Summer	mùa hè
+Summit	hội nghị thượng đỉnh
+Sun	mặt trời
+Sunlight	ánh sáng mặt trời
+Sunny	nắng
+Super	siêu
+Superior	cấp trên
+Supermarket	siêu thị
+Supervisor	người giám sát
+Supplier	nhà cung cấp
+Supply	cung cấp
+Support	ủng hộ
+Supporter	người ủng hộ
+Supportive	hỗ trợ
+Suppose	giả sử
+Supposed	giả định
+Supposedly	được cho là
+Supreme	Tối cao
+Sure	chắc chắn rồi
+Surely	chắc chắn
+Surface	bề mặt
+Surgeon	bác sĩ phẫu thuật
+Surgery	phẫu thuật
+Surprise	sự ngạc nhiên
+Surprised	ngạc nhiên
+Surprising	thật ngạc nhiên
+Surprisingly	thật ngạc nhiên
+Surround	vây quanh
+Surrounding	xung quanh
+Surveillance	giám sát
+Survey	khảo sát
+Survival	Sự sống còn
+Survive	tồn tại
+Survivor	người sống sót
+Suspect	nghi ngờ
+Suspend	đình chỉ
+Suspicion	nghi ngờ
+Suspicious	nghi ngờ
+Sustain	duy trì
+Sustainable	bền vững
+Swallow	nuốt
+Swear	xin thề
+Sweat	mồ hôi
+Sweater	áo len
+Sweep	quét
+Sweet	ngọt
+Swell	sưng lên
+Swim	bơi
+Swimming	bơi lội
+Swing	lung lay
+Switch	công tắc điện
+Sword	thanh kiếm
+Symbol	ký hiệu
+Symbolic	tượng trưng
+Sympathy	cảm thông
+Symptom	triệu chứng
+Syndrome	hội chứng
+System	hệ thống
+T-shirt	Áo thun
+Table	bàn
+Tablespoon	muỗng canh
+Tackle	giải quyết
+Tactic	chiến thuật
+Tag	nhãn
+Tail	đuôi
+Take	lấy
+Tale	câu chuyện
+Talent	năng lực
+Talented	có tài
+Talk	nói chuyện
+Tall	cao
+Tank	xe tăng
+Tap	gõ
+Tape	băng
+Target	Mục tiêu
+Task	bài tập
+Taste	nếm thử
+Tax	Thuế
+Taxpayer	người nộp thuế
+Tea	trà
+Teach	dạy
+Teacher	giáo viên
+Teaching	giảng bài
+Team	đội
+Teammate	đồng đội
+Tear	nước mắt
+Teaspoon	muỗng cà phê
+Technical	kỹ thuật
+Technician	kỹ thuật viên
+Technique	kỹ thuật
+Technological	công nghệ
+Technology	Công nghệ
+Teen	thiếu niên
+Teenage	thiếu niên
+Teenager	thiếu niên
+Telephone	Điện thoại
+Telescope	kính viễn vọng
+Television	tivi
+Tell	nói
+Temperature	nhiệt độ
+Temple	ngôi đền
+Temporary	tạm thời
+Ten	mười
+Tend	có xu hướng
+Tendency	khuynh hướng
+Tender	đấu thầu
+Tennis	quần vợt
+Tension	căng thẳng
+Tent	lều
+Term	kỳ hạn
+Terms	điều kiện
+Terrain	địa hình
+Terrible	khủng khiếp
+Terribly	khủng khiếp
+Terrific	khủng khiếp
+Territory	lãnh thổ
+Terror	khủng bố
+Terrorism	khủng bố
+Terrorist	khủng bố
+Test	thử nghiệm
+Testify	làm chứng
+Testimony	lời khai
+Testing	thử nghiệm
+Text	bản văn
+Textbook	sách giáo khoa
+Texture	kết cấu
+Than	hơn
+Thank	cảm tạ
+Thanks	cảm ơn
+Thanksgiving	Lễ Tạ ơn
+That	cái đó
+The	các
+Theater	rạp hát
+Their	họ
+Them	họ
+Theme	chủ đề
+Themselves	bản thân họ
+Then	sau đó
+Theological	thần học
+Theology	thần học
+Theoretical	lý thuyết
+Theory	lý thuyết
+Therapist	nhà trị liệu
+Therapy	trị liệu
+There	ở đó
+Thereby	bằng cách ấy
+Therefore	vì thế
+These	những
+They	họ
+Thick	dày
+Thigh	đùi
+Thin	gầy
+Thing	Điều
+Think	suy nghĩ
+Thinking	Suy nghĩ
+Third	thứ ba
+Thirty	ba mươi
+This	điều này
+Thoroughly	triệt để
+Those	những, cái đó
+Though	Tuy nhiên
+Thought	nghĩ
+Thousand	nghìn
+Thread	chủ đề
+Threat	mối đe dọa
+Threaten	hăm dọa
+Three	số ba
+Threshold	ngưỡng
+Thrive	phát đạt
+Throat	họng
+Through	xuyên qua
+Throughout	khắp
+Throw	ném
+Thumb	ngón tay cái
+Thus	do đó
+Ticket	vé
+Tide	thủy triều
+Tie	cà vạt
+Tight	chặt chẽ
+Tighten	thắt chặt
+Tightly	chặt chẽ
+Tile	ngói
+Till	cho đến
+Timber	gỗ
+Time	thời gian
+Timing	thời gian
+Tiny	nhỏ bé
+Tip	tiền boa
+Tire	lốp xe
+Tired	mệt mỏi
+Tissue	mô
+Title	chức vụ
+To	đến
+Tobacco	thuốc lá
+Today	hôm nay
+Toe	ngón chân
+Together	cùng với nhau
+Toilet	phòng vệ sinh
+Tolerance	lòng khoan dung
+Tolerate	tha thứ
+Toll	số điện thoại
+Tomato	cà chua
+Tomorrow	Ngày mai
+Tone	tấn
+Tongue	lưỡi
+Tonight	tối nay
+Too	quá
+Tool	dụng cụ
+Tooth	răng
+Top	hàng đầu
+Topic	đề tài
+Toss	quăng
+Total	toàn bộ
+Totally	hoàn toàn
+Touch	chạm
+Touchdown	đụng
+Tough	khó khăn
+Tour	chuyến du lịch
+Tourism	du lịch
+Tourist	du lịch
+Tournament	giải đấu
+Toward	đối với
+Towards	về hướng
+Towel	khăn tắm
+Tower	Tháp
+Town	thị trấn
+Toxic	chất độc
+Toy	đồ chơi
+Trace	dấu vết
+Track	theo dõi
+Trade	buôn bán
+Trading	thương mại
+Tradition	truyền thống
+Traditional	truyên thông
+Traditionally	theo truyền thống
+Traffic	giao thông
+Tragedy	bi kịch
+Tragic	bi kịch
+Trail	đường mòn
+Trailer	trailer
+Train	xe lửa
+Trainer	người huấn luyện
+Training	đào tạo
+Trait	đặc điểm
+Transaction	Giao dịch
+Transfer	chuyển khoản
+Transform	biến đổi
+Transformation	chuyển đổi
+Transit	quá cảnh
+Transition	quá trình chuyển đổi
+Translate	dịch
+Translation	dịch
+Transmission	truyền tải
+Transmit	chuyển giao
+Transport	vận chuyển
+Transportation	vận chuyển
+Trap	bẩy
+Trash	rác
+Trauma	chấn thương
+Travel	du lịch
+Traveler	du khách
+Tray	cái mâm
+Treasure	kho báu
+Treat	đãi
+Treatment	điều trị
+Treaty	Hiệp ước
+Tree	cây
+Tremendous	to lớn
+Trend	khuynh hướng
+Trial	thử nghiệm
+Tribal	bộ lạc
+Tribe	bộ lạc
+Trick	lừa
+Trigger	cò súng
+Trim	cắt tỉa
+Trip	chuyến đi
+Triumph	triumph
+Troop (pl)	quân (PL)
+Tropical	nhiệt đới
+Trouble	rắc rối
+Troubled	gặp rắc rối
+Truck	xe tải
+True	THẬT
+Truly	thực sự
+Trunk	Thân cây
+Trust	Lòng tin
+Truth	sự thật
+Try	thử
+Tube	ống
+Tuck	tuck
+Tumor	khối u
+Tune	điều chỉnh
+Tunnel	đường hầm
+Turkey	gà tây
+Turn	xoay
+Tv	TV
+Twelve	mười hai
+Twentieth	hai mươi
+Twenty	hai mươi
+Twice	hai lần
+Twin	đôi
+Twist	xoắn
+Twist	xoắn
+Two	hai
+Two-thirds	hai phần ba
+Type	kiểu
+Typical	điển hình
+Typically	thường
+Ugly	xấu xí
+Uh	uh
+Ultimate	tối hậu
+Ultimately	cuối cùng
+Unable	không thể
+Uncertain	không chắc chắn
+Uncertainty	tính không chắc chắn
+Uncle	Chú
+Uncomfortable	khó chịu
+Uncover	khám phá
+Under	Dưới
+Undergo	trải qua
+Undergraduate	đại học
+Underlying	cơ bản
+Undermine	phá hoại
+Understand	hiểu không
+Understanding	hiểu biết
+Undertake	thực hiện
+Unemployment	thất nghiệp
+Unexpected	bất ngờ
+Unfair	không công bằng
+Unfold	mở ra
+Unfortunately	không may
+Unhappy	không vui
+Uniform	đồng phục
+Union	liên hiệp
+Unique	độc nhất
+Unit	đơn vị
+Unite	thống nhất
+United	United
+Unity	thống nhất
+Universal	phổ cập
+Universe	vũ trụ
+University	trường đại học
+Unknown	không xác định
+Unless	trừ khi
+Unlike	không giống
+Unlikely	không chắc
+Unprecedented	chưa từng có
+Until	cho đến
+Unusual	bất thường
+Up	lên
+Update	cập nhật
+Upon	trên
+Upper	phía trên
+Upset	buồn bã
+Upstairs	tầng trên
+Urban	đô thị
+Urge	thúc giục
+Us	chúng tôi
+Use	sử dụng
+Used	đã sử dụng
+Useful	hữu ích
+User	người dùng
+Usual	thường lệ
+Usually	thông thường
+Utility	tiện ích
+Utilize	sử dụng
+Vacation	kỳ nghỉ
+Vaccine	vắc-xin
+Vacuum	Khoảng chân không
+Valid	có hiệu lực
+Validity	hiệu lực
+Valley	thung lũng
+Valuable	quý giá
+Value	giá trị
+Van	van
+Vanish	biến mất
+Variable	biến
+Variation	biến thể
+Variety	đa dạng
+Various	nhiều
+Vary	thay đổi
+Vast	rộng lớn
+Vegetable	rau
+Vehicle	phương tiện
+Vendor	nhà cung cấp
+Venture	liên doanh
+Verbal	lời nói
+Verdict	bản án
+Version	phiên bản
+Versus	đấu với
+Vertical	theo chiều dọc
+Very	rất
+Vessel	tàu
+Veteran	cựu chiến binh
+Via	thông qua
+Victim	nạn nhân
+Victory	chiến thắng
+Video	video
+View	lượt xem
+Viewer	người xem
+Village	làng
+Violate	xâm phạm
+Violation	sự vi phạm
+Violence	bạo lực
+Violent	hung bạo
+Virtual	ảo
+Virtually	hầu như
+Virtue	Đức hạnh
+Virus	virus
+Visible	có thể nhìn thấy
+Vision	tầm nhìn
+Visit	chuyến thăm
+Visitor	khách thăm quan
+Visual	trực quan
+Vital	quan trọng
+Vitamin	vitamin
+Vocal	tiếng hát
+Voice	tiếng nói
+Volume	âm lượng
+Voluntary	tình nguyện
+Volunteer	Tình nguyện
+Vote	bỏ phiếu
+Voter	cử tri
+Voting	bầu cử
+Vs	vs
+Vulnerable	dễ bị tổn thương
+Wage	tiền lương
+Wagon	toa xe
+Waist	eo
+Wait	chờ đợi
+Wake	đánh thức
+Wake	đánh thức
+Walk	đi bộ
+Walking	đi dạo
+Wall	Tường
+Wander	đi lang thang
+Want	muốn
+War	chiến tranh
+Warehouse	Kho
+Warm	ấm áp
+Warmth	ấm áp
+Warn	cảnh báo
+Warning	cảnh báo
+Warrior	chiến binh
+Wash	rửa
+Waste	chất thải
+Watch	đồng hồ đeo tay
+Water	Nước
+Wave	làn sóng
+Way	đường
+We	chúng tôi
+Weak	Yếu
+Weaken	làm suy yếu
+Weakness	yếu đuối
+Wealth	sự giàu có
+Wealthy	giàu có
+Weapon	vũ khí
+Wear	mặc
+Weather	thời tiết
+Weave	dệt
+Web	web
+Wedding	lễ cưới
+Weed	cỏ dại
+Week	tuần
+Weekend	ngày cuối tuần
+Weekly	hàng tuần
+Weigh	cân
+Weight	cân nặng
+Weird	kỳ dị
+Welcome	chào mừng
+Welfare	phúc lợi
+Well	tốt
+Well-being	hạnh phúc
+Well-known	nổi tiếng
+West	hướng Tây
+Western	miền Tây
+Wet	ướt
+Whale	cá voi
+What	gì
+Whatever	bất cứ điều gì
+Wheat	lúa mì
+Wheel	bánh xe
+Wheelchair	xe lăn
+When	khi nào
+Whenever	bất cứ khi nào
+Where	Ở đâu
+Whereas	trong khi
+Wherever	ở đâu
+Whether	liệu
+Which	mà
+While	trong khi
+Whip	roi da
+Whisper	thì thầm
+White	trắng
+Who	người nào
+Whoever	bất cứ ai
+Whole	toàn thể
+Whom	ai
+Whose	có
+Why	tại sao
+Wide	rộng
+Widely	rộng rãi
+Widespread	phổ biến rộng rãi
+Widow	Người đàn bà góa
+Wife	người vợ
+Wild	hoang dã
+Wilderness	hoang dã
+Wildlife	động vật hoang dã
+Will	sẽ
+Willing	sẵn lòng
+Willingness	sự sẵn lòng
+Win	thắng lợi
+Wind	gió
+Window	cửa sổ
+Wine	rượu nho
+Wing	canh
+Winner	người chiến thắng
+Winter	mùa đông
+Wipe	lau
+Wire	dây điện
+Wisdom	sự khôn ngoan
+Wise	khôn ngoan
+Wish	muốn
+With	với
+Withdraw	thu hồi
+Withdrawal	thu hồi
+Within	bên trong
+Without	không có
+Witness	nhân chứng
+Wolf	chó sói
+Woman	đàn bà
+Wonder	ngạc nhiên
+Wonderful	Tuyệt vời
+Wood	gỗ
+Wooden	bằng gỗ
+Word	từ
+Work	công việc
+Worker	công nhân
+Working	đang làm việc
+Workout	tập thể dục
+Workplace	nơi làm việc
+Works	công trinh
+Workshop	xưởng
+World	thế giới
+Worldwide	trên toàn thế giới
+Worried	lo lắng
+Worry	lo
+Worth	giá trị
+Would	sẽ
+Wound	vết thương
+Wow	wow
+Wrap	bọc
+Wrist	cổ tay
+Write	viết
+Writer	nhà văn
+Writing	viết
+Written	bằng văn bản
+Wrong	sai rồi
+Yard	sân
+Yeah	yeah
+Year	năm
+Yell	hét lên
+Yellow	màu vàng
+Yes	Vâng
+Yesterday	hôm qua
+Yet	chưa
+Yield	năng suất
+You	bạn
+Young	trẻ
+Youngster	thiếu niên
+Your	của bạn
+Yours	của bạn
+Yourself	bản thân bạn
+Youth	thiếu niên
+Zone	vùng

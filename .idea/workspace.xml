@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="new version -commit">
+    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="chinh sua 1 chut -commit">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/google_api_translate_java_0_97.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary_UET.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary_UET.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/ControllerEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/ControllerEdit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/ControllerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/ControllerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/FXML/editUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/FXML/editUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dictionary/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/Dictionary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Dictionary/DictionaryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/DictionaryManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +97,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Application.Main" />
       <module name="Dictionary_UET" />
-      <option name="VM_PARAMETERS" value="--module-path C:\Users\hue\Documents\JavaFX\javafx-sdk-17.0.0.1\lib --add-modules javafx.controls,javafx.fxml" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\hue\Documents\JavaFX\javafx-sdk-17.0.0.1\lib --add-modules javafx.controls,javafx.fxml,javafx.media" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Application.*" />
@@ -191,7 +197,16 @@
       <workItem from="1634306847314" duration="773000" />
       <workItem from="1634307752866" duration="195000" />
       <workItem from="1634346646227" duration="1939000" />
-      <workItem from="1634352261492" duration="3546000" />
+      <workItem from="1634352261492" duration="3848000" />
+      <workItem from="1634358196644" duration="1660000" />
+      <workItem from="1634371209873" duration="3129000" />
+      <workItem from="1634384033967" duration="783000" />
+      <workItem from="1634394860028" duration="18000" />
+      <workItem from="1634446314676" duration="1517000" />
+      <workItem from="1634463637844" duration="211000" />
+      <workItem from="1634463958116" duration="1900000" />
+      <workItem from="1634527582212" duration="61000" />
+      <workItem from="1634546693030" duration="4209000" />
     </task>
     <task id="LOCAL-00001" summary="Da hoan thanh, chi thieu 5k tu o dictionaries.txt -commit">
       <created>1634304775966</created>
@@ -207,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634307557451</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chinh sua 1 chut -commit">
+      <created>1634356087002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634356087002</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +250,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Da hoan thanh, chi thieu 5k tu o dictionaries.txt -commit" />
     <MESSAGE value="new version -commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version -commit" />
+    <MESSAGE value="them 1 chut -commit" />
+    <MESSAGE value="chinh sua 1 chut -commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="chinh sua 1 chut -commit" />
   </component>
 </project>

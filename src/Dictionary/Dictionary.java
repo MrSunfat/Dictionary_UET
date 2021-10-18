@@ -84,6 +84,7 @@ public class Dictionary {
                 return mid;
             }
 
+            // tim index of wordTarget > wordSeach => tim nua mang con lai <= wordSearch
             if (words.get(mid).getWord_target().compareToIgnoreCase(wordSearch) > 0) {
                 return binarySearch(wordList, l, mid - 1, wordSearch);
             }
@@ -91,5 +92,9 @@ public class Dictionary {
         }
 
         return -1;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("-12".compareToIgnoreCase("0"));
     }
 }
