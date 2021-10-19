@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="chinh sua 1 chut -commit">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/google_api_translate_java_0_97.xml" beforeDir="false" />
+    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="them nhac mo app -commit">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dictionary_UET.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary_UET.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/ControllerEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/ControllerEdit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/ControllerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/ControllerMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/FXML/editUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/FXML/editUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/FXML/helpUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/FXML/helpUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/FXML/mainUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/FXML/mainUI.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dictionary/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/Dictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dictionary/DictionaryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/DictionaryManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +43,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Các bản từ điển tham khảo/Dictionary_UET" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/JavaFX/json-simple-1.1.1.jar" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.122249365" />
@@ -207,6 +209,12 @@
       <workItem from="1634463958116" duration="1900000" />
       <workItem from="1634527582212" duration="61000" />
       <workItem from="1634546693030" duration="4209000" />
+      <workItem from="1634551040180" duration="243000" />
+      <workItem from="1634564994728" duration="86000" />
+      <workItem from="1634565976051" duration="221000" />
+      <workItem from="1634572053664" duration="1697000" />
+      <workItem from="1634574471083" duration="3097000" />
+      <workItem from="1634603283400" duration="3618000" />
     </task>
     <task id="LOCAL-00001" summary="Da hoan thanh, chi thieu 5k tu o dictionaries.txt -commit">
       <created>1634304775966</created>
@@ -229,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634356087002</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="them nhac mo app -commit">
+      <created>1634551117059</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634551117059</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +267,7 @@
     <MESSAGE value="new version -commit" />
     <MESSAGE value="them 1 chut -commit" />
     <MESSAGE value="chinh sua 1 chut -commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="chinh sua 1 chut -commit" />
+    <MESSAGE value="them nhac mo app -commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="them nhac mo app -commit" />
   </component>
 </project>

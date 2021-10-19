@@ -14,7 +14,7 @@
             <Font name="System Bold" size="24.0" />
          </font>
       </Label>
-      <Text layoutX="28.0" layoutY="104.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Trong cửa sổ chính, nhập từ tiếng Anh vào ô tìm kiếm, rồi phím Enter hoặc nhấn Search để tìm nghĩa tiếng tiếng Việt. Nhấn icon chiếc loa để nghe cách phát âm của từ tiếng Anh đó." wrappingWidth="550.0">
+      <Text layoutX="28.0" layoutY="104.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Trong cửa sổ chính, nhập từ tiếng Anh vào ô tìm kiếm, rồi phím Enter để tìm nghĩa một từ hoặc nhấn Search để tìm nghĩa cả một câu. Nhấn icon chiếc loa để nghe cách phát âm của từ tiếng Anh đó." wrappingWidth="550.0">
          <font>
             <Font name="Arial" size="18.0" />
          </font>

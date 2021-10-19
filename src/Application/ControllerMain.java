@@ -23,11 +23,16 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.HBox;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
 
 import java.io.IOException;
+import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.ResourceBundle;
+import java.util.Scanner;
 
 
 public class ControllerMain implements Initializable {
@@ -74,6 +79,7 @@ public class ControllerMain implements Initializable {
         // bat su kien khi nhap tu tim kiem
         inputWord.textProperty().addListener(((observableValue, oldValue, newValue) -> {
             try {
+                // xoa het items of wordList trước
                 wordList.getItems().clear();
 
                 // lay ra tu vung tu Dictionary.DictionaryManagement
@@ -151,6 +157,51 @@ public class ControllerMain implements Initializable {
             Word element = wordList.getWords().get(indexWord);
             wordTarget.setText(element.getWord_target());
             wordExplain.setText(element.getWord_explain());
+        }
+    }
+
+    public void searchUsingAPI(ActionEvent actionEvent) {
+        try {
+            //Public API:
+            //https://api.tracau.vn/WBBcwnwQpV89/s/{vocabulary}/en
+            String inputWordText = trimWord(inputWord.getText());
+            inputWordText = ControllerEdit.formatWord(inputWordText);
+            URL url = new URL("https://api.tracau.vn/WBBcwnwQpV89/s/" + inputWordText + "/en");
+
+            HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+            conn.setRequestMethod("GET");
+            conn.connect();
+
+            // day la status-code trong http protocol
+            int responseCode = conn.getResponseCode();
+
+            // 200 OK => Yeu cau dc xu ly thanh cong !!
+            if (responseCode != 200 || responseCode == 404) {
+                wordTarget.setText(inputWordText);
+                wordExplain.setText("Xin lỗi, chúng tôi không thể tìm thấy nghĩa của câu này !!");
+            } else {
+
+                StringBuilder informationString = new StringBuilder();
+                Scanner scanner = new Scanner(url.openStream());
+
+                while (scanner.hasNext()) {
+                    informationString.append(scanner.nextLine());
+                }
+
+                // chuyen JSON -> Object
+                JSONParser parser = new JSONParser();
+                JSONObject dataObject = (JSONObject) parser.parse(String.valueOf(informationString));
+
+                // tim den vi tri cua JSONObject dang luu tru en, vi
+                JSONArray sentencesData = (JSONArray) dataObject.get("sentences");
+                JSONObject fields = (JSONObject) sentencesData.get(1);
+                JSONObject means = (JSONObject) fields.get("fields");
+
+                wordTarget.setText(inputWordText);
+                wordExplain.setText((String) means.get("vi"));
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 
