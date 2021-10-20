@@ -219,6 +219,7 @@
       <workItem from="1634726503326" duration="957000" />
       <workItem from="1634727480877" duration="133000" />
       <workItem from="1634727642233" duration="306000" />
+      <workItem from="1634727981263" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="Da hoan thanh, chi thieu 5k tu o dictionaries.txt -commit">
       <created>1634304775966</created>
@@ -276,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634727838554</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="sua giao dien v2 -commit">
+      <created>1634728003326</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634728003327</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
