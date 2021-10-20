@@ -2,12 +2,24 @@
   <library name="lib">
     <CLASSES>
       <root url="file://$USER_HOME$/Documents/JavaFX/javafx-sdk-17.0.0.1/lib" />
+      <root url="file://$PROJECT_DIR$/../app/javafx-sdk-17.0.0.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/abc" />
+      <root url="file://$USER_HOME$/Downloads/abc" />
+      <root url="file://$USER_HOME$/Downloads/abc" />
+      <root url="file://$USER_HOME$/Downloads/abc/freetts-1.2/lib" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/abc/freetts-1.2/javadoc" />
+    </JAVADOC>
     <SOURCES>
       <root url="file://$USER_HOME$/Documents/JavaFX/javafx-sdk-17.0.0.1/lib" />
     </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../app/javafx-sdk-17.0.0.1/lib" recursive="false" />
     <jarDirectory url="file://$USER_HOME$/Documents/JavaFX/javafx-sdk-17.0.0.1/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/abc" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/abc" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/abc" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/abc/freetts-1.2/lib" recursive="false" />
     <jarDirectory url="file://$USER_HOME$/Documents/JavaFX/javafx-sdk-17.0.0.1/lib" recursive="false" type="SOURCES" />
   </library>
 </component>

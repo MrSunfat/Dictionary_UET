@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="">
+    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="sua giao dien v2 -commit">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/ControllerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/ControllerMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/FXML/editUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/FXML/editUI.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/FXML/mainUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/FXML/mainUI.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/JavaFX/json-simple-1.1.1.jar" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/abc/freetts-1.2/lib" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.122249365" />
@@ -96,7 +94,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Application.Main" />
       <module name="Dictionary_UET" />
-      <option name="VM_PARAMETERS" value="--module-path C:\Users\hue\Documents\JavaFX\javafx-sdk-17.0.0.1\lib --add-modules javafx.controls,javafx.fxml,javafx.media" />
+      <option name="VM_PARAMETERS" value="--module-path C:\app\javafx-sdk-17.0.0.1\lib --add-modules javafx.controls,javafx.fxml,javafx.media" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Application.*" />
@@ -221,6 +219,9 @@
       <workItem from="1634717056028" duration="6469000" />
       <workItem from="1634723635868" duration="175000" />
       <workItem from="1634725541821" duration="629000" />
+      <workItem from="1634726503326" duration="957000" />
+      <workItem from="1634727480877" duration="133000" />
+      <workItem from="1634727642233" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="Da hoan thanh, chi thieu 5k tu o dictionaries.txt -commit">
       <created>1634304775966</created>
@@ -264,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634717949366</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="sua giao dien v2 -commit">
+      <created>1634726558231</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634726558231</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +299,7 @@
     <MESSAGE value="them tra cau bang API -commit" />
     <MESSAGE value="them -commit" />
     <MESSAGE value="sua giao dien -commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="sua giao dien -commit" />
+    <MESSAGE value="sua giao dien v2 -commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="sua giao dien v2 -commit" />
   </component>
 </project>
