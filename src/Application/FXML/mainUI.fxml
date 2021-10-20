@@ -15,7 +15,7 @@
   <items>
     <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
          <children>
-            <TextField fx:id="inputWord" layoutX="8.0" layoutY="64.0" onAction="#searchWord" prefHeight="34.0" prefWidth="161.0" promptText="Nhập từ tiếng Anh ..." style="-fx-border-radius: 5px; -fx-border-color: #033566;" AnchorPane.leftAnchor="9.0" AnchorPane.rightAnchor="68.0">
+            <TextField fx:id="inputWord" layoutX="8.0" layoutY="64.0" onAction="#searchWord" prefHeight="34.0" prefWidth="161.0" promptText="Nhập từ tiếng Anh ..." style="-fx-border-radius: 5px; -fx-border-color: #583993;" AnchorPane.leftAnchor="9.0" AnchorPane.rightAnchor="68.0">
                <font>
                   <Font size="14.0" />
                </font></TextField>
@@ -23,7 +23,7 @@
                <cursor>
                   <Cursor fx:constant="HAND" />
                </cursor></ListView>
-            <Pane layoutY="31.0" prefHeight="27.0" prefWidth="238.0" styleClass="option">
+            <Pane layoutY="31.0" prefHeight="27.0" prefWidth="238.0" style="-fx-background-color: #5D30C1;" styleClass="option">
                <children>
                   <Button layoutX="16.0" layoutY="1.0" mnemonicParsing="false" styleClass="btn" text="Search" textFill="WHITE">
                      <cursor>
@@ -42,7 +42,7 @@
                   </Button>
                </children>
             </Pane>
-            <Button layoutX="166.0" layoutY="64.0" mnemonicParsing="false" onAction="#searchUsingAPI" prefHeight="33.0" prefWidth="62.0" style="-fx-background-color: #033566; -fx-text-fill: #fff;" text="Search">
+            <Button layoutX="166.0" layoutY="64.0" mnemonicParsing="false" onAction="#searchUsingAPI" prefHeight="33.0" prefWidth="62.0" style="-fx-background-color: #583993; -fx-text-fill: #fff;" text="Search">
                <font>
                   <Font name="System Bold" size="12.0" />
                </font>
@@ -50,11 +50,11 @@
                   <Cursor fx:constant="HAND" />
                </cursor>
             </Button>
-            <HBox fx:id="titleApp" alignment="CENTER" layoutX="-5.0" prefHeight="31.0" prefWidth="246.0" style="-fx-background-color: #033566;" />
+            <HBox fx:id="titleApp" alignment="CENTER" layoutX="-5.0" prefHeight="31.0" prefWidth="246.0" style="-fx-background-color: #5D30C1;" />
          </children></AnchorPane>
     <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
          <children>
-            <Pane prefHeight="58.0" prefWidth="648.0" styleClass="titleDescription">
+            <Pane prefHeight="58.0" prefWidth="648.0" style="-fx-background-color: #5D30C1;" styleClass="titleDescription">
                <children>
                   <HBox fx:id="denification" alignment="CENTER_LEFT" layoutX="126.0" layoutY="27.0" prefHeight="34.0" prefWidth="161.0" />
                </children></Pane>

@@ -55,6 +55,7 @@ public class ControllerMain implements Initializable {
     @FXML
     private Label wordExplain;
 
+    // tao ra 1 list tu goi y
     @FXML
     private ListView<String> wordList = new ListView<String>();
 
