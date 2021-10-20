@@ -516,7 +516,6 @@ Button	nút
 Buy	mua
 Buyer	người mua
 By	bởi
-Crack	bẻ khóa
 Cab	taxi
 Cabin	khoang cabin
 Cabinet	buồng
@@ -912,6 +911,7 @@ Cousin	anh chị em họ
 Cover	che
 Coverage	phủ sóng
 Cow	bò
+Crack	bẻ khóa
 Craft	nghề thủ công
 Crash	tai nạn
 Crawl	thu thập thông tin
@@ -1894,6 +1894,7 @@ Household	hộ gia đình
 Housing	nhà ở
 How	làm sao
 However	Tuy nhiên
+Hp	hãng máy tính hp
 Hug	ôm
 Huge	khổng lồ
 Huh	Huh
@@ -2257,7 +2258,7 @@ Listener	người nghe
 Literally	nghĩa đen
 Literary	văn chương
 Literature	văn chương
-Little	ít
+Little	một ít
 Live	trực tiếp
 Liver	Gan
 Living	sống

@@ -31,9 +31,9 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage){
         try {
+
             // Nap du lieu tu file vao -> dictionary
             DictionaryManagement.insertFromFile();
-
             mediaPlayer.play();
 
             Parent root = FXMLLoader.load(getClass().getResource("FXML/mainUI.fxml"));

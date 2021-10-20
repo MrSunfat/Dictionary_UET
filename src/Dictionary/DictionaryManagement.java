@@ -113,6 +113,8 @@ public class DictionaryManagement {
             System.out.println("Failure !!!");
 
         }
+        int dictionarySize = dictionary.getWords().size();
+        Dictionary.sortWord(dictionary, 0, dictionarySize - 1);
     }
 
     public static void deleteWord() {
@@ -160,7 +162,6 @@ public class DictionaryManagement {
 
     public static void dictionaryExportToFile() {
         int dictionarySize = dictionary.getWords().size();
-        Dictionary.sortWord(dictionary, 0, dictionarySize - 1);
         try {
             FileWriter fw = new FileWriter("dictionaries.txt");
             BufferedWriter buff = new BufferedWriter(fw);

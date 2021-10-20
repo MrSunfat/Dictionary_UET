@@ -129,6 +129,9 @@ public class ControllerEdit implements Initializable {
 
             // them tu vung moi vao tu dien
             wordList.getWords().add(new Word(wordTarget, wordExplain));
+
+            Dictionary dictionary = DictionaryManagement.getDictionary();
+            Dictionary.sortWord(dictionary, 0, dictionary.getWords().size() - 1);
             DictionaryManagement.dictionaryExportToFile();
             editWordTarget.setText("");
             editWordExplain.setText("");
