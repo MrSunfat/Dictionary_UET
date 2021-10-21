@@ -144,6 +144,9 @@ public class ControllerMain implements Initializable {
 
     public void searchWord(ActionEvent actionEvent) {
         String inputWordText = trimWord(inputWord.getText());
+        
+        // check tu gan dung neu inputWordText co van de
+        inputWordText = DictionaryManagement.spelling(inputWordText);
 
         Dictionary wordList = DictionaryManagement.getDictionary();
         int dictionarySize = wordList.getWords().size();
