@@ -175,6 +175,38 @@ public class DictionaryManagement {
             e.printStackTrace();
         }
     }
+    
+    public static boolean checkMaxChars(String str, String word) {
+        int m = str.length(), n = word.length();
+        // chay index cua chuoi str
+        int j = 0;
+
+        for (int i = 0; i < n && j < m; i++) {
+            if (str.charAt(j) == word.charAt(i)) {
+                j++;
+            }
+        }
+//        System.out.println(j);
+        // tra lai true neu word co du ky tu trong str
+        return j == m ? true : false;
+    }
+
+    public static String spelling(String word) {
+        String res = "";
+        // luu do dai cua tu gan nhat
+        int maxOfWord = 0;
+
+        for (int i = 0; i < dictionary.getWords().size(); i++) {
+            String element = dictionary.getWords().get(i).getWord_target().toLowerCase();
+            System.out.println(element+" "+ checkMaxChars(element, word));
+            if (maxOfWord < element.length() && DictionaryManagement.checkMaxChars(element, word)) {
+                res = element;
+                maxOfWord = element.length();
+            }
+        }
+
+        return res;
+    }
 
     public static void main(String[] args) throws IOException {
 //        insertFromCommandline();
