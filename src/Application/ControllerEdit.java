@@ -86,10 +86,12 @@ public class ControllerEdit implements Initializable {
         });
 
         tableView.getSelectionModel().selectedItemProperty().addListener((observableValue, oldValue, newValue) -> {
-            String wordTarget = newValue.getWord_target();
 
-            inputEditWord.setText(wordTarget);
-            deleteWord.setText(wordTarget);
+            if (newValue != null) {
+                String wordTarget = newValue.getWord_target();
+                inputEditWord.setText(wordTarget);
+                deleteWord.setText(wordTarget);
+            }
         });
     }
 

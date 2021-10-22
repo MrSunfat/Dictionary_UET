@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="sua giao dien lan 2 -commit">
+    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="xoa nhac phen phen -commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/khoiDong.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dictionary/DictionaryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/DictionaryManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/ControllerEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/ControllerEdit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634728137239</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="xoa nhac phen phen -commit">
+      <created>1634866472503</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1634866472503</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +331,7 @@
     <MESSAGE value="sua giao dien -commit" />
     <MESSAGE value="sua giao dien v2 -commit" />
     <MESSAGE value="sua giao dien lan 2 -commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="sua giao dien lan 2 -commit" />
+    <MESSAGE value="xoa nhac phen phen -commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="xoa nhac phen phen -commit" />
   </component>
 </project>
