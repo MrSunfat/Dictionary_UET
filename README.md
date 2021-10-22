@@ -25,3 +25,7 @@ Các chứ năng chính của ứng dụng:
 - Để thực hiện xóa, chọn sang phần xóa từ vựng và nhập từ cần xóa (tiếng Anh), nháy chuột vào nút xóa để thực hiện xóa từ. 
 
   
+Chú ý: khi muốn chạy project cần thêm thư viện:
+http://www.java2s.com/Code/Jar/j/Downloadjsonsimple111jar.htm
+https://sourceforge.net/projects/freetts/files/
+https://gluonhq.com/products/javafx/
