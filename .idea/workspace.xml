@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="sua giao dien lan 2 -commit" />
+    <list default="true" id="434ce5cb-2f67-409c-8b71-7b9a354dd79a" name="Changes" comment="sua giao dien lan 2 -commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/khoiDong.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dictionary/DictionaryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/DictionaryManagement.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +97,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Application.Main" />
       <module name="Dictionary_UET" />
-      <option name="VM_PARAMETERS" value="--module-path C:\app\javafx-sdk-17.0.0.1\lib --add-modules javafx.controls,javafx.fxml,javafx.media" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\hue\Documents\JavaFX\javafx-sdk-17.0.0.1\lib --add-modules javafx.controls,javafx.fxml,javafx.media" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Application.*" />

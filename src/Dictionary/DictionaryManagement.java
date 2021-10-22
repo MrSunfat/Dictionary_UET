@@ -198,7 +198,6 @@ public class DictionaryManagement {
 
         for (int i = 0; i < dictionary.getWords().size(); i++) {
             String element = dictionary.getWords().get(i).getWord_target().toLowerCase();
-            System.out.println(element+" "+ checkMaxChars(element, word));
             if (maxOfWord < element.length() && DictionaryManagement.checkMaxChars(element, word)) {
                 res = element;
                 maxOfWord = element.length();

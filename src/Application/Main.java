@@ -23,18 +23,12 @@ public class Main extends Application {
         launch(args);
     }
 
-    // tieng nghac khi mo app
-    String pathMusic = "khoiDong.mp3";
-    Media media = new Media(new File(pathMusic).toURI().toString());
-    MediaPlayer mediaPlayer = new MediaPlayer(media);
-
     @Override
     public void start(Stage primaryStage){
         try {
 
             // Nap du lieu tu file vao -> dictionary
             DictionaryManagement.insertFromFile();
-            mediaPlayer.play();
 
             Parent root = FXMLLoader.load(getClass().getResource("FXML/mainUI.fxml"));
             Scene scene = new Scene(root);
